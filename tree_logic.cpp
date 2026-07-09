@@ -1,5 +1,6 @@
 #include <string>
 #include <iostream>
+#include <vector>
 
 struct Billionaire {
     std::string name;
@@ -44,4 +45,10 @@ void printInOrder(Node* root) {
               << ") - $" << root->data.netWorth << "B - rank " << root->data.rank
               << " - age " << root->data.age << " - " << root->data.year << "\n";
     printInOrder(root->right);
+}
+
+void breadthfirstSearch(Node* root, int level, vector<vector<Billionaire>>& result) {
+    if (root == nullptr) {
+        return;
+    }
 }
