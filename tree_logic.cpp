@@ -2,6 +2,8 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
+
 struct Billionaire {
     std::string name;
     int rank;
@@ -47,8 +49,40 @@ void printInOrder(Node* root) {
     printInOrder(root->right);
 }
 
-void breadthfirstSearch(Node* root, int level, vector<vector<Billionaire>>& result) {
+void breadthfirstSearch(Node* root, int level, vector<vector<Billionaire>>& result, int searchWorth) {
     if (root == nullptr) {
         return;
     }
+    if (result[level].empty()) {
+        result[level].push_back({});
+    }
+    if (root->data.netWorth == searchWorth) {
+        result[level].push_back({});
+    }
+    breadthfirstSearch(root->left, level + 1, result, searchWorth);
+    breadthfirstSearch(root->right, level + 1, result, searchWorth);
+}
+
+vector<vector<Billionaire>> breadthfirstSearch(Node* root, int level, int searchWorth) {
+    vector<vector<Billionaire>> result;
+    breadthfirstSearch(root, 0, result, searchWorth);
+    return result;
+}
+
+
+void depthfirstSearch(Node* root, int searchWorth, vector<Billionaire>& result) {
+    if (root == nullptr) {
+        return;
+    }
+    if (searchWorth == root->data.netWorth) {
+        result.push_back(root->data);
+    }
+    depthfirstSearch(root->left, searchWorth, result);
+    depthfirstSearch(root->right, searchWorth, result);
+}
+
+vector<Billionaire> depthfirstSearch(Node* root, int searchWorth) {
+    vector<Billionaire> result;
+    depthfirstSearch(root, searchWorth, result);
+    return result;
 }
