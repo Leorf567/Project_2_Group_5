@@ -6,8 +6,8 @@
 - [Features & Algorithms](#features--algorithms)
 - [Requirements](#requirements)
 - [Build Instructions](#build-instructions)
-- [Authors](#authors)
 - [Running the Code](#running-the-code)
+- [Authors](#authors)
   
 ## Project Overview
 This C++ data project compares binary tree search algorithms performances. It parses a text file entries into a Binary Search Tree sorted by net worth and contrasts Depth-First Search and Breadth-First Search execution times.
