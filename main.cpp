@@ -2,6 +2,7 @@
 #include <vector>
 #include <string>
 #include "billionaire.h"
+
 using namespace std;
 
 struct Node {
@@ -22,7 +23,6 @@ Node* insert(Node* root, Billionaire b) {
     if (root == nullptr) {
         return newNode(b);
     }
-    // Now splits the tree alphabetically by country instead of net worth
     if (b.country < root->data.country) {
         root->left = insert(root->left, b);
     } else {
@@ -35,7 +35,6 @@ double wealthToGdpPercent(const Billionaire& b) {
     if (b.gdp <= 0) {
         return 0.0;
     }
-    // netWorth is in billions, gdp is in raw dollars
     return (b.netWorth * 1000000000.0 / b.gdp) * 100.0;
 }
 
@@ -86,21 +85,41 @@ vector<Billionaire> depthfirstSearch(Node* root, string searchCountry) {
     return result;
 }
 
+
+void compareGdpImpact(Node* root, const string& countryName) {
+    vector<Billionaire> res = depthfirstSearch(root, countryName);
+    if (res.empty()) return;
+
+    Billionaire maxB = res[0];
+    for (const auto& b : res) {
+        if (wealthToGdpPercent(b) > wealthToGdpPercent(maxB)) {
+            maxB = b;
+        }
+    }
+    cout << " - " << countryName << ": " << maxB.name << " owns "
+         << wealthToGdpPercent(maxB) << "% of the national GDP ($" << maxB.netWorth << "B)\n";
+}
+
+
 int main() {
     cout << "--- LOADING REAL DATASET ---\n";
-    vector<Billionaire> database = loadBillionaireData("billionaires_corrected.txt");
+    vector<Billionaire> database = loadBillionaireData("billionaires_flat.txt");
+
     if (database.empty()) {
         cout << "Error: Database is empty. Could not load file.\n";
         return 1;
     }
+
     Node* root = nullptr;
     for (const auto& b : database) {
         root = insert(root, b);
     }
     cout << "Successfully inserted " << database.size() << " records into the Binary Search Tree!\n";
+
     Billionaire targetTest = database[0];
     string targetCountry = targetTest.country;
     cout << "\n--- RUNNING BFS TEST FOR COUNTRY: " << targetCountry << " ---\n";
+
     vector<vector<Billionaire>> bfsResult = breadthfirstSearch(root, targetCountry);
     for (int i = 0; i <= 2; ++i) {
         cout << "\nLevel " << i << " Results:\n";
@@ -114,5 +133,15 @@ int main() {
             }
         }
     }
+    cout << "\n--- WEALTH TO GDP COMPARISON (DEVELOPED VS DEVELOPING) ---\n";
+
+    cout << "[Developed Nations (US & Europe)]\n";
+    compareGdpImpact(root, "United States");
+    compareGdpImpact(root, "United Kingdom");
+
+    cout << "\n[Developing Nations]\n";
+    compareGdpImpact(root, "Mexico");
+    compareGdpImpact(root, "Nigeria");
+
     return 0;
 }
