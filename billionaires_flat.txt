@@ -1,0 +1,2615 @@
+Name	Rank	Year	Company	Sector	Age	Net_Worth_Billions
+Bill Gates	1	1996	Microsoft	 Software	40	18.5
+Bill Gates	1	2001	Microsoft	 Software	45	58.7
+Bill Gates	1	2014	Microsoft	 Software	58	76.0
+Warren Buffett	2	1996	Berkshire Hathaway	 Finance	65	15.0
+Warren Buffett	2	2001	Berkshire Hathaway	 Finance	70	32.3
+Carlos Slim Helu	2	2014	Telmex	 Communications	74	72.0
+Oeri Hoffman and Sacher	3	1996	F. Hoffmann-La Roche	pharmaceuticals	0	13.1
+Paul Allen	3	2001	Microsoft	technology	48	30.4
+Amancio Ortega	3	2014	Zara	Fashion	77	64.0
+Lee Shau Kee	4	1996	Henderson Land Development	real estate	68	12.7
+Larry Ellison	4	2001	Oracle	 software	56	26.0
+Warren Buffett	4	2014	Berkshire Hathaway	 Finance	83	58.2
+Tsai Wan-lin	5	1996	Lin Yuan Group	banking and insurance	71	12.2
+Theo and Karl Albrecht	5	2001	Aldi	groceries	0	25.0
+Larry Ellison	5	2014	Oracle	 software	69	48.0
+Walter Thomas and Raymond Kwok	6	1996	Sun Hung Kai Properties	real estate	0	11.2
+Prince Alwaleed Bin Talal Alsaud	6	2001	Kingdom Holding Company	construction/real estate/banking	44	20.0
+Charles Koch	6	2014	Koch industries	  Oil refining	78	40.0
+David Koch	6	2014	Koch industries	 Oil refining	73	40.0
+Li Ka-shing	7	1996	Cheung king	real estate	67	10.6
+Jim Walton	7	2001	Walmart	retail	53	18.8
+Yoshiaki Tsutsumi	8	1996	Seibu Corporation	real estate	61	9.2
+John Walton	8	2001	Walmart	 retail	55	18.7
+Sheldon Adelson	8	2014	Las Vegas Sands	 casinos	80	38.0
+Theo and Karl Albrecht	9	1996	Aldi Nord	groceries	0	9.0
+S Robson Walton	9	2001	Walmart	retail	57	18.6
+Christy Walton	9	2014	Walmart	 retail	59	36.7
+Hans and Gad Rausing	10	1996	Tetra Pak	food packaging	0	9.0
+Alice Walton	10	2001	Walmart	retail	52	18.5
+Helen Walton	10	2001	Walmart	retail	81	18.5
+Jim Walton	10	2014	Walmart	retail	66	34.7
+Johanna Quandt	11	1996	BMW	cars	68	8.1
+Liliane Bettencourt	11	2014	L'Oreal	cosmetics	91	34.5
+Haniel family	12	1996	Franz Haniel & Cie		0	8.1
+Johanna Quandt	12	2001	BMW	cars	73	17.8
+Stefan Persson	12	2014	 H&M	 fashion	66	34.4
+Paul Allen	13	1996	Microsoft	technology	43	7.5
+Steven Ballmer	13	2001	Microsoft	technology	44	16.6
+Alice Walton	13	2014	Walmart	retail	64	34.3
+Kenneth Thomson	14	1996	Thomson Corporation (now Thomson Reuters)	media	72	7.4
+Kenneth Thomson	14	2001	Thomson Corporation (now Thomson Reuters)	media	77	16.4
+S. Robson Walton	14	2014	Walmart	retail	70	34.2
+John Kluge	15	1996	Metropolitan Broadcasting Corporation	media	81	7.2
+Liliane Bettencourt	15	2001	L'Oreal	cosmetics	78	15.6
+Bernard Arnault	15	2014	LVMH	luxury goods	64	33.5
+Tan Yu	16	1996	Asiaworld Internationale Group	real estate	0	7.0
+Philip Anschutz	16	2001	Circle A Drilling	oil, railroad, investments	61	15.3
+Michael Bloomberg	16	2014	Bloomberg	 finance	72	33.0
+Wonowidjojo family	17	1996	Gudang Garam	cigarettes	0	6.7
+Ingvar Kamprad	17	2001	IKEA	furniture	74	13.0
+Larry Page	17	2014	Google	 technology	40	32.3
+Carlos Slim Helu	18	1996	Telmex	 Communications	56	6.1
+Li Ka-shing	18	2001	Cheung king	real estate	72	12.6
+Sumner Redstone	18	2001	National Amusements	media	77	12.6
+Jeff Bezos	18	2014	Amazon	 technology	50	32.0
+Larry Ellison	19	1996	Oracle	 software	51	6.0
+Sergey Brin	19	2014	Google	 technology	40	31.8
+Chung Ju-yung	20	1996	Hyundai Group	cars	0	5.9
+Leo Kirch	20	2001	Kirch Group	media	0	12.0
+Li Ka-shing	20	2014	Cheung Kong	real estate	85	31.0
+Gerard Mulliez	21	1996	Auchan	retail	0	5.7
+Anne Cox Chambers	21	2001	Cox Enterprises	media	81	11.7
+Barbara Cox Anthony	21	2001	Cox Enterprises	media	77	11.7
+Mark Zuckerberg	21	2014	 Facebook	 technology	29	28.5
+Robert Kuok	22	1996	Tana Exploration Company	oil	73	5.7
+Michele Ferrero	22	2014	Ferrero spa	chocolates	88	26.5
+Kwek Leng Beng	23	1996	Hong Leong Group	banking	55	5.7
+Walter Thomas and Raymond Kwok	23	2001	Sun Hung Kai Properties	real estate	0	11.5
+Aliko Dangote	23	2014	Dangote Group	commodities (sugar, cement flour)	56	25.0
+Karl Albrecht	23	2014	Aldi Sud	groceries	94	25.0
+Cheng Yu-tung	24	1996	Chow Tai Fook Enterprises	real estate	70	5.5
+John Kluge	24	2001	Metropolitan Broadcasting Corporation	media	86	10.9
+Walter Haefner	25	1996	Automation Center	computer services	85	5.5
+Carlos Slim Helu	25	2001	Telmex	 Communications	61	10.8
+Carl Icahn	25	2014	Icahn Enterprises	investment (via holding company)	78	24.5
+Philip Knight	26	1996	Nike	apparel	58	5.3
+Bernard Arnault	26	2001	LVMH	luxury goods	52	10.7
+George Soros	26	2014	Soros Fund Management	hedge funds	83	23.0
+Michael Otto	27	1996	Otto Group	mail order retail	52	5.2
+Ernesto Bertarelli	27	2001	Serono	pharmaceuticals	35	10.5
+Michael Dell	27	2001	Dell	technology	36	10.5
+David Thomson	27	2014	Thomson Corporation (now Thomson Reuters)	media	56	22.6
+Fong Teng	28	1996	Sino Group	real estate	0	5.2
+Lui Che Woo	28	2014	K. Wah Group	construction, hotels, gaming	84	22.0
+Robert and Ten Fong Ng	29	1996	Sino Group	real estate	0	5.2
+Silvio Berlusconi	29	2001	Fininvest	media	64	10.3
+Dieter Schwarz	29	2014	Schwarz Group	groceries	74	21.1
+Yasuo Takei	30	1996	Takefuji	finance	66	5.2
+Abigail Johnson	30	2001	Fidelity Investments	investment banking	39	9.1
+Prince Alwaleed Bin Talal Alsaud	30	2014	Kingdom Holding Company	construction/real estate/banking	58	20.4
+Antonio Ermirio de Moraes	31	1996	Votorantim Group	metals, paper, cement	0	5.1
+Forrest Mars Jr	31	2001	Mars, Incorperated	candy	69	9.0
+Jacqueline Mars	31	2001	Mars, Incorperated	candy	0	9.0
+John Mars	31	2001	Mars, Incorperated	candy	64	9.0
+Kirsten Rausing	31	2001	Tetra Pak	food packaging	0	9.0
+Forrest Mars, Jr.	31	2014	Mars, Incorperated	candy	82	20.0
+Jacqueline Mars	31	2014	Mars, Incorperated	candy	74	20.0
+John Mars	31	2014	Mars, Incorperated	candy	77	20.0
+Eka Tjipta Widjaja	32	1996	Sinar Mas Group	banking	0	5.1
+Liliane Bettencourt	33	1996	L'Oreal	cosmetics	73	5.0
+Merck family	34	1996	Merck	pharmaceuticals	0	5.0
+Jorge Paulo Lemann	34	2014	Ambev	investment banking/beer	74	19.7
+Silvio Berlusconi	35	1996	Fininvest	media	59	5.0
+Charles Ergen	35	2001	dish networtk	media	48	8.8
+Ted Turner	35	2001	CNN	media	62	8.8
+Lee Shau Kee	35	2014	Henderson Land Development	real estate	86	19.6
+Mohamed Salim Bin Mahfouz	36	1996	National Comercial bank of Saudi Arabia	banking	0	5.0
+Steve Ballmer	36	2014	Microsoft	technology	57	19.3
+Theo Albrecht, Jr.	36	2014	Aldi Nord	groceries	63	19.3
+Lee Kun-Hee	37	1996	Samsung	electronics	0	4.9
+Yasuo Takei	37	2001	Takefuji	finance	71	8.3
+John Walton	38	1996	Walmart	 retail	50	4.8
+Suliman Olayan	38	2001	General Contracting Company	oil infrastructure	0	8.0
+Leonardo Del Vecchio	38	2014	?Luxottica	glasses	78	19.2
+Jim Walton	39	1996	Walmart	retail	48	4.8
+Rupert Murdoch	39	2001	News Limited	media	70	7.8
+Len Blavatnik	39	2014	Renova Group	aluminum, oil	56	18.7
+Helen Walton	40	1996	Walmart	retail	76	4.7
+Hans Rausing	40	2001	Tetra Pak	food packaging	74	7.7
+Nobutada Saji	40	2001	Suntory	brewery	55	7.7
+Alisher Usmanov	40	2014	Metalloinvest	metals	60	18.6
+Mukesh Ambani	40	2014	Reliance	textiles	56	18.6
+Alice Walton	41	1996	Walmart	retail	47	4.7
+S Robson Walton	42	1996	Walmart	retail	52	4.7
+Azim Premji	42	2001	Wipro Limited	software	55	6.9
+Masayoshi Son	42	2014	Softbank	technology	56	18.4
+Michael Otto	42	2014	Otto Group	mail order retail	70	18.4
+Phil Knight	42	2014	Nike	apparel	76	18.4
+Henkel family	43	1996	Henkel AG	chemicals	0	4.6
+Amancio Ortega	43	2001	Zara	Fashion	65	6.6
+Leonardo Del Vecchio	43	2001	?Luxottica	glasses	65	6.6
+Masayoshi Son	44	1996	Softbank	technology	38	4.6
+Friedrich Flick	45	1996	Friedrich Flick Industrial Holding	coal	69	4.5
+Gerald Cavendish Grosvenor	45	2001	Grosvenor Group	real estate	49	6.5
+Tadashi Yanai	45	2014	Fast Retailing/Uniqlo	apparel	65	17.9
+Liem Sioe Liong	46	1996	Salim Group	consumer goods	0	4.5
+Kirk Kerkorian	46	2001	MGM Grand	real estate	83	6.4
+Gina Rinehart	46	2014	Hancock Prospecting	mining	60	17.7
+Pierre Landolt	47	1996	AxialPar	venture capitalist	0	4.5
+Charles Schwab	47	2001	Charles Schwab Corporation	brokerage/banking	63	6.3
+Francois Pinault	47	2001	Pinault-Printemps-Redoute (PPR), now known as Kering	apparel	64	6.3
+Mikhail Fridman	47	2014	Alfa Group	investment banking	49	17.6
+Donald Newhouse	48	1996	Advance Publications	media	66	4.5
+Michael Dell	48	2014	Dell	technology	49	17.5
+Samuel Newhouse	49	1996	Advance Publications	media	68	4.5
+Pierre Landolt	49	2001	AxialPar	venture capitalist	0	6.1
+Susanne Klatten	49	2014	BMW	cars	51	17.4
+Dhanin Chearavanont	50	1996	Charoen Pokphand (CP Group)	retail	56	4.2
+George Soros	50	2001	Soros Fund Management	hedge funds	70	6.0
+Nasser Al-Kharafi	50	2001	Kharafi Group	construction	57	6.0
+Abigail Johnson	50	2014	Fidelity Investments	investment banking	52	17.3
+Boehringer family	51	1996	Poehringer Ingelheim	pharmaceuticals	0	4.1
+Viktor Vekselberg	51	2014	Renova Group	aluminum, oil	56	17.2
+David Sainsbury	52	1996	Sainsbury's	groceries	55	4.1
+Lee Shau Kee	52	2001	Henderson Land Development	real estate	73	5.9
+Lakshmi Mittal	52	2014	ArcelorMittal	steel	63	16.7
+Seydoux/Schlumberger families	53	1996	Schlumberger Well Services	oilfield services	0	4.0
+Eli Broad	53	2001	Kaufman and Broad, SunAmerica	construction/insurance	67	5.8
+Vladimir Lisin	53	2014	NLMK	steel	57	16.6
+Masatoshi Ito	54	1996	Ito-Yokado	retail	71	4.0
+James Goodnight	54	2001	SAS institute	software	58	5.7
+Cheng Yu-tung	54	2014	Chow Tai Fook Enterprises	real estate	88	16.2
+Fukuzo Iwasaki	55	1996	Iwasaki Sangyo Group	real estate	71	4.0
+Kyosuke Kinoshita	55	2001	Acom	consumer loans	60	5.6
+Masayoshi Son	55	2001	Softbank	technology	43	5.6
+Joseph Safra	55	2014	Banco Safra (now Saftra Group)	banking	75	16.0
+Mustafa Rahmi Koc	56	1996	Koc Holding	energy, retail, manufacturing	65	4.0
+Paul Allen	56	2014	Microsoft	technology	61	15.9
+Barbara Cox Anthony	57	1996	Cox Enterprises	media	72	4.0
+Luciano Benetton	57	2001	Benetton Group	fashion	65	5.5
+Robert Pritzker	57	2001	Hyatt	hotels	74	5.5
+Thomas Pritzker	57	2001	Hyatt	hotels	50	5.5
+Leonid Mikhelson	57	2014	Novatek	gas	58	15.6
+Anne Cox Chambers	58	1996	Cox Enterprises	media	76	4.0
+Anne Cox Chambers	58	2014	Cox Enterprises	media	94	15.5
+Francois Pinault	58	2014	Pinault-Printemps-Redoute (PPR), now known as Kering	apparel	77	15.5
+Iris Fontbona	58	2014	Antofagasta PLC	mining	71	15.5
+Ronald Perelman	59	1996	MacAnderws and Forbes Holdings	holding company	53	4.0
+Akira Mori	60	1996	Mori Building	construction	66	3.9
+Curt Engelhorn	60	2001	BASF/Boehringer Mannheim/DePuy	pharmaceuticals	74	5.4
+Gordon Moore	60	2001	Intel 	technology	72	5.4
+Hasso Plattner	60	2001	SAP AG	software	57	5.4
+Paul-Louis Halley	60	2001	Promodes	retail	0	5.4
+Otto Beisheim	61	1996	Metro AG	groceries	72	3.8
+Azim Premji	61	2014	Wipro Limited	software	68	15.3
+Gennady Timchenko	61	2014	Gunvor Group	oil trading	61	15.3
+Mohammad Al Amoudi	61	2014	MIDROC	construction/real estate	67	15.3
+Madeleine Schickedanz	62	1996	Quelle Versand	retail	52	3.8
+Brenninkmeijer family	63	1996	C&A	retail	0	3.8
+Gordon Moore	64	1996	Intel 	technology	67	3.7
+Friedrich Flick	64	2001	Friedrich Flick Industrial Holding	coal	74	5.3
+Gustavo Cisneros	64	2001	Cisneros Group	media	55	5.3
+Stefan Persson	64	2001	 H&M	 fashion	53	5.3
+Walter Haefner	64	2001	Automation Center	computer services	90	5.3
+Wang Jianlin	64	2014	Dalian Wanda Group	real estate	59	15.1
+Walter Annenberg	65	1996	Philadelphia Inquirer	media	0	3.7
+Charles Ergen	65	2014	dish networtk	media	61	15.0
+Steven Ballmer	66	1996	Microsoft	technology	39	3.7
+Stefan Quandt	66	2014	BMW	cars	47	14.9
+Gregorio Perez Companc	67	1996	Petrolera Perez Companc	oil	61	3.6
+German Larrea Mota Velasco	67	2014	Grupo Mexio	copper	60	14.7
+Curt Engelhorn	68	1996	BASF/Boehringer Mannheim/DePuy	pharmaceuticals	69	3.6
+Yoshitaka Fukuda	68	2001	Aiful	finance	53	5.2
+Harold Hamm	68	2014	Continental Resources	oil	68	14.6
+Shin Kyuk-Ho	69	1996			0	3.6
+Alfred Lerner	69	2001	MBNA	credit cards	0	5.1
+Donald Bren	69	2014	Irvine Company	real estate	81	14.4
+Ray Dalio	69	2014	Bridgewater Associates	hedge funds	64	14.4
+James Arthur and John Irving	70	1996	J.D. Irving	timber	0	3.5
+Alain Wertheimer	70	2001	Chanel	luxury goods	0	5.0
+August von Finck	70	2001	Allianz, Merk Finck & Co	banking/insurance	70	5.0
+Donald Newhouse	70	2001	Advance Publications	media	71	5.0
+Michael Otto	70	2001	Metro AG	retail	57	5.0
+Samuel Newhouse	70	2001	Advance Publications	media	73	5.0
+Philip Niarchos	71	1996	Niarchos Ltd	shipping	42	3.5
+Georg Schaeffler	71	2014	Schaeffler Group	roller bearings	49	14.3
+Wang Yue-che	72	1996	Formosa Plastics	petrochemicals	79	3.5
+Luis Carlos Sarmiento	72	2014	Grupo Aval Acciones y Valores, SA	banking	81	14.2
+Sakip Sabanci	73	1996	Sabanci Holdings	textiles	63	3.5
+Laurene Powell Jobs	73	2014	Apple	technology	50	14.0
+Ronald Perelman	73	2014	MacAnderws and Forbes Holdings	holding company	71	14.0
+Serge Dassault	73	2014	Dassault Group	aviation	88	14.0
+Erivan Haub	74	1996	Tenglemann Group	retail	63	3.4
+Tiong Hiew King	75	1996	Rimbunan Hijau Group	timber	60	3.4
+Serge Dassault	75	2001	Dassault Group	aviation	76	4.9
+Kirk Kerkorian	76	1996	MGM Grand	real estate	78	3.4
+Gunter Herz	76	2001	Maxingvest AG	coffee	60	4.8
+Tadashi Yanai	76	2001	Fast Retailing/Uniqlo	apparel	52	4.8
+John Fredriksen	76	2014	Frontline Ltd.	oil tankers	69	13.6
+Vagit Alekperov	76	2014	Lukoil	oil	63	13.6
+Sumner Redstone	77	1996	National Amusements	media	72	3.4
+Denis Defforey	78	1996	Carrefour	groceries	0	3.3
+Rolf Gerling	78	2001	Gerling Konzern	insurance	46	4.7
+John Paulson	78	2014	Paulson & Co.	hedge funds	58	13.5
+Rupert Murdoch	78	2014	News Limited	media	82	13.5
+Rolf Gerling	79	1996	Gerling Konzern	insurance	41	3.3
+Dieter von Holtzbrinck	79	2001	Holtzbrinck	media	59	4.6
+Edward Johnson	79	2001	Fidelity Investments	investment banking	70	4.6
+Spiro Latsis	79	2001	EFG International	shipping	54	4.6
+Nina Wang	80	1996	Chinachem Group	chemicals	0	3.3
+Ma Huateng	80	2014	Tencent	internet	42	13.4
+Quek Leng Chan	81	1996	Hong Leong Financial Group	financial services	55	3.3
+Gerald Cavendish Grosvenor	81	2014	Grosvenor Group	real estate	62	13.0
+Garry Weston	82	1996	George Weston Limited		0	3.3
+Lorenzo Mendoza	82	2001	Empresas Polar	beer	35	4.5
+Marvin Davis	82	2001	Davis Petroleum	oil	75	4.5
+Masatoshi Ito	82	2001	Ito-Yokado	retail	76	4.5
+Michael Bloomberg	82	2001	Bloomberg	 finance	58	4.5
+Nicky Oppenheimer	82	2001	De Beers	diamonds	55	4.5
+Pierre Omidyar	82	2001	Ebay	e-commerce	33	4.5
+Reinhard Mohn	82	2001	Bertelsmann	publishing	79	4.5
+Samuel Johnson	82	2001	S. C. Johnson & Son	cleaning supplies	72	4.5
+Dilip Shanghvi	82	2014	Sun Pharmaceutical Industries	pharmaceuticals	58	12.8
+Jack Taylor	82	2014	Enterprise	rental cars	91	12.8
+Johanna Quandt	82	2014	BMW	cars	87	12.8
+Pallonji Mistry	82	2014	?Shapoorji Pallonji Group	construction	84	12.8
+Henry Ross Perot Sr	83	1996	Electronic Data Systems	data processing	0	3.3
+Keizo Saji	84	1996	Suntory	brewery	0	3.2
+Rupert Murdoch	85	1996	News Limited	media	65	3.2
+Richard DeVos	86	1996	Amway	consumer goods	70	3.2
+Thomas and Raymond Kwok	86	2014	Sun Hung Kai Properties	real estate	0	12.6
+Vladimir Potanin	86	2014	Interros	private investment company	53	12.6
+Jay Van Andel	87	1996	Amway	consumer goods	71	3.2
+August von Finck	88	1996	Allianz, Merk Finck & Co	banking/insurance	65	3.1
+James Simons	88	2014	Renaissance Technologies	hedge funds	75	12.5
+Rinat Akhmetov	88	2014	System Capital Management Group	industrial manufacturing and banking	47	12.5
+Michael and Rainer Schmidt-Ruthenbeck	89	1996	Metro AG	retail	0	3.1
+Stanley Ho	90	1996	Sociedade de Turismo e Divers?es de Macau	casinos	74	3.1
+James Arthur and John Irving	90	2001	J.D. Irving	timber	0	4.4
+Rudolf Oetker	90	2001	Oetker-Gruppe	food	0	4.4
+Alberto Bailleres Gonzalez	90	2014	Penoles	mining	82	12.4
+Kyosuke Kinoshita	91	1996	Acom	consumer loans	55	3.1
+Robin Li	91	2014	Baidu	internet	45	12.1
+Chatri Sophonpanich	92	1996	Bangkok Bank	banking	0	3.1
+Lee Bass	92	2001	Sid Richardson Gasoline Co	oil	44	4.3
+Maurice Greenberg	92	2001	AIG	insurance	75	4.3
+Philip Knight	92	2001	Nike	apparel	63	4.3
+Ernesto Bertarelli	92	2014	Serono	pharmaceuticals	48	12.0
+Hans Rausing	92	2014	Tetra Pak	food packaging	87	12.0
+Peter Haas Sr	93	1996	Levi Strauss & co	jeans	0	3.1
+Lemos family	94	1996	Efploia Shipping	shipping	0	3.0
+Zong Qinghou	94	2014	Hangzhou Wahaha Group	beverages	68	11.6
+Jassim Al-Kharafi	95	1996	Kharafi Group	diversified investments	0	3.0
+Fukuzo Iwasaki	95	2001	Iwasaki Sangyo Group	real estate	76	4.2
+David & Simon Reuben	95	2014	Trans-World Metals	aluminum	71	11.5
+Robert Kuok	95	2014	Shangri-La Hotels	hotels	90	11.5
+Suliman Olayan	96	1996	General Contracting Company	oil infrastructure	0	3.0
+Micky Arison	96	2001	Carnival Corporation	cruises	51	4.1
+Patrick Wang	96	2001	Johnson Electric	automotive parts	50	4.1
+Khoo Teck Puat	97	1996	Malayan Banking	banking	79	3.0
+Andrey Melnichenko	97	2014	MDM Bank	banking	41	11.4
+Dhanin Chearavanont	97	2014	Charoen Pokphand (CP Group)	retail	74	11.4
+Henry Sy	97	2014	SM Malls	retail	89	11.4
+John Mars	98	1996	Mars, Incorperated	candy	59	3.0
+Alfred Heineken	98	2001	Heineken International	beer	0	4.0
+Donald Bren	98	2001	Irvine Company	real estate	68	4.0
+Erivan Haub	98	2001	Tenglemann Group	retail	68	4.0
+Galen Weston	98	2001	George Weston Limited	food distribution	60	4.0
+Ty Warner	98	2001	Ty Inc.	toys	57	4.0
+Walter Annenberg	98	2001	Philadelphia Inquirer	media	0	4.0
+Jacqueline Mars	99	1996	Mars, Incorperated	candy	0	3.0
+Jay and Arthur Pritzker	100	1996	Hyatt	hotels	0	3.0
+Ananda Krishnan	100	2014	Usaha Tegas Sdn Bhd	real estate	75	11.3
+German Khan	100	2014	Alfa Group	oil and gas	52	11.3
+Robert Pritzker	101	1996	Hyatt	hotels	69	3.0
+Forrest Mars Sr	102	1996	Mars, Incorperated	candy	0	3.0
+Alejandro Santo Domingo Davila	102	2014	Santo Domingo Group	beer	37	11.1
+Lee Kun-Hee	102	2014	Samsung	electronics	72	11.1
+Miuccia Prada	102	2014	Prada	luxury goods	64	11.1
+Shiv Nadar	102	2014	HCL	technology	68	11.1
+Forrest Mars Jr	103	1996	Mars, Incorperated	candy	64	3.0
+Rudolf Oetker	104	1996	Oetker-Gruppe	food	0	2.9
+Henry Ross Perot Sr	104	2001	Electronic Data Systems	data processing	0	3.8
+Jon Huntsman	104	2001	Huntsman chemical	chemicals	63	3.8
+Leonard Lauder	104	2001	Est?Lauder	makeup	67	3.8
+Sid Bass	104	2001	Sid Richardson Gasoline Co	oil	58	3.8
+Tsai Wan-lin	104	2001	Lin Yuan Group	banking and insurance	76	3.8
+Koo Cha-kyung	105	1996	LG Group	electronics	0	2.9
+William Hewlett	106	1996	Hewlett-Packard	printers	0	2.9
+Petr Kellner	106	2014	PPF (Prvn? privatizacn? fond)	investment	49	11.0
+Robert & Philip Ng	106	2014	Sino Group	real estate	0	11.0
+Steve Cohen	106	2014	SAC Capital Advisors	hedge funds	58	11.0
+Karl-Heinz Kipp	107	1996	Massa	retail	72	2.8
+Putera Sampoerna	108	1996	Sampoerna	cigarette	0	2.8
+Gianni Agnelli	109	1996	Fiat	cars	0	2.8
+Carl Icahn	109	2001	Icahn Enterprises	investment (via holding company)	65	3.7
+Mehmet Karamehmet	109	2001	Cukurova Holding	textiles, industrial goods, media	56	3.7
+Nina Wang	109	2001	Chinachem Group	chemicals	0	3.7
+Robert Kuok	109	2001	Shangri-La Hotels	hotels	78	3.7
+Sanjiv Sidhu	109	2001	i2 Technologies	software	0	3.7
+Shari Arison	109	2001	Carnival Corporation	banking	43	3.7
+Andrew Beal	109	2014	Beal Bank	real estate/banking	61	10.9
+Mikhail Prokhorov	109	2014	Norilsk Nickel	precious metals	48	10.9
+Chey Jong-hyon	110	1996	SK Group	textiles	0	2.8
+Jean-Louis Dumas	111	1996	Hermes	luxury fashion	57	2.7
+Alexei Mordashov	111	2014	Severstal	mining	48	10.5
+Hansjoerg Wyss	111	2014	Synthes USA	medical technology	79	10.5
+Dietmar Hopp	112	1996	SAP AG	software	55	2.7
+Gunter Herz	113	1996	Maxingvest AG	coffee	55	2.7
+Charlene de Carvalho-Heineken	113	2014	Heineken International	beer	59	10.4
+Klaus-Michael Kuehne	113	2014	Kuhne + Nagel	transportation	76	10.4
+Philip Anschutz	113	2014	Circle A Drilling	oil, railroad, investments	74	10.4
+Stefano Pessina	113	2014	Alliance Boots	pharmaceuticals	72	10.4
+Lim Goh Tong	114	1996	Genting Highlands	casinos	78	2.7
+Eugene Wu	115	1996	Shin Kong Financial	finance 	0	2.7
+John Simplot	115	2001	J.R. Simplot Company	agricultural products	92	3.6
+Edgar Bronfman	116	1996	Seagrams	liquor	67	2.7
+Antonio Ermirio de Moraes	116	2001	Votorantim Group	metals, paper, cement	0	3.5
+Craig McCaw	116	2001	McCaw Cellular	cell phones	51	3.5
+Kazuo Okada	116	2001	Wynn Resorts	casinos	58	3.5
+Ng Teng Fong	116	2001	Far East Organization	real estate	72	3.5
+Nicolas Hayek	116	2001	Swatch Group	watches	72	3.5
+Reinhold Wuerth	116	2001	Adolf Wurth Group	screws	0	3.5
+Sakip Sabanci	116	2001	Sabanci Holdings	textiles	68	3.5
+Stephan Schmidheiny	116	2001	Holcim	construction	53	3.5
+Charles Bronfman	117	1996	Seagrams	liquor	64	2.6
+Li Hejun	117	2014	Hanergy Solar	energy	46	10.3
+Sergei Galitsky	117	2014	Magnit	retail	46	10.3
+Leo Kirch	118	1996	Kirch Group	media	0	2.6
+Von Siemens family	119	1996	Siemens	industrial automation	0	2.6
+Kjeld Kirk Kristiansen	119	2014	Lego	toys	66	10.2
+Marcel Herrmann Telles	119	2014	Ambev	investment banking/beer	64	10.2
+John Latsis	120	1996	EFG International	shipping	0	2.6
+Yaw Teck-seng	121	1996	Samling Strategic Corp	logging	0	2.6
+Charles Butt	121	2014	H-E-B supermarket	groceries	76	10.1
+Alfred Heineken	122	1996	Heineken International	beer	0	2.6
+Carrie Perrodo	122	2014	Perenco	oil	63	10.0
+David Tepper	122	2014	Appaloosa Management	hedge funds	56	10.0
+George Kaiser	122	2014	Kaiser-Francis Oil Company	oil	71	10.0
+Hinduja Brothers	122	2014	Hinduja Group	media, exports	0	10.0
+Jack Ma	122	2014	Alibaba group	internet	49	10.0
+Patrick Soon-Shiong	122	2014	American Pharmaceutical Partners 	healthcare	62	10.0
+Stephen Schwarzman	122	2014	Blackstone Group	private equity	67	10.0
+Jaime Augusto Zobel de Ayala	123	1996	Ayala Corporation	construcion	0	2.6
+George Ty	124	1996	Metropolitan Bank and Trust Company	banking	0	2.6
+Ann Kroenke	124	2001	Walmart	retail	0	3.4
+Charles Bronfman	124	2001	Seagrams	liquor	69	3.4
+David Geffen	124	2001	Asylum Records/Geffen Records/Dreamworks	entertainment	58	3.4
+Dhirubhai Ambani	124	2001	Reliance	textiles	0	3.4
+Gerard Louis-Dreyfus	124	2001	Louis Dreyfus Group	energy	68	3.4
+James Sorenson	124	2001	Sorenson Companies	real estate	79	3.4
+Samuel Johnson	125	1996	S. C. Johnson & Son	cleaning supplies	67	2.6
+Henry Hillman	126	1996	Pittsburgh Coke & Chemical	coal	77	2.6
+Julio Bozano	127	1996	Banco Bozano Simonsen	banking	60	2.5
+Porsche family	128	1996	Porsche	cars	0	2.5
+Peter Livanos	129	1996	Ceres Hellenic	shipping	0	2.5
+Giorgio Armani	129	2014	Armani	luxury goods	79	9.9
+Michael Kadoorie	130	1996	CLP Holdings	utilities	55	2.5
+Akira Mori	130	2001	Mori Building	construction	66	3.3
+Amos Hosetter Jr	130	2001	Continental Cablevision	media	64	3.3
+Bernard Marcus	130	2001	Home Depot	home improvement retail	71	3.3
+Edgar Bronfman	130	2001	Seagrams	liquor	72	3.3
+Eitaro Itoyama	130	2001		golf courses	58	3.3
+Martin Ebner	130	2001	BZ Bank	banking	0	3.3
+Ronald Perelman	130	2001	MacAnderws and Forbes Holdings	holding company	58	3.3
+Ryoichi Jinnai	130	2001	Promise Consumer Finance	finance	74	3.3
+Richard Kinder	130	2014	Kinder Morgan Energy Partners	energy	69	9.5
+Tsai Eng-Meng	130	2014	Want Want China	food	57	9.5
+Henry Fok	131	1996	Sociedade de Turismo e Divers?es de Macau	casinos	72	2.5
+Goroemon Yoshimoto	132	1996			0	2.5
+Edward Johnson, III.	132	2014	Fidelity Investments	investment banking	83	9.3
+Eric Schmidt	132	2014	google	technology	58	9.3
+Hiroshi Mikitani	132	2014	Rakuten	e-commerce	49	9.3
+Samuel Newhouse, Jr.	132	2014	Advance Publications	media	86	9.3
+Rinji Shino	133	1996	Meiko Group	real estate	0	2.5
+Yasuyuki Nambu	134	1996	Pasona Inc	staffing services	0	2.5
+Rafik Al-Hariri	135	1996	Saudi Oger	construction	52	2.5
+Alejo Peralta	136	1996	Groupo IUSA	construction	0	2.5
+Dietrich Mateschitz	136	2014	Red Bull	beverages	69	9.2
+John van Vlissingen	137	1996	BCD Holdings	travel company	57	2.5
+Joao Roberto Marinho	137	2014	Globo Organizations	media	60	9.1
+Jose Roberto Marinho	137	2014	Globo Organizations	media	58	9.1
+Roberto Marinho	137	2014	Globo Organizations	media	66	9.1
+Roman Abramovich	137	2014	Millhouse LLC	private investment company	47	9.1
+Sheikh Saleh Bin Abdul Aziz Al-rajhi	138	1996	Al Rajhi bank	Banking	0	2.5
+Charles Koch	138	2001	Koch industries	  Oil refining	65	3.2
+David Koch	138	2001	Koch industries	 Oil refining	60	3.2
+Donald Fisher	138	2001	The Gap	clothing 	72	3.2
+Doris Fisher	138	2001	The Gap	clothing 	70	3.2
+Karl-Heinz Kipp	138	2001	Massa	retail	77	3.2
+Philippe Foriel-Destezet	138	2001	Adecco	HR consulting	65	3.2
+Preston Tisch	138	2001	Loews Corporation	retail	74	3.2
+Ronald Lauder	138	2001	Est?Lauder	makeup	59	3.2
+Mohammed Jameel	139	1996	Abdul Latif Jameel Co. Ltd	auto dealerships	0	2.5
+Maersk McKinney Moller	140	1996	Maersk Group	shipping	82	2.5
+Nicky Oppenheimer	141	1996	De Beers	diamonds	50	2.5
+Alain Wertheimer	141	2014	Chanel	luxury goods	65	9.0
+Charoen Sirivadhanabhakdi	141	2014	ThaiBev	alcohol	69	9.0
+Gerard Wertheimer	141	2014	Chanel	luxury goods	63	9.0
+Silvio Berlusconi	141	2014	Fininvest	media	77	9.0
+Vladimir Yevtushenkov	141	2014	Sistema/Sitronics	technology	65	9.0
+Ernesto Bertarelli	142	1996	Serono	pharmaceuticals	30	2.5
+Banyong Lamsam	143	1996	Kasikornbank	banking	0	2.5
+George Soros	144	1996	Soros Fund Management	hedge funds	65	2.5
+Abigail Johnson	145	1996	Fidelity Investments	investment banking	34	2.5
+Jon Huntsman	146	1996	Huntsman chemical	chemicals	58	2.5
+Ennio Doris	146	2001	Mediolanum SpA	asset management	60	3.1
+Gianni Agnelli	146	2001	Fiat	cars	0	3.1
+Lester Crown	146	2001	General Dynamics	aerospace and defense	75	3.1
+Rafik Al-Hariri	146	2001	Saudi Oger	construction	57	3.1
+William Wrigley	146	2001	Wm Wrigley Jr. Company	gum	37	3.1
+Carlos Alberto Sicupira	146	2014	Ambev	investment banking/beer	66	8.9
+Hisakazu Yamaguchi	147	1996	Daiwan Can	cans	0	2.4
+Alexei Kuzmichev	147	2014	Alfa Group	investment banking	51	8.8
+Dmitry Rybolovlev	147	2014	Uralkali	fertilizer	47	8.8
+Elaine Marshall	147	2014	Koch industries	  Oil refining	71	8.8
+Hasso Plattner	147	2014	SAP AG	software	70	8.8
+Thomas Peterffy	147	2014	Interactive Brokers	stock brokerage	69	8.8
+Kanichiro Ishibashi	148	1996	Bridgestone Corp	tires	0	2.4
+Andrew Gotianun	149	1996	Filinvest Development Corporation	real estate	0	2.4
+Anacleto Angelini	150	1996	Angelini Group	mining	82	2.3
+Dieter Schwarz	151	1996	Schwarz Group	groceries	0	2.3
+A Jerrold Perenchio	151	2001	Univision	media	70	3.0
+Emilio Azcarraga Jean	151	2001	Grupo Televisa	media	33	3.0
+George Lucas	151	2001	Lucasfilm	Star Wars	56	3.0
+Henry Hillman	151	2001	Pittsburgh Coke & Chemical	coal	82	3.0
+Khoo Teck Puat	151	2001	Malayan Banking	banking	84	3.0
+Mohammed Jameel	151	2001	Abdul Latif Jameel Co. Ltd	auto dealerships	0	3.0
+Ricardo Salinas Pliego	151	2001	Grupo Salinas/Group Elektra	telecommunications	45	3.0
+Riley Bechtel	151	2001	Bechtel Corporation	construction	48	3.0
+Robert Bass	151	2001	Sid Richardson Gasoline Co	oil	53	3.0
+Saleh Kamel	151	2001	Dallah al Baraka Group	airport maintenance	59	3.0
+Stephen Bechtel	151	2001	Bechtel Corporation	construction	75	3.0
+Ciputra	152	1996	Ciputra Development	real estate	0	2.3
+Ludwig Merckle	152	2014	Ratiopharm	pharmaceuticals	49	8.6
+Leonardo Del Vecchio	153	1996	?Luxottica	glasses	60	2.3
+Antonia Johnson	153	2014	Axel Johnson Group	trade investment	70	8.5
+Donald Newhouse	153	2014	Advance Publications	media	84	8.5
+Galen Weston	153	2014	George Weston Limited	food distribution	73	8.5
+Hank & Doug Meijer	153	2014	Meijer	groceries	0	8.5
+Michael Kadoorie	153	2014	CLP Holdings	utilities	72	8.5
+Michele Ferrero	154	1996	Ferrero spa	chocolates	69	2.3
+Eitaro Itoyama	155	1996		golf courses	53	2.3
+Akio Morita	156	1996	Sony	technology	0	2.3
+Kim Woo-choong	157	1996	Daewoo Group	textiles	0	2.3
+Kjeld Kirk Kristiansen	158	1996	Lego	toys	48	2.3
+Elon Musk	158	2014	Paypal, SpaceX, Tesla Motors	technology	42	8.4
+Joseph Lau	158	2014	Chinese Estates Holdings	real estate	62	8.4
+Stephan Schmidheiny	159	1996	Holcim	construction	48	2.3
+Robert Bass	160	1996	Sid Richardson Gasoline Co	oil	48	2.3
+August von Finck	160	2014	Allianz, Merk Finck & Co	banking/insurance	83	8.3
+Ricardo Salinas Pliego	160	2014	Grupo Salinas/Group Elektra	telecommunications	58	8.3
+Andronico Luksic	161	1996	Antofagasta	copper	69	2.2
+Adrian and John Swire	162	1996	Swire	trading company	0	2.2
+Dietmar Hopp	162	2001	SAP AG	software	60	2.9
+Hiroshi Yamauchi	162	2001	Nintendo	video games	73	2.9
+Joseph and Moise Safra	162	2001	Banco Safra (now Saftra Group)	banking	0	2.9
+Leslie Wexner	162	2001	Limited Brands	clothing	59	2.9
+Lorenzo Zambrano	162	2001	Cemex	cement	56	2.9
+Andrei Skoch	162	2014	Metallionvest	mining	48	8.2
+Pierre Omidyar	162	2014	Ebay	e-commerce	46	8.2
+Xavier Niel	162	2014	Iliad	internet service provider	46	8.2
+Prajogo Pangestu	163	1996	Barito Pacific	petrochemicals	0	2.2
+Akihiko Otsuka	164	1996	Otsuka Holdings	pharmaceuticals	0	2.2
+Kazuo Matsuda	165	1996	Nichiei	small-company lending	0	2.2
+Margarita Louis-Dreyfus	165	2014	Louis-Dreyfus Goup	commodities (wheat, oil, shipping)	50	8.1
+Lucio Tan	166	1996	Asia Brewery	beverages	61	2.2
+Pierre Castel	166	2014	Goupe Castel	beverages	87	8.0
+Philip Anschutz	167	1996	Circle A Drilling	oil, railroad, investments	56	2.2
+Aloysio de Andrade Faria	167	2001	Banco Real	banking	80	2.8
+Charles Dolan	167	2001	Cablevision and HBO	media	74	2.8
+Jack Taylor	167	2001	Enterprise	rental cars	0	2.8
+John Sall	167	2001	SAS institute	software	54	2.8
+Klaus Jacobs	167	2001	Jacobs Suchard AG	chocolate and coffee	0	2.8
+Steven Udvar-Hazy	167	2001	International Lease Finance Corporation	aircraft leasing	55	2.8
+Yoshiaki Tsutsumi	167	2001	Seibu Corporation	real estate	66	2.8
+Emmanuel Besnier	167	2014	Lactalis	cheese	43	7.9
+Marvin Davis	168	1996	Davis Petroleum	oil	70	2.2
+Blair Parry-Okeden	168	2014	Cox Enterprises	media	63	7.7
+David Duffield	168	2014	PeopleSoft	software	73	7.7
+Jean-Claude Decaux	168	2014	JCDecaux	advertising	76	7.7
+Jim Kennedy	168	2014	Cox Enterprises	media	66	7.7
+Reinhold Wuerth	168	2014	Adolf Wurth Group	screws	78	7.7
+Lee Bass	169	1996	Sid Richardson Gasoline Co	oil	39	2.2
+Roberto Marinho	170	1996	Globo Organizations	media	0	2.1
+Philippe Bouriez	171	1996	Cora	retail	0	2.1
+Stefan Schoerghuber	172	1996	Schorghuber Group	real estate	34	2.1
+Anneliese Brost	173	1996	Westdeutsche Allgemeine Zeitung	media	75	2.1
+Jacques Servier	173	2014	Laboratories Servier	pharmaceuticals	92	7.6
+Johann Rupert	173	2014	Rembrandt Group	tobacco/luxury brands	63	7.6
+R Budi Hartono	173	2014	Djarum	tobacco	73	7.6
+Tsai Wan-Tsai	173	2014	Fubon Financial holding Company	banking	84	7.6
+Funke family	174	1996			0	2.1
+Bruno Schroder	174	2001	Schroders	banking	68	2.7
+Cheng Yu-tung	174	2001	Chow Tai Fook Enterprises	real estate	75	2.7
+Jeffrey Skoll	174	2001	Ebay	e-commerce	36	2.7
+Samuel LeFrak	174	2001	LeFrack 	real estate	0	2.7
+Wang Yue-che	174	2001	Formosa Plastics	petrochemicals	84	2.7
+Kumar Birla	175	1996	Aditya Birla Group	cement	28	2.1
+Masahiro Ohga	176	1996			0	2.1
+Ryoichi Jinnai	177	1996	Promise Consumer Finance	finance	69	2.1
+Charles Johnson	177	2014	Franklin Resources	mutal funds	81	7.5
+James Goodnight	177	2014	SAS institute	software	71	7.5
+John Malone	177	2014	Tele-Communications Inc	telecommunications	72	7.5
+John Menard, Jr.	177	2014	Menards	hardware stores	74	7.5
+Klaus Tschira	177	2014	SAP AG	software	73	7.5
+Leonard Lauder	177	2014	Est?Lauder	makeup	80	7.5
+Lee Seng Wee	178	1996	Oversea-Chinese Banking Corporation	banking	71	2.1
+Jeffrey Koo Sr	179	1996	Koos Group		0	2.1
+Den Fujita	179	2001	McDonald's Japan	restaurants	75	2.6
+Klaus Tschira	179	2001	SAP AG	software	60	2.6
+Thomas Schmidheiny	179	2001	Holcim	cement	55	2.6
+Thaksin Shinawatra	180	1996	Advanced Info Service	mobile phones	0	2.1
+Leonard Lauder	181	1996	Est?Lauder	makeup	62	2.1
+Ronald Lauder	182	1996	Est?Lauder	makeup	59	2.1
+Alan Gerry	182	2001	Cablevision Industries	media	71	2.5
+Bernard Ecclestone	182	2001	Formula One Group	racing	70	2.5
+David Rockefeller	182	2001	Standard Oil	oil	85	2.5
+Eugenio Garza Lagnera	182	2001	Femsa	beverages	0	2.5
+Joan Kroc	182	2001	McDonald's	restaurants	0	2.5
+John Malone	182	2001	Tele-Communications Inc	telecommunications	60	2.5
+Kerry Packer	182	2001	Consolidated Press Holdings Limited	media	63	2.5
+Michael and Rainer Schmidt-Ruthenbeck	182	2001	Metro AG	retail	0	2.5
+Mustafa Rahmi Koc	182	2001	Koc Holding	energy, retail, manufacturing	70	2.5
+Otto Beisheim	182	2001	Metro AG	groceries	77	2.5
+Robert Rowling	182	2001	Tana Exploration Company	oil	47	2.5
+Takemitsu Takizaki	182	2001	Keyence	technology	55	2.5
+Ted Turner	183	1996	CNN	media	57	2.1
+Vincent Bollore	183	2014	Bollore	paper manufacturing/investment	61	7.4
+Michel Fribourg	184	1996	Continental Grain Company	comodities	0	2.1
+Jim Pattison	184	2014	Jim Pattison Group	autos	85	7.3
+Michael Hartono	184	2014	Djarum	tobacco	74	7.3
+Roberto Rocca	185	1996	Techint	steel	0	2.0
+Dirce Navarro Camargo	186	1996	Camargo Correa Group	construction	0	2.0
+Augusto & Giorgio Perfetti	186	2014	Perfetti Van Melle	candy	0	7.2
+Heinz Hermann Thiele	186	2014	Knorr-Bremse AG	brake systems	72	7.2
+Johann Graf	186	2014	Novomatic Automatenhandels AG	gaming	67	7.2
+Peter Woo	186	2014	Worldwide Shipping Group	real estate	68	7.2
+Alain Wertheimer	187	1996	Chanel	luxury goods	0	2.0
+Jacques Servier	188	1996	Laboratories Servier	pharmaceuticals	0	2.0
+Verspieren family	189	1996	Verspieren	insurance	0	2.0
+Alfred von Oppenheim	190	1996	?Sal. Oppenheim	banking	0	2.0
+He Xiangjian	190	2014	Midea	appliances	71	7.1
+Peter Woo	191	1996	Worldwide Shipping Group	real estate	50	2.0
+Dietmar Hopp	191	2014	SAP AG	software	73	7.0
+Eyal Ofer	191	2014	Zodiac Maritime Agencies	shipping	63	7.0
+Graeme Hart	191	2014	Rank Group	private equity	58	7.0
+Kumar Birla	191	2014	Aditya Birla Group	cement	46	7.0
+Ralph Lauren	191	2014	Ralph Lauren	clothing	74	7.0
+Djuhar Sutanto	192	1996	Salim Group	consumer goods	0	2.0
+Theodore Arison	193	1996	Carnival Corporation	banking	0	2.0
+Luciano Benetton	194	1996	Benetton Group	fashion	60	2.0
+Henry Nicholas	194	2001	Broadcom Corporation	semiconductors	39	2.4
+Laurence Tisch	194	2001	Loews Corporation	retail	0	2.4
+Leonard Stern	194	2001	Hartz Group	pet supplies, real estate	62	2.4
+Mikhail Khodorkovsky	194	2001	Yukos	oil	37	2.4
+Emilio Azcarraga Jean	195	1996	Grupo Televisa	media	28	2.0
+John Gokongwei	196	1996	JG Summit Holdings	manufacturing	0	2.0
+Charles Cadogan	196	2014	Cadogan Estates	real estate	76	6.9
+Eli Broad	196	2014	Kaufman and Broad, SunAmerica	construction/insurance	80	6.9
+Richard DeVos	196	2014	Amway	consumer goods	88	6.9
+Suleiman Kerimov	196	2014	Gazprom	oil	47	6.9
+Wei Jianjun	196	2014	Great Wall Motors	autos	50	6.9
+Yang Huiyan	196	2014	Country Garden Holdings	property development	32	6.9
+Henry Sy	197	1996	SM Malls	retail	71	2.0
+Manuel Villar	198	1996	C&P Homes	real estate	0	2.0
+George Kaiser	198	2001	Kaiser-Francis Oil Company	oil	58	2.3
+Gordon Getty	198	2001	Getty 	oil	60	2.3
+Henry Samueli	198	2001	Broadcom Corporation	semiconductors	46	2.3
+Martin Bouygues	198	2001	Bouygues S.A.	construction	49	2.3
+Ralph Lauren	198	2001	Ralph Lauren	clothing	62	2.3
+Ray Hunt	198	2001	Hunt Oil. Co	oil	58	2.3
+Richard Schulze	198	2001	Best Buy	retail	60	2.3
+Robert Bosch Jr	198	2001	Robert Bosch GmbH	auto engines	73	2.3
+Susan Thompson Buffett	198	2001	Berkshire Hathaway	 Finance	68	2.3
+Terry Gou	198	2001	Foxconn	technology	0	2.3
+William Davidson	198	2001	Guardian Industries	glass	78	2.3
+Emilio Botin	199	1996	Grupo Santander	banking	61	2.0
+Thomas Schmidheiny	200	1996	Holcim	cement	50	2.0
+George Lucas	201	1996	Lucasfilm	Star Wars	51	2.0
+Charles Koch	202	1996	Koch industries	  Oil refining	60	2.0
+Chung Mong-Koo	202	2014	Hyundai	cars	75	6.8
+Dustin Moskovitz	202	2014	Facebook	internet	29	6.8
+Jan Koum	202	2014	WhatsApp	mobile app	38	6.8
+David Koch	203	1996	Koch industries	 Oil refining	55	2.0
+Lester Crown	204	1996	General Dynamics	aerospace and defense	70	2.0
+Donald Bren	205	1996	Irvine Company	real estate	63	2.0
+Nassef Sawiris	205	2014	Orascom	construction	53	6.7
+Nicky Oppenheimer	205	2014	De Beers	diamonds	68	6.7
+Martha Ingram	206	1996	Ingram Industries	transportation	60	2.0
+James Goodnight	207	1996	SAS institute	software	53	2.0
+Takemitsu Takizaki	207	2014	Keyence	technology	68	6.6
+Ray Hunt	208	1996	Hunt Oil. Co	oil	53	2.0
+James Packer	208	2014	Consolidated Press Holdings Limited	media	46	6.5
+Leonid Fedun	208	2014	Lukoil	oil	57	6.5
+Micky Arison	208	2014	Carnival Corporation	cruises	64	6.5
+Oleg Deripaska	208	2014	SibAl	aluminum	46	6.5
+Laurence Tisch	209	1996	Loews Corporation	retail	0	2.0
+Barbara Piasecka Johnson	209	2001	Johnson & Johnson	medical supplies	64	2.2
+Bernard Sherman	209	2001	Empire Laboratories	pharmaceuticals	59	2.2
+David Duffield	209	2001	PeopleSoft	software	60	2.2
+Frank Lowy	209	2001	Westfield Group	shopping centers	70	2.2
+H Wayne Huizenga	209	2001	Waste Management	waste management	63	2.2
+James Kim	209	2001	Amkor	semiconductors	65	2.2
+Jean-Claude Decaux	209	2001	JCDecaux	advertising	63	2.2
+Maersk McKinney Moller	209	2001	Maersk Group	shipping	87	2.2
+Martha Ingram	209	2001	Ingram Industries	transportation	65	2.2
+Nancy Walton Laurie	209	2001	Walmart	 retail	49	2.2
+Shiv Nadar	209	2001	HCL	technology	55	2.2
+Tadahiro Yoshida	209	2001	YKK	zippers	54	2.2
+Thomas Siebel	209	2001	Siebel Systems	software	48	2.2
+Preston Tisch	210	1996	Loews Corporation	retail	69	2.0
+Shoji Uehara	211	1996	Taisho Pharmaceutical	pharmaceuticals	0	1.9
+Chaijudh Karnasuta	212	1996	Italian-Thai development	construction	0	1.9
+Eva Gonda Rivera	212	2014	FEMSA	beverages	0	6.4
+Pansy Ho	212	2014	Sociedade de Turismo e Divers?es de Macau	gaming	51	6.4
+Quek Leng Chan	212	2014	Hong Leong Financial Group	financial services	70	6.4
+Sid Bass	213	1996	Sid Richardson Gasoline Co	oil	53	1.9
+Mary Alice Dorrance Malone	214	1996	Campbell Soup	soup	46	1.9
+David Geffen	215	1996	Asylum Records/Geffen Records/Dreamworks	entertainment	53	1.9
+Dannine Avara	215	2014	Enterprise Products	natural gas	50	6.3
+Herbert Kohler, Jr.	215	2014	Kohler Company	manufacturing	75	6.3
+Ivan Glasenberg	215	2014	Glencore Xstrata	mining	57	6.3
+Milane Frantz	215	2014	Enterprise Products	natural gas	44	6.3
+Paolo & Gianfelice Mario Rocca	215	2014	Techint	steel	0	6.3
+Patrick Drahi	215	2014	Altice	telecommunications	50	6.3
+Randa Williams	215	2014	Enterprise Products	natural gas	52	6.3
+Scott Duncan	215	2014	Enterprise Products	natural gas	31	6.3
+William Wrigley	216	1996	Wm Wrigley Jr. Company	gum	32	1.9
+John Simplot	217	1996	J.R. Simplot Company	agricultural products	87	1.9
+Kerry Packer	218	1996	Consolidated Press Holdings Limited	media	58	1.8
+Hasso Plattner	219	1996	SAP AG	software	52	1.8
+Hugo Mann	220	1996	Mann Mobilia	furniture	82	1.8
+Lee Hon Chiu	221	1996	Hysan Development	real estate	0	1.8
+Lorenzo Rossi di Montelera	222	1996	Martini & Rossi	beverages	0	1.8
+Abdullah Al Rajhi	222	2001	Al Rajhi bank	Banking	0	2.1
+Achille Maramotti	222	2001	MaxMara	fashion	74	2.1
+Adolf Merckle	222	2001	Ratiopharm	pharmaceuticals	66	2.1
+Adrian Swire	222	2001	Swire	trading company	70	2.1
+Charles Johnson	222	2001	Franklin Resources	mutal funds	68	2.1
+Edmund Wattis Littlefield	222	2001	Utah Contstruction Company	construction	0	2.1
+Ernest Stempel	222	2001	AIG	insurance	84	2.1
+John Dorrance	222	2001	Campbell Soup	soup	57	2.1
+Louis Gonda	222	2001	ILFC	aircraft leasing	52	2.1
+Sammy Ofer	222	2001	Zodiac Maritime Agencies	shipping	0	2.1
+Sergio Mantegazza	222	2001	Globus	travel company	73	2.1
+Steven Spielberg	222	2001	DreamWorks	movies	54	2.1
+Edmond Safra	223	1996	Banco Safra (now Saftra Group)	banking	0	1.8
+Teh Hong Piow	224	1996	Public Bank	banking	56	1.8
+Rupert Johnson, Jr.	224	2014	Franklin Resources	mutal funds	72	6.2
+S. Truett Cathy	224	2014	Chick-fil-A	restaurants	92	6.2
+Sumner Redstone	224	2014	National Amusements	media	90	6.2
+Alberto Bailleres Gonzalez	225	1996	Penoles	mining	63	1.8
+Huang Shi-hui	226	1996	Chinfon Group	automobiles	0	1.8
+Moores family	227	1996	Littlewoods	retail	0	1.8
+David Geffen	227	2014	Asylum Records/Geffen Records/Dreamworks	entertainment	71	6.1
+Iskander Makhmudov	227	2014	Ural Mining and Metallurgical Company	mining	50	6.1
+Lucio Tan	227	2014	Asia Brewery	beverages	79	6.1
+Pyotr Aven	227	2014	Alfa Group	financial services	58	6.1
+Richard LeFrak	227	2014	LeFrack 	real estate	68	6.1
+Sandra Ortega Mera	227	2014	Zara	clothing	45	6.1
+Thomas Frist, Jr.	227	2014	Hostpital Corporation of America	hospitals	75	6.1
+Bennett Dorrance	228	1996	Campbell Soup	soup	63	1.8
+Stanley Hubbard	229	1996	Hubbard Broadcasting Inc	media	62	1.8
+Eliodoro Matte	230	1996	CMPC	timber and paper	50	1.7
+Goulandris family	231	1996	Fitzwilton	shipping	0	1.7
+John Dorrance	232	1996	Campbell Soup	soup	52	1.7
+Masakuni Osano	233	1996	Kyo-Ya Company	real estate	0	1.7
+Ingvar Kamprad	234	1996	IKEA	furniture	69	1.7
+Antonio Champalimaud	234	2001	Maceira Liz	cement	82	2.0
+Ayhan Sahenk	234	2001	Dogus Holding	construction	0	2.0
+Edward Gaylord	234	2001	Gaylord Entertainment Company	media	0	2.0
+Fayez Sarofim	234	2001	Fayez Sarofim & Co	money management	72	2.0
+Gary Winnick	234	2001	Global Crossing limited	fiber optic cables	0	2.0
+Georg Thyssen-Bornemisza	234	2001	TBG (Thyssen-Bornemisza Group) Holdings	steel	0	2.0
+Hubert Burda	234	2001	Hubert Burda Media	media	61	2.0
+Hugo Mann	234	2001	Mann Mobilia	furniture	87	2.0
+Jeffrey Bezos	234	2001	Amazon	 technology	37	2.0
+John Menard	234	2001	Menards	hardware stores	61	2.0
+John Morgridge	234	2001	Cisco Systems	software	67	2.0
+Patrick McGovern	234	2001	International Data Goup	technology publishing	63	2.0
+Peter Kellogg	234	2001	Spear, Leeds & Kellogg	investment banking	58	2.0
+Richard Egan	234	2001	EMC Corporation	data storage	65	2.0
+Richard Li	234	2001	Cheung king	real estate	34	2.0
+Robert Naify	234	2001		movie theatres	79	2.0
+Theodore Waitt	234	2001	Gateway	computers	38	2.0
+Chan Laiwa	234	2014	Fuwah International Group	real estate	73	6.0
+Denis O'Brien	234	2014	Estat Digiphone (O2)	telecommunications	55	6.0
+Filaret Galchev	234	2014	Rosuglesbyt	coal	50	6.0
+Ira Rennert	234	2014	Renco	investment	79	6.0
+James Irving	234	2014	J.D. Irving	timber	85	6.0
+Patrizio Bertelli	234	2014	Prada	luxury goods	68	6.0
+Piya Bhirombhakdi	235	1996	Boon Rawd Brewery	beer	0	1.7
+Boonchai Bencharongkul	236	1996	Total Access Communications	telecomm	0	1.7
+Gordon Getty	237	1996	Getty 	oil	45	1.7
+Theodore Waitt	238	1996	Gateway	computers	33	1.7
+Harry Brakemann Helmsley	239	1996	Helmsley hotels	real estate	0	1.7
+Joan Kroc	240	1996	McDonald's	restaurants	0	1.7
+Charles Schwab	240	2014	Charles Schwab Corporation	brokerage/banking	76	5.8
+Dennis Washington	240	2014	Washington Companies	construction	79	5.8
+Gayle Cook	240	2014	Cook Group	medical technology	80	5.8
+Leon Black	240	2014	Apollo Global management	private equity	62	5.8
+Micky Arison	241	1996	Carnival Corporation	cruises	46	1.7
+Luis Carlos Sarmiento Angulo	242	1996	Grupo Aval Acciones y Valores, SA	banking	63	1.6
+Paul-Louis Halley	243	1996	Promodes	retail	0	1.6
+Rochling family	244	1996	Rochling Group	coal	0	1.6
+Hui Ka Yan	244	2014	Evergrande Group	real estate	55	5.7
+Hui Wing Mau	244	2014	Shimao Property	real estate	63	5.7
+Idan Ofer	244	2014	Zodiac Maritime Agencies	shipping	58	5.7
+Isak Andic	244	2014	Mango	fashion	60	5.7
+Jorn Rausing	244	2014	Tetra Pak	food packaging	54	5.7
+Leslie Wexner	244	2014	Limited Brands	clothing	76	5.7
+Patrick McGovern	244	2014	International Data Goup	technology publishing	76	5.7
+Sunil Mittal	244	2014	Bharti Enterprises	telecommunications	56	5.7
+Klaus Tschira	245	1996	SAP AG	software	55	1.6
+Lo Ying Shek	246	1996	Great Eagle Holdings	real estate	0	1.6
+R Budi Hartono	247	1996	Djarum	tobacco	55	1.6
+Kenkichi Nakajima	248	1996	Heiwa	pachinko	0	1.6
+Kunio Busujima	249	1996	Sankyo	pachinko gaming machines	-42	1.6
+Anton Rupert	250	1996	Rembrandt Group	tobacco/luxury brands	0	1.6
+Gerald Cavendish Grosvenor	251	1996	Grosvenor Group	real estate	44	1.6
+Abdul Aziz Al Ghurair	251	2001	Al-Ghurair Group	industrial goods	47	1.9
+Akihiko Otsuka	251	2001	Otsuka Holdings	pharmaceuticals	0	1.9
+Alberto Bailleres Gonzalez	251	2001	Penoles	mining	68	1.9
+Arthur Blank	251	2001	Home Depot	retail	58	1.9
+Glen Taylor	251	2001	Taylor Corporation	printing and electronics	59	1.9
+Jim Pattison	251	2001	Jim Pattison Group	autos	72	1.9
+John Hargreaves	251	2001	Matalan	retail	57	1.9
+John Jahr	251	2001		media	0	1.9
+Khalid Bin Mahfouz	251	2001	National Comercial bank of Saudi Arabia	banking	54	1.9
+Kjeld Kirk Kristiansen	251	2001	Lego	toys	53	1.9
+Leona Helmsley	251	2001	Helmsley hotels	real estate	81	1.9
+Lowry Mays	251	2001	Clear Channel Communications	media	0	1.9
+Masao Morita	251	2001	Sony	electronics	0	1.9
+Michael Krasny	251	2001	CDW Corporation	retail	47	1.9
+Paolo Bulgari	251	2001	Bulgari	luxury goods	0	1.9
+Richard Rainwater	251	2001	ENSCO International	hedge funds	56	1.9
+Robert Fisher	251	2001	The Gap	clothing 	47	1.9
+Sam Zell	251	2001	Equity Group Investments	real estate	59	1.9
+Stefan Schoerghuber	251	2001	Schorghuber Group	real estate	0	1.9
+Terence Matthews	251	2001	Mitel	technology consulting	0	1.9
+Yasuyuki Nambu	251	2001	Pasona Inc	staffing services	0	1.9
+Riley Bechtel	252	1996	Bechtel Corporation	construction	43	1.6
+Peter Nicholas	253	1996	Boston Scientific	medical devices	55	1.6
+Ray Lee Hunt	253	2014	Hunt Oil. Co	oil	71	5.6
+Stanley Kroenke	253	2014	Kroenke Sports Enterprises	real estate/sports teams	66	5.6
+Teh Hong Piow	253	2014	Public Bank	banking	83	5.6
+Stephen Bechtel	254	1996	Bechtel Corporation	construction	70	1.6
+Peugeot family	255	1996	Peugeot	cars	0	1.5
+Karl Diehl	256	1996	Diehl Stiftung	armaments	0	1.5
+Arthur Irving	256	2014	Irving Oil	oil	84	5.5
+Bruno Schroder	256	2014	Schroders	banking	81	5.5
+Carlos and Alejandro Bulgheroni	256	2014	Bridas Energy	oil	0	5.5
+Jeffery Hildebrand	256	2014	Hilcorp Energy Company	oil	54	5.5
+Liu Yongxing	256	2014	East Hope Group	agribusiness	65	5.5
+Michael Ashley	256	2014	Sports Direct	sporting goods	49	5.5
+Thomas Schmidheiny	256	2014	Holcim	cement	68	5.5
+Simon family	257	1996			0	1.5
+Albert von Thurn und Taxis	258	1996	von Thurn and Taxis family	postal service, beverages	12	1.5
+John Jahr	259	1996		media	0	1.5
+Freudenberg family	260	1996	Freudenberg Group	cleaning supplies	0	1.5
+Lakshmi Mittal	261	1996	ArcelorMittal	steel	45	1.5
+Kenshin Oshima	262	1996	SFCG	banking	48	1.5
+Martin Hilti	263	1996	Hilti	tools	0	1.5
+Melker Schorling	263	2014	Melker Schorling AB (MSAB)	investment	66	5.4
+Sergei Popov	263	2014	MDM Bank	banking	42	5.4
+Stephen Ross	263	2014	The Related Companies	real estate	73	5.4
+Terry Gou	263	2014	Foxconn	technology	63	5.4
+Yeoh Tiong Lay	264	1996	YTL Corporation	construction, utilities	0	1.5
+Ananda Krishnan	265	1996	Usaha Tegas Sdn Bhd	real estate	57	1.5
+Bernardo Garza Sada	266	1996	Grupo ALFA	aluminum	0	1.5
+Juffali family	267	1996	Juffali Group	electricity	0	1.5
+Americo Amorim	267	2014	Corticeira Amorim	cork	79	5.3
+Anders Holch Povlsen	267	2014	Bestseller	fashion	41	5.3
+Stef Wertheimer	267	2014	ISCAR	industrial tools	87	5.3
+Willi and Isolde Liebherr	268	1996	Liebherr	construction	0	1.5
+Martin Ebner	269	1996	BZ Bank	banking	0	1.5
+Sergio Mantegazza	270	1996	Globus	travel company	68	1.5
+Andrew Forrest	270	2014	Fortescue Metals Group	iron ore	52	5.2
+Bidzina Ivanishvili	270	2014	Rossiysky Kredit	metals/banking	58	5.2
+Karl-Heinz Kipp	270	2014	Massa	retail	90	5.2
+Ken Griffin	270	2014	Citadel LLC	hedge funds	45	5.2
+Kwee brothers	270	2014	Pontiac Land	real estate	69	5.2
+Maria Asuncion Aramburuzabala	270	2014	Grupo Modelo	beer	50	5.2
+Wee Cho Yaw	270	2014	United Overseas Bank	banking	85	5.2
+Shi Wen-long	271	1996	Chi Mei Corporation	plastics	0	1.5
+Prachai Leophairatana	272	1996	Thai Petrochemical Industry	petrochemicals	0	1.5
+Blase Golisano	272	2001	Paychex	payroll processing	59	1.8
+Carl Pohlad	272	2001	Marquette Bank	banking	85	1.8
+Charles Butt	272	2001	H-E-B supermarket	groceries	62	1.8
+Daniel Abraham	272	2001	Slim-Fast	beverages	0	1.8
+Donald Hall	272	2001	Hallmark Cards	greeting cards	72	1.8
+Herbert Allen	272	2001	Allen & Company	investment banking	61	1.8
+Irwin Jacobs	272	2001	Qualcomm	software	67	1.8
+Jeronimo Arango	272	2001	Aurrera	supermarkets	75	1.8
+John Fisher	272	2001	The Gap	clothing 	39	1.8
+Juan and Carlos March	272	2001	Acciona Trasmediterranea	shipping	0	1.8
+Julio Bozano	272	2001	Banco Bozano Simonsen	banking	65	1.8
+Kenichi Mabuchi	272	2001	Mabuchi Motor Company	electric motors	48	1.8
+Lakshmi Mittal	272	2001	ArcelorMittal	steel	50	1.8
+Leslie Gonda	272	2001	ILFC	aircraft leasing	81	1.8
+Maria Asuncion Aramburuzabala	272	2001	Grupo Modelo	beer	37	1.8
+Mary Alice Dorrance Malone	272	2001	Campbell Soup	soup	51	1.8
+Richard Branson	272	2001	Virgin Group	media	50	1.8
+Richard Farmer	272	2001	Cintas Corporation	uniforms	66	1.8
+Ronald Burkle	272	2001	Yucaipa Companies	private equity	48	1.8
+Vladimir Potanin	272	2001	Interros	private investment company	40	1.8
+John Abele	273	1996	Boston Scientific	medical devices	79	1.5
+James Cargill	274	1996	Cargill	food processing/commodities	71	1.5
+Margaret Cargill	275	1996	Cargill	food processing/commodities	76	1.5
+Michel David-Weill	276	1996	Lazard	banking	0	1.4
+Serge Dassault	277	1996	Dassault Group	aviation	71	1.4
+Robert Bosch Jr	278	1996	Robert Bosch GmbH	auto engines	68	1.4
+Finn Rausing	278	2014	Tetra Pak	food packaging	59	5.1
+Jacqueline Desmarais	278	2014	Power Corporation of Canada	utilities/financial services	85	5.1
+Kirsten Rausing	278	2014	Tetra Pak	food packaging	61	5.1
+Takemitsu Takizaki	279	1996	Keyence	technology	50	1.4
+Hiroshi Yamauchi	280	1996	Nintendo	video games	68	1.4
+Tajudin Ramli	281	1996	Malaysia Airlines	airplanes	0	1.4
+Anil Ambani	281	2014	Reliance	textiles	54	5.0
+Antonio Del Valle Ruiz	281	2014	Mexichem	chemicals	75	5.0
+Bruce Halle	281	2014	Discount Tire	retail	83	5.0
+David Green	281	2014	Hobby Lobby	retail	72	5.0
+Frederik Paulsen	281	2014	Ferring Pharmaceuticals	pharmaceuticals	63	5.0
+George Roberts	281	2014	Kohlberg Kravis Roberts	leveraged buyouts	70	5.0
+Gordon Moore	281	2014	Intel 	technology	85	5.0
+Harry Triguboff	281	2014	Meriton	real estate	81	5.0
+Henry Kravis	281	2014	Kohlberg Kravis Roberts	leveraged buyouts	70	5.0
+Joe Lewis	281	2014	Tavistock Group	currency trading	77	5.0
+Micky Jagtiani	281	2014	Landmark Group	retail	62	5.0
+Richard Branson	281	2014	Virgin Group	media	63	5.0
+Stein Erik Hagen	281	2014	RIMI	groceries	57	5.0
+Walter Kwok	281	2014	Sun Hung Kai Properties	real estate	63	5.0
+Alfonso Romo Garza	282	1996	Pulsar International	agriculture	0	1.4
+Jorge Larrea	283	1996	Grupo Mexico	copper	0	1.4
+Maria Asuncion Aramburuzabala	284	1996	Grupo Modelo	beer	32	1.4
+Stefan Persson	285	1996	 H&M	 fashion	48	1.4
+Klaus Jacobs	286	1996	Jacobs Suchard AG	chocolate and coffee	0	1.4
+Krit Ratanarak	287	1996	Bank of Ayudhya/Bangkok Broadcasting and Television Company	banking, media	49	1.4
+Ayhan Sahenk	288	1996	Dogus Holding	construction	0	1.4
+Richard Branson	289	1996	Virgin Group	media	45	1.4
+James Sorenson	290	1996	Sorenson Companies	real estate	74	1.4
+H Wayne Huizenga	291	1996	Waste Management	waste management	58	1.4
+Kenneth Troutt	292	1996	Excel Communications	telecomm	48	1.4
+Andre Kudelski	292	2001	Kudelski Group	software	0	1.7
+Clayton Mathile	292	2001	Iams	pet food	60	1.7
+Clemmie Spangler Jr	292	2001	Bank of North Carolina	banking	68	1.7
+Donald Trump	292	2001	The Trump Organization	real estate	55	1.7
+Eugene Melnyk	292	2001	Biovail Corporation	pharmaceuticals	0	1.7
+Giorgio Armani	292	2001	Armani	luxury goods	66	1.7
+Gregorio Perez Companc	292	2001	Petrolera Perez Companc	oil	66	1.7
+James Jannard	292	2001	Oakley, Inc	apparel and eyewear	51	1.7
+Jess Jackson	292	2001	Kendall-Jackson	wine	71	1.7
+John Arrillaga	292	2001		real estate	63	1.7
+Kenneth Morrison	292	2001	Morrisons	supermarkets	69	1.7
+Kumar Birla	292	2001	Aditya Birla Group	cement	33	1.7
+Lawrence Flinn Jr	292	2001	UVSG	media	0	1.7
+Michele Ferrero	292	2001	Ferrero spa	chocolates	74	1.7
+Rachman Halim	292	2001	Gudang Garam	cigarette	53	1.7
+Richard Peery	292	2001		real estate	60	1.7
+Robert Rich Sr	292	2001	Rich Products	food processing	87	1.7
+Roger Sant	292	2001	AES	energy	0	1.7
+Rupert Johnson	292	2001	Franklin Resources	mutal funds	60	1.7
+Scott McNealy	292	2001	Sun Microsystems	microchips	0	1.7
+Maurice Greenberg	293	1996	AIG	insurance	70	1.4
+Alfred Lerner	294	1996	MBNA	credit cards	0	1.4
+David Rockefeller	295	1996	Standard Oil	oil	80	1.4
+Albert Frere	295	2014	Groupe Bruxelles Lambert	steel/banking	88	4.9
+Cyrus Poonawalla	295	2014	Serum Institute of India	biotech	72	4.9
+Erivan Haub	295	2014	Tenglemann Group	retail	81	4.9
+Frits Goldschmeding	295	2014	Randstad	staffing company	80	4.9
+George Lucas	295	2014	Lucasfilm	Star Wars	69	4.9
+Heinz-Horst Deichmann	295	2014	Heinrich Deichmann-Schuhe	shoes	87	4.9
+Kunio Busujima	295	2014	Sankyo	pachinko gaming machines	88	4.9
+Robert Rowling	295	2014	Tana Exploration Company	oil	60	4.9
+Savitri Jindal	295	2014	O.P. Jindal Group	steel	63	4.9
+Shashi and Ravi Ruia	295	2014	Essar Group	steel/oil	0	4.9
+Jose Said Saffie	296	1996			0	1.3
+Jaime Said Demarfa	297	1996			0	1.3
+Carlos Ardila Lulle	298	1996	Organizacion Ardila Lulle	soft drinks	0	1.3
+Julio Mario Santo Domingo	299	1996	Santo Domingo Group	beer	72	1.3
+Hans-Werner Hector	300	1996	SAP AG	software	56	1.3
+Reinhard Mohn	301	1996	Bertelsmann	publishing	74	1.3
+Baldwin and Nikolaus Knauf	302	1996	Edmond de Rothschild Group	banking	0	1.3
+Reinhold Wuerth	303	1996	Adolf Wurth Group	screws	60	1.3
+Chen Din Hwa	304	1996	Nan Fung Textiles	cotton yarn	73	1.3
+Sjamsul Nursalim	305	1996	Gajah Tunggal	tires	0	1.3
+Abdulla bin Ahmad Al Ghurair	305	2014	Al-Ghurair Group	industrial goods	0	4.8
+Ann Walton Kroenke	305	2014	Walmart	retail	65	4.8
+Bruce Kovner	305	2014	Caxton Associates	commodities trading	69	4.8
+Daniel Ziff	305	2014	Ziff Davis Inc	publishing	42	4.8
+Dirk Ziff	305	2014	Ziff Davis Inc	publishing	49	4.8
+Gwendolyn Sontheim Meyer	305	2014	Cargill	food processing/commodities	52	4.8
+Juan Roig	305	2014	Mercadona	groceries	64	4.8
+Karl Wlaschek	305	2014	BILLA	groceries	96	4.8
+Laurence Graff	305	2014	Graff Diamonds	diamonds	75	4.8
+Liselott Persson	305	2014	 H&M	 fashion	64	4.8
+Pauline MacMillan Keinath	305	2014	Cargill	food processing/commodities	80	4.8
+Robert Ziff	305	2014	Ziff Davis Inc	publishing	47	4.8
+Whitney MacMillan	305	2014	Cargill	food processing/commodities	85	4.8
+Zhang Zhidong	305	2014	Tencent	internet	42	4.8
+Mochtar Riady	306	1996	Lippo Group	banking	0	1.3
+Tadahiro Yoshida	307	1996	YKK	zippers	49	1.3
+Den Fujita	308	1996	McDonald's Japan	restaurants	70	1.3
+Hiroshi Takei	309	1996			0	1.3
+Masafumi Miyamoto	310	1996	Square	video games	0	1.3
+Soichiro Fukutake	311	1996	Benesse Corporation	publishing	50	1.3
+Edward Johnson	312	1996	Fidelity Investments	investment banking	65	1.3
+Abilio dos Santos Diniz	312	2001	Companhia Brasileira de Distribui?ao	retail	64	1.6
+Andrew McKelvey	312	2001	Monster Worldwide	advertising	0	1.6
+Chen Din Hwa	312	2001	Nan Fung Textiles	cotton yarn	78	1.6
+Dennis Bakke	312	2001	AES Corporation	energy	0	1.6
+Dennis Washington	312	2001	Washington Companies	construction	66	1.6
+Didier Primat	312	2001	Schlumberger	oil field services	56	1.6
+Gary Magness	312	2001	TCI	cable	47	1.6
+George Mitchell	312	2001	Mitchell Energy and Development Co	shale	81	1.6
+Gil Shwed	312	2001	Check Point	software	33	1.6
+Jackson Stephens	312	2001	Stephens Group	media	77	1.6
+Jean-Louis Dumas	312	2001	Hermes	luxury fashion	62	1.6
+Kemal Uzan	312	2001		construction	66	1.6
+Kwek Leng Beng	312	2001	Hong Leong Group	banking	60	1.6
+Lee Kun-Hee	312	2001	Samsung	electronics	59	1.6
+Michael Birck	312	2001	Tellabs	telecom	0	1.6
+Perry Bass	312	2001	Bass Brothers Enterprises	oil	86	1.6
+Richard DeVos	312	2001	Amway	consumer goods	75	1.6
+Robert Johnson	312	2001	Black Entertainment Television	media	54	1.6
+Roberto Rocca	312	2001	Techint	steel	0	1.6
+Sanford Weill	312	2001	Cogan, Berlind, Weill & Levitt	stock broker	68	1.6
+Stanley Hubbard	312	2001	Hubbard Broadcasting Inc	media	67	1.6
+Tetsuro Funai	312	2001	Funai Electric	electronics	74	1.6
+Vladimir Bogdanov	312	2001	Surgutneftegaz	oil	49	1.6
+William Morean	312	2001	Jabil Circuit	computer parts	45	1.6
+Donald Hall	313	1996	Hallmark Cards	greeting cards	67	1.3
+Ralph Lauren	314	1996	Ralph Lauren	clothing	57	1.3
+Samuel LeFrak	315	1996	LeFrack 	real estate	0	1.3
+Leslie Wexner	316	1996	Limited Brands	clothing	44	1.3
+Craig McCaw	317	1996	McCaw Cellular	cell phones	46	1.3
+Dorrance Hill Hamilton	318	1996	Campbell Soup	soup	0	1.3
+Amos Hosetter Jr	319	1996	Continental Cablevision	media	59	1.3
+Andrew Tan	319	2014	Alliance Global Group	real estate, retail	61	4.7
+Arnon Milchan	319	2014	New Regency Films	movies	69	4.7
+Frank Lowy	319	2014	Westfield Group	shopping centers	83	4.7
+Horst Paulmann	319	2014	Hipermercados Jumbo	supermarkets	79	4.7
+Sergio Mantegazza	319	2014	Globus	travel company	86	4.7
+Shari Arison	319	2014	Carnival Corporation	banking	56	4.7
+Lorenzo Mendoza	320	1996	Empresas Polar	beer	30	1.3
+Roberto and Gabriel Andrade	321	1996	Andrade Gutierrez	construction	0	1.2
+Abilio dos Santos Diniz	322	1996	Companhia Brasileira de Distribui?ao	retail	59	1.2
+Luiz Alberto Garcia	323	1996	Algar Group	media	0	1.2
+Michael DeGroote	324	1996	Laidlaw Transport	trucking	0	1.2
+Alvaro Noboa	325	1996	Exportadora Bananera Noboa	banannas	0	1.2
+Diane Hendricks	325	2014	ABC Supply	roofing	67	4.6
+Mike Adenuga	325	2014	Conoil/Globacom	oil/telecommunications	60	4.6
+Pierre Bellon	325	2014	Sodexo	catering	84	4.6
+Leibbrand family	326	1996			0	1.2
+Reimann family	327	1996	Benckiser	consumer goods	0	1.2
+Conle famle	328	1996	Sirosa	real estate	0	1.2
+David Sun	328	2014	Kingston Technology	technology	62	4.5
+Dieter Schnabel	328	2014	Helm AG	chemicals	68	4.5
+James Dyson	328	2014	Dyson	vacuum cleaners	66	4.5
+Jay Y. Lee	328	2014	Samsung	electronics	45	4.5
+John A. Sobrato	328	2014	Sobrato Organization	real estate	74	4.5
+John Tu	328	2014	Kingston Technology	technology	73	4.5
+Kirk Kerkorian	328	2014	MGM Grand	real estate	96	4.5
+Lynn Schusterman	328	2014	Samson Investment Company	oil and gas	75	4.5
+Majid Al Futtaim	328	2014	Majid Al Futtaim	retail	0	4.5
+Michael Herz	328	2014	Maxingvest AG	coffee	70	4.5
+Trevor Rees-Jones	328	2014	Chief Oil and Gas 	oil	62	4.5
+Wolfgang Herz	328	2014	Maxingvest AG	coffee	63	4.5
+Masakazu Shiiki	329	1996	Sanyo Shinpan	finace	0	1.2
+Lorenzo Zambrano	330	1996	Cemex	cement	51	1.2
+Wee Cho Yaw	331	1996	United Overseas Bank	banking	67	1.2
+Frances Koshland Geballe	332	1996	Levi Strauss & co	jeans	0	1.2
+Josephine Haas	333	1996	Levi Strauss & co	jeans	0	1.2
+Richard Goldman	334	1996	Goldman Insurance and Risk Management	insurance	0	1.2
+Barbara Piasecka Johnson	335	1996	Johnson & Johnson	medical supplies	59	1.2
+William Davidson	336	1996	Guardian Industries	glass	73	1.2
+Abdul Al Rahman  Al Jeraisy	336	2001	Jeraisy Group	industrial goods	0	1.5
+Bennett Dorrance	336	2001	Campbell Soup	soup	58	1.5
+Billy Joe McCombs	336	2001	Red McCombs Automotive Group	auto sales, energy	73	1.5
+Carl Berg	336	2001	Berg and Berg	real estate	63	1.5
+Carlos Peralta	336	2001	Groupo IUSA	construction	49	1.5
+Christoph Blocher	336	2001	EMS-Chemie	chemicals	0	1.5
+Enric Bernat	336	2001	Chupa Chups	confectionary	0	1.5
+Frank Batten	336	2001	The Weather Channel	media	74	1.5
+George Roberts	336	2001	Kohlberg Kravis Roberts	leveraged buyouts	56	1.5
+Harold Simmons	336	2001		leveraged buyouts	69	1.5
+Henry Kravis	336	2001	Kohlberg Kravis Roberts	leveraged buyouts	57	1.5
+Henry Yuen	336	2001	Gemstar-TV Guide International	media	0	1.5
+John Sobrato	336	2001	Sobrato Organization	real estate	61	1.5
+Kenneth Troutt	336	2001	Excel Communications	telecomm	53	1.5
+Kim Magness	336	2001	TeleCommunications Inc	telecommunications	0	1.5
+Laurance Rockefeller	336	2001	Standard Oil	oil	90	1.5
+Luis Carlos Sarmiento Angulo	336	2001	Grupo Aval Acciones y Valores, SA	banking	68	1.5
+Marius Nacht	336	2001	Check Point	software	35	1.5
+Mitchell Rales	336	2001	Danaher	venture capitalist	44	1.5
+Rem Viakhirev	336	2001	Gazprom	natural gas	0	1.5
+Richard Goldman	336	2001	Goldman Insurance and Risk Management	insurance	0	1.5
+Richard Kinder	336	2001	Kinder Morgan Energy Partners	energy	54	1.5
+Richard Marriott	336	2001	Marriot	hotels	62	1.5
+Roberto Marinho	336	2001	Globo Organizations	media	0	1.5
+Stelios Haji-Ioannou	336	2001	Easy Jet	airline	0	1.5
+Steven Rales	336	2001	Danaher	venture capitalist	48	1.5
+Tiong Hiew King	336	2001	Rimbunan Hijau Group	timber	65	1.5
+Dennis Washington	337	1996	Washington Companies	construction	61	1.2
+Kathryn McCurry Albertson	338	1996	Albertsons	groceries	0	1.2
+Robert Galvin	339	1996	Motorola	telecommunications	73	1.2
+Donald Fisher	340	1996	The Gap	clothing 	67	1.2
+Barbara Carlson Gage	340	2014	Carlson Inc	hospitality	71	4.4
+Guenter Herz & Family	340	2014	Maxingvest AG	coffee	73	4.4
+Kelcy Warren	340	2014	Energy Transfer Partners	gas and propane	58	4.4
+Luo Jye	340	2014	Maxxis	tires	88	4.4
+Marilyn Carlson Nelson	340	2014	Carlson Inc	hospitality	74	4.4
+Doris Fisher	341	1996	The Gap	clothing 	65	1.2
+David Duffield	342	1996	PeopleSoft	software	55	1.2
+Fayez Sarofim	343	1996	Fayez Sarofim & Co	money management	67	1.2
+Paul Mellon	344	1996	Mellon Bank	banking	0	1.2
+Susan Thompson Buffett	345	1996	Berkshire Hathaway	 Finance	63	1.2
+Dan Olsson	345	2014	Stena Sphere	shipping	67	4.3
+Emanuele (Lino) Saputo	345	2014	Saputo Inc	cheese	77	4.3
+Guo Guangchang	345	2014	Fosun Group	investment	47	4.3
+Lee Shin Cheng	345	2014	IOI Group	palm oil/real estate	74	4.3
+Liang Wengen	345	2014	Sany Heavy Industry	heavy manufacturing	57	4.3
+Paul Tudor Jones, II.	345	2014	Tudor Investment Corporation	hedge funds	59	4.3
+Sam Zell	345	2014	Equity Group Investments	real estate	72	4.3
+Samvel Karapetyan	345	2014	Tashir Group	real estate	48	4.3
+Wang Chuanfu	345	2014	BYD Company	mobile phone batteries	48	4.3
+Sam Zell	346	1996	Equity Group Investments	real estate	54	1.2
+Peter Haas Jr	347	1996	Levi Strauss & co	jeans	0	1.2
+Bemberg family	348	1996	Cerveza Quilmes	beverages	0	1.1
+Leon Feffer	349	1996	Suzano Papel e Celulose	paper	0	1.1
+Galen Weston	350	1996	George Weston Limited	food distribution	55	1.1
+Run Run Shaw	351	1996	Shaw Brothers Studio	media	0	1.1
+George Wong	352	1996	Chyau Fwu Corp	real estate	0	1.1
+Dhirubhai Ambani	353	1996	Reliance	textiles	0	1.1
+Kenichi Mabuchi	354	1996	Mabuchi Motor Company	electric motors	-7	1.1
+Akira Mori	354	2014	Mori Building	construction	77	4.2
+Bernard Ecclestone	354	2014	Formula One Group	racing	83	4.2
+Elizabeth Mohn	354	2014	Bertelsmann	media	73	4.2
+Enrique Razon	354	2014	International Containter Terminal Services	port containers	54	4.2
+Friede Springer	354	2014	Axel Sbringer AG	publishing	71	4.2
+Jeronimo Arango	354	2014	Aurrera	supermarkets	88	4.2
+Leonard Stern	354	2014	Hartz Group	pet supplies, real estate	75	4.2
+Lin Rong San	354	2014	Union Bank of Taiwan	banking/publishing	74	4.2
+Malcolm Glazer	354	2014	First Allied Corporation	investments/real estate, sports teams	85	4.2
+Ralph Dommermuth	354	2014	United Internet	internet provider	50	4.2
+Ted Lerner	354	2014	Lerner Enterprises	real estate	88	4.2
+Wang Wenyin	354	2014	Amer International Group	copper/mining	46	4.2
+William Ding	354	2014	NetEase	internet	42	4.2
+Kazuo Inamori	355	1996	Kyocera	electronics	0	1.1
+Isono family	356	1996			0	1.1
+Renichi Takenaka	357	1996	Takenaka	construction	0	1.1
+Ryusuke Kimura	358	1996			0	1.1
+Kim Suk-won	359	1996			0	1.1
+Yahaya Ahmad	360	1996	DRB-HICOM Group	cars	0	1.1
+Eugenio Garza Lagnera	361	1996	Femsa	beverages	0	1.1
+Roberto Gonzalez Barrera	362	1996	Maseca	tortillas	49	1.1
+Isaac Saba Raffoul	363	1996	Groupo Casa Saba	pharmaceuticals	72	1.1
+Barbara Carlson Gage	363	2001	Carlson Inc	hospitality	59	1.4
+Emilio Botin	363	2001	Grupo Santander	banking	66	1.4
+Franklin Booth	363	2001	Berkshire Hathaway	 Finance	78	1.4
+George Lindemann	363	2001	Vision Cable, Metro Mobile, Southern Union	media, pipelines	64	1.4
+Gloria von Thurn und Taxis	363	2001	von Thurn and Taxis family	postal service, beverages	0	1.4
+Jay Van Andel	363	2001	Amway	consumer goods	76	1.4
+John van Vlissingen	363	2001	BCD Holdings	travel company	62	1.4
+Koo Chen-fu	363	2001	Koos group	financial services	0	1.4
+Marilyn Carlson Nelson	363	2001	Carlson Inc	hospitality	62	1.4
+Mark Cuban	363	2001	Broadcast.com	web broadcasting	40	1.4
+Michael Hilti	363	2001			54	1.4
+Miuccia Prada	363	2001	Prada	luxury goods	51	1.4
+Pierre Bellon	363	2001	Sodexo	catering	71	1.4
+Rafael del Pino	363	2001	Ferrovial	construction	80	1.4
+Robert McNair	363	2001	Cogen Technologies	cogeneration	60	1.4
+Roman Abramovich	363	2001	Millhouse LLC	private investment company	34	1.4
+Soichiro Fukutake	363	2001	Benesse Corporation	publishing	55	1.4
+Stanley Druckenmiller	363	2001	Duquesne Capital	hedge funds	47	1.4
+Stein Erik Hagen	363	2001	RIMI	groceries	44	1.4
+Stephen Case	363	2001	AOL	internet company	49	1.4
+Thomas Frist	363	2001	Hostpital Corporation of America	hospitals	62	1.4
+Willi and Isolde Liebherr	363	2001	Liebherr	construction	0	1.4
+William Ford	363	2001	Ford Motor Company	automobiles	0	1.4
+William Kellogg	363	2001	Khol's	retail	57	1.4
+Juan and Carlos March	364	1996	Acciona Trasmediterranea	shipping	0	1.1
+Baron Hans Heinrich Thyssen-Bornemisza	365	1996	TBG (Thyssen-Bornemisza Group) Holdings	steel	0	1.1
+Chang Yung Fa	366	1996	Evergreen Group	shipping	69	1.1
+Robert Haas	367	1996	Levi Strauss & co	jeans	0	1.1
+Anthony Bamford	367	2014	JCB	heavy equiptment (excavators, backhoes and tractors)	68	4.1
+Barry Lam	367	2014	Quanta Computer	laptops	64	4.1
+Beny Steinmetz	367	2014	Steinmetz Diamond Group and BSGR	diamonds	57	4.1
+Eduardo Saverin	367	2014	Facebook	internet	31	4.1
+Francisco Ivens de Sa Dias Branco	367	2014	M. Dias Branco S.A.	food production	77	4.1
+Ingvar Kamprad	367	2014	IKEA	furniture	87	4.1
+Nancy Walton Laurie	367	2014	Walmart	 retail	62	4.1
+Shahid Khan	367	2014	Flex-N-Gate	auto parts	63	4.1
+Hope Hill Van Beuren	368	1996	Campbell Soup	soup	35	1.1
+Charlotte Colket Weber	369	1996	Campbell Soup	soup	35	1.1
+Evelyn Danzig Haas	370	1996	Levi Strauss & co	jeans	0	1.1
+Ted Schwartz	371	1996	APAC Customer Services	outsourcing	0	1.1
+William Ford	372	1996	Ford Motor Company	automobiles	0	1.1
+Richard Rainwater	373	1996	ENSCO International	hedge funds	51	1.1
+Michael Dell	374	1996	Dell	technology	31	1.1
+Reese Rowling	375	1996	Tana Exploration Company	oil	0	1.1
+Arkady Rotenberg	375	2014	SGM Group, Mostotrest, TPS Avia	construction	62	4.0
+Bertil Hult	375	2014	EF Education	education, language schools	73	4.0
+Chairul Tanjung	375	2014	Para Group (aka CT Corp)	investment banking	51	4.0
+Curt Engelhorn	375	2014	BASF/Boehringer Mannheim/DePuy	pharmaceuticals	87	4.0
+David & Frederick Barclay	375	2014	Press Holdings	media	80	4.0
+Erich Kellerhals	375	2014	Media Markt	retail	75	4.0
+Gustaf Douglas	375	2014	Investment AB Latour	security 	76	4.0
+Gustavo Cisneros	375	2014	Cisneros Group	media	68	4.0
+John Morris	375	2014	Bass Pro Shops	sports retail	65	4.0
+Lars Larsen	375	2014	JYSK	retail	65	4.0
+Lei Jun	375	2014	Xiaomi Tech	technology	44	4.0
+Randal Kirk	375	2014	General Injectables and Vaccines/Third Security LLC	biotech investing	60	4.0
+Wang Wei	375	2014	S.F. Express	express delivery services	0	4.0
+Curtis LeRoy Carlson	376	1996	Carlson	hospitality	0	1.1
+Charles Schwab	377	1996	Charles Schwab Corporation	brokerage/banking	58	1.1
+Eli Broad	378	1996	Kaufman and Broad, SunAmerica	construction/insurance	62	1.1
+Carl Lindner Jr	379	1996	American Financial Group	banking	76	1.1
+Thomas Frist	380	1996	Hostpital Corporation of America	hospitals	57	1.1
+Charles Gates Jr	381	1996	Gates Rubber Company	tires	74	1.1
+Gustavo Cisneros	382	1996	Cisneros Group	media	50	1.1
+Ahmed Ali Kanoo	383	1996	YBA Kanoo	shipping	0	1.0
+Larragoiti family	384	1996	SulAmerica Seguros	insurance	0	1.0
+Norberto Odebrecht	385	1996	Odebrecht Group	construction	0	1.0
+Gerard Louis-Dreyfus	386	1996	Louis Dreyfus Group	energy	63	1.0
+Nathaniel Rothschild	387	1996	?N M Rothschild & Sons	banking	0	1.0
+Alfredo Harp Helu	387	2001	Banamex	banking	57	1.3
+Andronico Luksic	387	2001	Antofagasta	copper	74	1.3
+Anthony Bamford	387	2001	JCB	heavy equiptment (excavators, backhoes and tractors)	55	1.3
+Arthur Williams Jr	387	2001	A.L. Williams & Associates	life insurance 	58	1.3
+Arturo Moreno	387	2001	Outdoor Systems	advertising	54	1.3
+Bradley Hughes	387	2001	Public Storage	self-storage	67	1.3
+Calisto Tanzi	387	2001	Parmalat	dairy	0	1.3
+Carlo De Benedetti	387	2001	CIR Group	media	0	1.3
+Charles Munger	387	2001	Berkshire Hathaway	 Finance	76	1.3
+Donald Sturm	387	2001	Peter Kiewit Sons	investments	0	1.3
+Eliodoro Matte	387	2001	CMPC	timber and paper	55	1.3
+Francesco Micheli	387	2001	e.Biscom-Fastweb	new technology	0	1.3
+Germain Lamonde	387	2001	EXFO	service assurance instruments	0	1.3
+Haim Saban	387	2001	Saban Entertainment	media	56	1.3
+Hans-Werner Hector	387	2001	SAP AG	software	61	1.3
+Henry Sy	387	2001	SM Malls	retail	76	1.3
+Isaac Saba Raffoul	387	2001	Groupo Casa Saba	pharmaceuticals	77	1.3
+James Moran	387	2001	JM Family Enterprises	auto dealerships	82	1.3
+Johann Rupert	387	2001	Rembrandt Group	tobacco/luxury brands	50	1.3
+Kenneth Langone	387	2001	Home Depot	home improvement retail	65	1.3
+Mikhail Fridman	387	2001	Alfa Group	investment banking	36	1.3
+Patrick Guerrand	387	2001	Hermes	luxury fashion	0	1.3
+Pierce Marshall	387	2001	Standard Oil	oil	0	1.3
+Putera Sampoerna	387	2001	Sampoerna	cigarette	0	1.3
+Richard Pratt	387	2001	Visy Industries	paper	66	1.3
+Roberto Hernandez Ramirez	387	2001	Banamex	banking	0	1.3
+Rong Yiren	387	2001	China International Trust and Investment Corp	investment	0	1.3
+Saleh Al Rajhi	387	2001	Al-Rajhi Bank	banking	89	1.3
+Silvio Scaglia	387	2001	Fastweb	telecommunications	42	1.3
+Steven Jobs	387	2001	Apple	technology	46	1.3
+Vagit Alekperov	387	2001	Lukoil	oil	50	1.3
+Vincent Smith	387	2001	Patrol Software North America	software	0	1.3
+Wallace McCain	387	2001	McCain Foods Limited	food	71	1.3
+William Levine	387	2001	Outdoor Systems	advertising	0	1.3
+Adolf Merckle	388	1996	Ratiopharm	pharmaceuticals	61	1.0
+Bernard (Barry) Sherman	388	2014	Empire Laboratories	pharmaceuticals	72	3.9
+Daniel Och	388	2014	Och-Ziff Capital Management Group	hedge funds	53	3.9
+Donald Trump	388	2014	The Trump Organization	real estate	67	3.9
+Heinz-Georg Baus	388	2014	Bauhaus	home improvement retail	80	3.9
+John Gokongwei, Jr.	388	2014	JG Summit Holdings	manufacturing, real estate, aviation	86	3.9
+Martha Ingram	388	2014	Ingram Industries	transportation	78	3.9
+Riley Bechtel	388	2014	Bechtel Corporation	construction	61	3.9
+Stephen Bechtel, Jr.	388	2014	Bechtel Corporation	construction	88	3.9
+Strwher family	389	1996			0	1.0
+Werhahn family	390	1996	Wilh. Werhahn KG	building materials	0	1.0
+Chao Kuang-Piu	391	1996		wool	0	1.0
+Shoul Eisenberg	392	1996	Israel Corporation	fertalizers	0	1.0
+Sammy Ofer	393	1996	Zodiac Maritime Agencies	shipping	0	1.0
+Otani Family	394	1996			0	1.0
+Shoichiro Toyoda	395	1996	Toyota Motors	cars	0	1.0
+Junichi Murata	396	1996			0	1.0
+Alain Merieux	396	2014	Institut Merieux	pharmaceuticals	76	3.8
+Alexander Abramov	396	2014	EvrazHolding	steel 	55	3.8
+Andreas von Bechtolsheim	396	2014	Sun Microsystems	microchips	58	3.8
+Jeffrey Skoll	396	2014	Ebay	e-commerce	49	3.8
+Mark Shoen	396	2014	U-haul	self storage	62	3.8
+Mitchell Rales	396	2014	Danaher	venture capitalist	57	3.8
+Odd Reitan	396	2014	Reitan Group	groceries	62	3.8
+Peter Hargreaves	396	2014	Hargreaves Lansdown	financial services	67	3.8
+Steve Wynn	396	2014	Wynn Resorts (formarly Mirage Resorts)	casinos	72	3.8
+Uday Kotak	396	2014	Kotak Mahindra Bank	banking	54	3.8
+Walter Faria	396	2014	Grupo Petropolis	beer	58	3.8
+William Koch	396	2014	Koch industries	  Oil refining	73	3.8
+Halim Saad	397	1996	Renong		0	1.0
+Jeronimo Arango	398	1996	Aurrera	supermarkets	70	1.0
+Ricardo Salinas Pliego	399	1996	Grupo Salinas/Group Elektra	telecommunications	40	1.0
+Autrey family	400	1996			0	1.0
+Ana Maria Brescia Cafferata	401	1996	Grupo Prescia (now Pandora Group)	mining, banking	0	1.0
+Eugenio Lopez	402	1996	Jumex	drinks	0	1.0
+Saleh Kamel	403	1996	Dallah al Baraka Group	airport maintenance	54	1.0
+Abdul Aziz Al-Sulaiman	404	1996	Rolaco Trading and Contracting Company	construction	0	1.0
+Alicia and Esther Koplowitz	405	1996	Construcciones y Contratas	construction	0	1.0
+Henri Andre	406	1996	Andre & Cie	grain	0	1.0
+Eric Andre	407	1996	Andre & Cie	grain	0	1.0
+Boonsong Asavabhokhin	408	1996			0	1.0
+Aloys Wobben	408	2014	Enercon	wind energy	62	3.7
+Axel Oberwelland	408	2014	Storck	candy	47	3.7
+Charles Dolan	408	2014	Cablevision and HBO	media	87	3.7
+Daniel Gilbert	408	2014	Quicken Loans	real estate	52	3.7
+Gong Hongjia	408	2014	Hikvision	security equipment	49	3.7
+Guenther Fielmann	408	2014	Fielmann AG	glasses	74	3.7
+Igor Kesaev	408	2014	Mercury Company	cigarettes	47	3.7
+Isabel dos Santos	408	2014	Unitel Interneational Holdings	telecom/investments	40	3.7
+Jiang Bin	408	2014	GoerTek	electronic componants	47	3.7
+John Sall	408	2014	SAS institute	software	65	3.7
+Joseph Tsai	408	2014	Alibaba	e-commerce	50	3.7
+Karen Pritzker	408	2014	Hyatt	hotels	56	3.7
+Martin & Olivier Bouygues	408	2014	Bouygues S.A.	construction	0	3.7
+Michael Stoschek	408	2014	Brose	auto parts	66	3.7
+Murat Ulker	408	2014	Yildiz Holding	food products	54	3.7
+Nathan Kirsh	408	2014	Jetro Holdings	retail	82	3.7
+Niels Peter Louis-Hansen	408	2014	Coloplast	medical devices	66	3.7
+Ronald Lauder	408	2014	Est?Lauder	makeup	70	3.7
+Wu Yajun	408	2014	Longfor Properties	real estate	50	3.7
+Zhang Jindong	408	2014	Suning Group	retail, home appliances	50	3.7
+Zhang Xin	408	2014	SOHO China	real estate	48	3.7
+John Sall	409	1996	SAS institute	software	54	1.0
+James Jannard	410	1996	Oakley, Inc	apparel and eyewear	46	1.0
+Kenneth Tuchman	411	1996	Teletech	outsourcing	0	1.0
+Michael Bloomberg	412	1996	Bloomberg	 finance	53	1.0
+Laurance Rockefeller	413	1996	Standard Oil	oil	85	1.0
+Randolph Hearst	414	1996	Hearst Corporation	media	0	1.0
+Fred Lennon	415	1996	Swagelok Company	manufacturing	0	1.0
+Winthrop Rockefeller	416	1996	Standard Oil	oil	47	1.0
+Dirk Ziff	417	1996	Ziff Davis Inc	publishing	31	1.0
+Robert Ziff	418	1996	Ziff Davis Inc	publishing	21	1.0
+Daniel Ziff	419	1996	Ziff Davis Inc	publishing	24	1.0
+James Moran	420	1996	JM Family Enterprises	auto dealerships	77	1.0
+Jack Taylor	421	1996	Enterprise	rental cars	0	1.0
+Anthony O'Reilly	421	2001	Independent News & Media	media	64	1.2
+Archie Aldis Emmerson	421	2001	Sierra Pacific Industries	lumber, real estate	71	1.2
+Brian Roberts	421	2001	Comcast	media	0	1.2
+Daniel Ziff	421	2001	Ziff Davis Inc	publishing	29	1.2
+David Bromilow	421	2001	ADIDAS	clothing 	0	1.2
+Dirk Ziff	421	2001	Ziff Davis Inc	publishing	36	1.2
+Edward Bass	421	2001	Sid Richardson Gasoline Co	oil	56	1.2
+Frederick Field	421	2001	Marshall Field and Company	retail	48	1.2
+Harold Lenfest	421	2001	Lenfest Communications	media	0	1.2
+Herbert Siegel	421	2001	BHC Communications	television	73	1.2
+Jaime Augusto Zobel de Ayala	421	2001	Ayala Corporation	construcion	0	1.2
+John Fredriksen	421	2001	Frontline Ltd.	oil tankers	56	1.2
+John Krehbiel Jr	421	2001	Molex Incorporated	electronic interconnectors	0	1.2
+John Marriott Jr	421	2001	Marriot	hotels	65	1.2
+Jon Stryker	421	2001	Stryker Corporation	medical supplies	42	1.2
+Joseph Jamail Jr	421	2001		lawsuits	75	1.2
+Kunio Busujima	421	2001	Sankyo	pachinko gaming machines	33	1.2
+Lee Seng Wee	421	2001	Oversea-Chinese Banking Corporation	banking	76	1.2
+Lucio Tan	421	2001	Asia Brewery	beverages	66	1.2
+Marc Rich	421	2001	Glencore	oil	66	1.2
+Marguerite Harbert	421	2001	Harbart Corporation	construction	77	1.2
+Mortimer Zuckerman	421	2001	Boston Properties	real estate	63	1.2
+Peter Nicholas	421	2001	Boston Scientific	medical devices	60	1.2
+Renato Soru	421	2001	Tiscali	internet service company	0	1.2
+Richard Scaife	421	2001	Mellon	banking, oil, aluminum	0	1.2
+Robert Ziff	421	2001	Ziff Davis Inc	publishing	31	1.2
+Ron and Fred Mannix	421	2001	Mancal Group	oil	0	1.2
+Socrates Kokkalis	421	2001	Intracom	software	0	1.2
+Sydell Miller	421	2001	Matrix	hair care products	0	1.2
+Thaksin Shinawatra	421	2001	Advanced Info Service	mobile phones	0	1.2
+Winthrop Rockefeller	421	2001	Standard Oil	oil	52	1.2
+Steven Spielberg	422	1996	DreamWorks	movies	49	1.0
+Carl Pohlad	423	1996	Marquette Bank	banking	80	1.0
+Vanich Chaiyawan	429	2014	Thai Life	life insurance	0	3.7
+David Shaw	430	2014	D.E. Shaw & Co	hedge funds	62	3.6
+God Nisanov	430	2014	Kiyevskaya Ploshad	real estate	41	3.6
+Ian & Richard Livingstone	430	2014	London & Regional Properties	real estate	0	3.6
+J. Christopher Reyes	430	2014	Reyes Holdings	beer and food distribution	60	3.6
+Jan Kulczyk	430	2014	Kulczyk Investments	telecom, oil, beer	64	3.6
+Jerry Speyer	430	2014	Tishman Speyer	real estate	73	3.6
+Jude Reyes	430	2014	Reyes Holdings	beer and food distribution	58	3.6
+Maria-Elisabeth Schaeffler	430	2014	Schaeffler Group	roller bearings	72	3.6
+Michael Platt	430	2014	BlueCrest Capital Management	hedge funds	45	3.6
+Reid Hoffman	430	2014	LinkedIn	internet	46	3.6
+Sheldon Solow	430	2014	Solow Building Company	real estate	85	3.6
+Steven Rales	430	2014	Danaher	venture capitalist	62	3.6
+Steven Udvar-Hazy	430	2014	International Lease Finance Corporation	aircraft leasing	68	3.6
+Zarakh Iliev	430	2014		real estate	47	3.6
+Zhang Shiping	430	2014	China Hongqiao	aluminum	67	3.6
+Adi Godrej	446	2014	Godrej Group	security	71	3.5
+Andreas Struengmann	446	2014	Hexal AG	pharmaceuticals	64	3.5
+Bernard Marcus	446	2014	Home Depot	home improvement retail	84	3.5
+Evan Williams	446	2014	Twitter	internet	41	3.5
+George Bishop	446	2014	GeoSouthern	oil and gas	77	3.5
+H. Ross Perot, Sr.	446	2014	Electronic Data Systems	data processing	83	3.5
+Jamshyd Godrej	446	2014	Godrej Group	security	65	3.5
+Keiichiro Takahara	446	2014	Unicharm	diapers	82	3.5
+Leon G. Cooperman	446	2014	Omega Advisors	asset management	70	3.5
+Lorenzo Mendoza	446	2014	Empresas Polar	beer	48	3.5
+Lu Guanqiu	446	2014	Wanxiang Group	automotive parts	69	3.5
+Masatoshi Ito	446	2014	Ito-Yokado	retail	89	3.5
+Prince Sultan bin Mohammed bin Saud Al Kabeer	446	2014	Almarai	dairy	60	3.5
+Rosa Anna Magno Garavoglia	446	2014	Gruppo Campari	spirits	0	3.5
+Sri Prakash Lohia	446	2014	Indorama Corporation	petrochemicals and textiles	61	3.5
+Thomas Struengmann	446	2014	Hexal AG	pharmaceuticals	64	3.5
+Yvonne Bauer	446	2014	Bauer Media Group	media	36	3.5
+Zygmunt Solorz-Zak	446	2014	Polsat	television	57	3.5
+Albert Ueltschi	452	2001	FlightSafety International	commercial pilot training	83	1.1
+Arthur Rock	452	2001	Davis & Rock	venture capitalist	74	1.1
+Barry Lam	452	2001	Quanta Computer	laptops	51	1.1
+Bruce McCaw	452	2001	McCaw Cellular	cell phones	0	1.1
+Charlotte Colket Weber	452	2001	Campbell Soup	soup	50	1.1
+Christopher Goldsbury	452	2001	Pace Foods	salsa	58	1.1
+David Murdock	452	2001	Dole Food Company	food	77	1.1
+Edward Rogers	452	2001	Rogers Communications	media	67	1.1
+Francesco Gaetano Caltagirone	452	2001	Caltagirone Holdings	cement	54	1.1
+Harrison McCain	452	2001	McCain Foods Limited	food	73	1.1
+Henry Fok	452	2001	Sociedade de Turismo e Divers?es de Macau	casinos	77	1.1
+Ikuo Ogihara	452	2001	Kyorin Pharmaceutical	pharmaceuticals	0	1.1
+J Joseph Ricketts	452	2001	TD Ameritrade	banking	59	1.1
+Jean Coutu	452	2001	Jean Coutu Group	retail	73	1.1
+John Abele	452	2001	Boston Scientific	medical devices	69	1.1
+John McCaw	452	2001	McCaw Cellular	cell phones	50	1.1
+Kagemasa Kozuki	452	2001	Konami	video games	0	1.1
+Keith McCaw	452	2001	McCaw Cellular	cell phones	0	1.1
+Kenkichi Nakajima	452	2001	Heiwa	pachinko	0	1.1
+Marco Tronchetti Provera	452	2001	Pirelli Group	tires	0	1.1
+Mary Anselmo	452	2001	PanAmSat	satallite communications	72	1.1
+Patricia Short	452	2001			0	1.1
+Patrick Ryan	452	2001	Aon Corporation	risk management	63	1.1
+Peter Woo	452	2001	Worldwide Shipping Group	real estate	55	1.1
+Quek Leng Chan	452	2001	Hong Leong Financial Group	financial services	60	1.1
+Robert Dedman	452	2001	ClubCorp	golf courses	0	1.1
+Robert McLane	452	2001	McLane Company	groceries	64	1.1
+Ronda Stryker	452	2001	Stryker Corporation	medical supplies	46	1.1
+Roy Disney	452	2001	Disney	entertainment	71	1.1
+Sidney Kimmel	452	2001	Jones Apparel Group	apparel	73	1.1
+Stanley Ho	452	2001	Sociedade de Turismo e Divers?es de Macau	casinos	79	1.1
+Thomas Flatley	452	2001	The Flatley Co	real estate	68	1.1
+Victor Fung	452	2001	Li & Fung Group	supply chain	56	1.1
+Viktor Chernomyrdin	452	2001	Gazprom	natural gas	0	1.1
+Viscount Rothermere	452	2001	Associated Newspapers	media	0	1.1
+Walter Scott Jr	452	2001	Piewit Corporation	construction	69	1.1
+William Cook	452	2001	Cook Group	medical technology	69	1.1
+William Fung	452	2001	Li & Fung Group	supply chain	53	1.1
+Andrei Guriev	466	2014	Apatit	fertilizer	53	3.4
+Chung Eui-Sun	466	2014	Hyundai	cars	43	3.4
+Daniela Herz	466	2014	Maxingvest AG	coffee	60	3.4
+Edward Roski, Jr.	466	2014	Majestic Realty Co.	real estate	75	3.4
+Fredrik Lundberg	466	2014	LE Lundbergforetagen AB	construction	62	3.4
+Haim Saban	466	2014	Saban Entertainment	media	69	3.4
+Han Chang-Woo	466	2014	Maruhan	gaming	83	3.4
+Jim Davis	466	2014	New Balance	shoes	70	3.4
+John Doerr	466	2014	Kleinter Perkins Caufield & Byers	venture capitalist	62	3.4
+John Gandel	466	2014	Chadstone Shopping Center	real estate	79	3.4
+Lin Yu-lin	466	2014	Hong Tai Group	real estate	78	3.4
+Rafael Del Pino y Calvo-Sotelo	466	2014	Ferrovial	construction	55	3.4
+Ronda Stryker	466	2014	Stryker Corporation	medical supplies	59	3.4
+Steven Spielberg	466	2014	DreamWorks	movies	67	3.4
+Sun Guangxin	466	2014	Xinjiang Guanghui Industry Investment Group	energy	51	3.4
+Tamara Gustavson	466	2014	Public Storage	self storage	52	3.4
+Wolfgang Marguerre	466	2014	Octapharma	biopharmaceutical	73	3.4
+Aloysio de Andrade Faria	483	2014	Banco Real	banking	93	3.3
+Antti Herlin	483	2014	Kone Corporation	elevators, escalators, engineering	57	3.3
+Clayton Riddell	483	2014	Paramount Resources	petroleum	76	3.3
+Daryl Katz	483	2014	Katz Group	drug stores	52	3.3
+David Consunji	483	2014	DMCI	construction	92	3.3
+Doris Fisher	483	2014	The Gap	clothing 	82	3.3
+Francis Choi	483	2014	Early Light International	toys	66	3.3
+Fu Liquan	483	2014	Zhejiang Dahua Technology	security and surveillance technology	46	3.3
+Israel Englander	483	2014	Millennium Management LLC	hedge funds	65	3.3
+Jean Pierre Cayard	483	2014	La Martiniquaise	wine and spirits	71	3.3
+Marc Benioff	483	2014	salesforce.com	cloud computing	49	3.3
+Matthias Reimann-Andersen	483	2014	Benckiser	consumer goods	48	3.3
+Mikhail Gutseriev	483	2014	Russneft	oil/investments	55	3.3
+Otto Happel	483	2014	GEA Group	food and energy processess	66	3.3
+Phillip Frost	483	2014	Opko Health	pharmaceuticals	77	3.3
+Renate Reimann-Haas	483	2014	Benckiser	consumer goods	62	3.3
+Renzo Rosso	483	2014	Diesel	fashion	58	3.3
+Samuel Yin	483	2014	Ruentex Group	retail, financial services, real estate	63	3.3
+Sarik Tara	483	2014	Enka insaat ve Sanayi	construction	83	3.3
+Stefan Reimann-Andersen	483	2014	Benckiser	consumer goods	50	3.3
+Stephan Schmidheiny	483	2014	Holcim	construction	66	3.3
+Terrence Pegula	483	2014	East Resources	natural gas	63	3.3
+Wolfgang Reimann	483	2014	Benckiser	consumer goods	61	3.3
+Albert Frere	490	2001	Groupe Bruxelles Lambert	steel/banking	75	1.0
+Alberto Vilar	490	2001	Amerindo Investment Advisors	investment banking	0	1.0
+Alicia Koplowitz	490	2001	Construcciones y Contratas	construction	48	1.0
+Amalia Lacroze de Fortabat	490	2001	Loma Negra	cement	0	1.0
+Ananda Krishnan	490	2001	Usaha Tegas Sdn Bhd	real estate	62	1.0
+Antonia Johnson	490	2001	Axel Johnson Group	trade investment	57	1.0
+Barry Diller	490	2001	IAC 	media	59	1.0
+Belmiro de Azevedo	490	2001	Sonae SGPS	retail	59	1.0
+Benjamin de Rothschild	490	2001	Edmond de Rothschild Group	banking	0	1.0
+Bruce Kovner	490	2001	Caxton Associates	commodities trading	55	1.0
+Charles Simonyi	490	2001	Microsoft	software	53	1.0
+Chey Tae-Won	490	2001	SK Corporation	petrochemicals, textiles	40	1.0
+David Filo	490	2001	Yahoo!	software	34	1.0
+Dean White	490	2001	Whiteco Industries	advertising	77	1.0
+Donald Schneider	490	2001	Schneider National	trucking	65	1.0
+Dorrance Hill Hamilton	490	2001	Campbell Soup	soup	0	1.0
+Ernestina Herrera de Noble	490	2001	Grupo Clarin	media	0	1.0
+Esther Koplowitz	490	2001	Construcciones y Contratas	construction	50	1.0
+Frank Levinson	490	2001	Finisar	data storage	0	1.0
+Gabriel Escarrer	490	2001	Melia Hotels International	hotels	66	1.0
+George Ying Chow Lien	490	2001	Overseas Chinese Union Bank	banking	0	1.0
+Gerald Cadogan	490	2001	Cadogan Estates	real estate	0	1.0
+German Larrea Mota Velasco	490	2001	Grupo Mexio	copper	47	1.0
+Hope Hill Van Beuren	490	2001	Campbell Soup	soup	55	1.0
+Jacob and Yehudith Richter	490	2001	Medinol	pharmaceuticals	0	1.0
+Jacques Servier	490	2001	Laboratories Servier	pharmaceuticals	0	1.0
+James France	490	2001	NASCAR	sports	56	1.0
+Jerome Kohlberg	490	2001	Kohberg Kravis Roberts & Co	private equity	75	1.0
+Jerry Yang	490	2001	Yahoo!	software	32	1.0
+John Doerr	490	2001	Kleinter Perkins Caufield & Byers	venture capitalist	50	1.0
+John Todd	490	2001	Todd Energy	oil	0	1.0
+Julian Robertson	490	2001	Tiger Management Corp	hedge funds	69	1.0
+Lee Hon Chiu	490	2001	Hysan Development	real estate	0	1.0
+Malcolm Green Chace III	490	2001	First Allied Corporation	investments/real estate, sports teams	0	1.0
+Mark Dixon	490	2001	Regus	business centers	0	1.0
+Michael Lee-Chin	490	2001	Otto Group	mail order retail	50	1.0
+Norman Waitt	490	2001	Gateway	computers	0	1.0
+Onsi Sawiris	490	2001	Orascom	construction	71	1.0
+Pincus Green	490	2001	Glencore	oil	65	1.0
+Scott Kriens	490	2001	Juniper Networks	networking equipment	0	1.0
+Sheldon Adelson	490	2001	Las Vegas Sands	 casinos	67	1.0
+Shoji Uehara	490	2001	Taisho Pharmaceutical	pharmaceuticals	0	1.0
+Thomas Bailey	490	2001	Janus Capital Group	mutual funds	64	1.0
+Toichi Takenaka	490	2001	Takenaka Corporation	construction	58	1.0
+Tom Gores	490	2001	Platinum Equity	private equity	36	1.0
+Vinod Khosla	490	2001	Sun Microsystems	software	46	1.0
+Wee Cho Yaw	490	2001	United Overseas Bank	banking	72	1.0
+William France Jr	490	2001	NASCAR	sports	68	1.0
+William Hearst III	490	2001	Hearst Corporation	media	51	1.0
+Austen Cargill, II.	506	2014	Cargill	food processing/commodities	63	3.2
+Christoffel Wiese	506	2014	Shoprite	consumer retail	72	3.2
+Desh Bandhu Gupta	506	2014	Lupin Limited	pharmaceuticals	76	3.2
+Frederick Smith	506	2014	FedEx	shipping	69	3.2
+George Lindemann	506	2014	Vision Cable, Metro Mobile, Southern Union	media, pipelines	77	3.2
+Gianluigi Aponte	506	2014	MSC	shipping	0	3.2
+Heidi Horten	506	2014	Horten AG	retail	73	3.2
+Issad Rebrab	506	2014	CEVITAL	manufacturing (agriculture, steel, electronics)	70	3.2
+James Cargill, II.	506	2014	Cargill	food processing/commodities	64	3.2
+Julian Robertson, Jr.	506	2014	Tiger Management Corp	hedge funds	82	3.2
+Liu Yonghao	506	2014	New Hope Group	animal feed	62	3.2
+Lu Xiangyang	506	2014	BYD	automobiles	51	3.2
+Marianne Liebmann	506	2014	Cargill	food processing/commodities	60	3.2
+Rafaela Aponte	506	2014	MSC	shipping	0	3.2
+Spiro Latsis	506	2014	EFG International	shipping	67	3.2
+Victor Pinchuk	506	2014	Interpipe	pipelines	53	3.2
+Alexander Svetakov	520	2014	Absolut	banking, real estate	46	3.1
+Andre Esteves	520	2014	BTG Pactual	banking	45	3.1
+Anthony Pritzker	520	2014	Hyatt	hotels	53	3.1
+Antonio Ermirio de Moraes	520	2014	Votorantim Group	metals, paper, cement	85	3.1
+Archie Aldis Emmerson	520	2014	Sierra Pacific Industries	lumber, real estate	84	3.1
+Daniel D'Aniello	520	2014	Carlyle Group	private equity	67	3.1
+David Azrieli	520	2014	Azrieli Group	shopping centers	91	3.1
+David Rubenstein	520	2014	Carlyle Group	private equity	64	3.1
+Eddie & Sol Zakay	520	2014	Topland Group	real estate	63	3.1
+Ermirio Pereira de Moraes	520	2014	Votorantim Group	metals, paper, cement	81	3.1
+Hans Peter Wild	520	2014	?Rudolf WILD GmbH & Co. KG	natural flavors	72	3.1
+Isaac Perlmutter	520	2014	Marvel Entertainment	media	71	3.1
+James Jannard	520	2014	Oakley, Inc	apparel and eyewear	64	3.1
+Jay Robert (J.B.) Pritzker	520	2014	Hyatt	hotels	49	3.1
+Jeremy Jacobs, Sr.	520	2014	Delaware North Companies	hospitality and food service	74	3.1
+Judy Faulkner	520	2014	Epic Systems	healthcare management	70	3.1
+Maria Helena Moraes Scripilliti	520	2014	Votorantim Group	metals, paper, cement	83	3.1
+Mohamed Mansour	520	2014	Mansour Group	automobiles	66	3.1
+Mohammed Al Issa	520	2014	Savola Group	food processing	89	3.1
+Najib Mikati	520	2014	Investcom	telecommunications	58	3.1
+Peter Kellogg	520	2014	Spear, Leeds & Kellogg	investment banking	71	3.1
+Roger Wang	520	2014	Golden Eagle International Group	retail	65	3.1
+Shi Yuzhu	520	2014	Giant Interactive	software	51	3.1
+Stanley Druckenmiller	520	2014	Duquesne Capital	hedge funds	60	3.1
+Stelios Haji-Ioannou	520	2014	Easy Jet	airline	47	3.1
+Syed Mokhtar AlBukhary	520	2014	MMC Corp./DRBHicom	rice trading, mining, infrastructure	62	3.1
+Taha Mikati	520	2014	Investcom	telecommunications	69	3.1
+Theo Mueller	520	2014	Muller	dairy products	74	3.1
+Wang Yung-Tsai	520	2014	Formosa Plastics	petrochemicals	93	3.1
+William Conway, Jr.	520	2014	Carlyle Group	private equity	64	3.1
+Yitzhak Tshuva	520	2014	El-Ad Group	real estate	65	3.1
+Alexander Nesis	551	2014	ICT Group	private equity	51	3.0
+Amos Hostetter, Jr.	551	2014	Continental Cablevision	media	77	3.0
+Anthony Pratt	551	2014	Pratt Industries/Visy Industries	paper	53	3.0
+Brian Acton	551	2014	WhatsApp	software	42	3.0
+Edward Lampert	551	2014	ESL Investment	investment banking	51	3.0
+Fred DeLuca	551	2014	Subway	restaurant	66	3.0
+Friedhelm Loh	551	2014	Loh Group	industrial software	67	3.0
+H. Fisk Johnson	551	2014	S. C. Johnson & Son	cleaning supplies	55	3.0
+Harry Stine	551	2014	The Stine Seed Group	seeds	72	3.0
+Helen Johnson-Leipold	551	2014	S. C. Johnson & Son	cleaning supplies	57	3.0
+Husnu Ozyegin	551	2014	FIBA Holding	finance	69	3.0
+Imogene Powers Johnson	551	2014	S. C. Johnson & Son	cleaning supplies	84	3.0
+James Leprino	551	2014	Leprino Foods	cheese	76	3.0
+Jerry Jones	551	2014	Jones Oil and Land Lease	oil and gas	71	3.0
+John Catsimatidis	551	2014	Gristedes Foods	groceries	65	3.0
+John Paul DeJoria	551	2014	John Paul Mitchell Systems/Patron Spirits Company	hair care products/tequila	70	3.0
+Kerr Neilson	551	2014	Platinum Asset Management	asset management	64	3.0
+Kushal Pal Singh	551	2014	DLF Limited	real estate	82	3.0
+Lawrence Ho	551	2014	Sociedade de Turismo e Divers?es de Macau, SA	real estate	37	3.0
+Lu Zhiqiang	551	2014	Oceanwide Group of Beijing	real estate, financial services and computers	61	3.0
+Michel Leclercq	551	2014	Oxylane	sports equipment	74	3.0
+Paul Ramsay	551	2014	Ramsay Health Care	hospitals	78	3.0
+Peter Buck	551	2014	Subway	restaurant	83	3.0
+Robert Rich, Jr.	551	2014	Rich Products Corporation	frozen foods	73	3.0
+S. Curtis Johnson	551	2014	S. C. Johnson & Son	cleaning supplies	58	3.0
+Samuel Tak Lee	551	2014	Prudential Enterprise	real estate	74	3.0
+Tang Yiu	551	2014	Belle Holdings	footwear	80	3.0
+Wang Yusuo	551	2014	ENN Energy Group	natural gas	49	3.0
+Winnie Johnson-Marquart	551	2014	S. C. Johnson & Son	cleaning supplies	54	3.0
+Anil Agarwal	580	2014	Vedanta Resources	metals and mining	60	2.9
+Carlo Benetton	580	2014	Benetton Group	fashion	70	2.9
+David Filo	580	2014	Yahoo!	software	47	2.9
+David Rockefeller, Sr.	580	2014	Standard Oil	oil	98	2.9
+Do Won Chang	580	2014	Forever 21	fashion	0	2.9
+Farhad Moshiri	580	2014	Metalloinvest	metals	58	2.9
+Fernando Roberto Moreira Salles	580	2014	Unibanco	banking	67	2.9
+Gilberto Benetton	580	2014	Benetton Group	fashion	72	2.9
+Giuliana Benetton	580	2014	Benetton Group	fashion	76	2.9
+Herbert Louis	580	2014	S. C. Johnson & Son	cleaning supplies	85	2.9
+Igor Olenicoff	580	2014	Olen Properties	real estate	71	2.9
+Jaime Gilinski Bacal	580	2014	Gilinski Group	banking, real estate	56	2.9
+Jin Sook Chang	580	2014	Forever 21	fashion	0	2.9
+Joao Moreira Salles	580	2014	Unibanco	banking	52	2.9
+John Arnold	580	2014	Centaurus Advisors	hedge funds	39	2.9
+John Fisher	580	2014	The Gap	clothing 	52	2.9
+Josephine Louis	580	2014	S. C. Johnson & Son	cleaning supplies	83	2.9
+Joshua Harris	580	2014	Apollo Group Management	private equity	49	2.9
+Luciano Benetton	580	2014	Benetton Group	fashion	78	2.9
+Magdalena Martullo-Blocher	580	2014	EMS-Chemie	petrochemicals	45	2.9
+Marc Rowan	580	2014	Apollo Group Management	private equity	52	2.9
+Michael Pieper	580	2014	Artemis Goup	kitchen appliances	68	2.9
+Michael Ying	580	2014	Esprit Holdings Limited	clothing	64	2.9
+Oprah Winfrey	580	2014	Harpo Productions	media	60	2.9
+Pedro Moreira Salles	580	2014	Unibanco	banking	54	2.9
+Rahel Blocher	580	2014	EMS-Chemie	petrochemicals	38	2.9
+Robert Kraft	580	2014	International Forest Products	paper products	72	2.9
+Thomas Pritzker	580	2014	Hyatt	hotels	63	2.9
+Tom Gores	580	2014	Platinum Equity	private equity	49	2.9
+Walter Scott, Jr.	580	2014	Piewit Corporation	construction	82	2.9
+Walther Moreira Salles Junior	580	2014	Unibanco	banking	57	2.9
+Abilio dos Santos Diniz	609	2014	Companhia Brasileira de Distribui?ao	retail	77	2.8
+Alexandra Schorghuber	609	2014	Schorghuber Group	real estate	55	2.8
+Alexandre Soares dos Santos	609	2014	Jeronimo Martins	groceries	79	2.8
+Alfred Taubman	609	2014	Taubman Centers	real estate (shopping malls)	90	2.8
+Angela Leong	609	2014	Sociedade de Turismo e Divers?es de Macau, SA	real estate	52	2.8
+Bernard Broermann	609	2014	Asklepios Kliniken GmbH	hospitals	70	2.8
+Chee Chen Tung	609	2014	Orient Overseas Container Line	shipping	72	2.8
+Dirk Rossmann	609	2014	Rossmann	retail	67	2.8
+Edward DeBartolo, Jr.	609	2014	Edward J. DeBartolo Corporation	real estate	67	2.8
+Erman Ilicak	609	2014	Ronesans Construction	construction	46	2.8
+Gautam Adani	609	2014	Adani Group	energy (coal, oil and gas)	51	2.8
+Huang Rulun	609	2014	Century Golden Resources Group	real estate	62	2.8
+Joan Tisch	609	2014	Loews Corporation	retail	88	2.8
+John Caudwell	609	2014	Midland Mobile Phones	cell phones	61	2.8
+Krit Ratanarak	609	2014	Bank of Ayudhya/Bangkok Broadcasting and Television Company	banking, media	67	2.8
+Leandro Rizzuto	609	2014	Conair	hair care products 	75	2.8
+Mary Alice Dorrance Malone	609	2014	Campbell Soup	soup	64	2.8
+Masahiro Miki	609	2014	ABC-Mart	shoe retail	58	2.8
+Michael & Rainer Schmidt-Ruthenbeck	609	2014	Metro AG	retail	0	2.8
+Michael Moritz	609	2014	Sequoia Capital	venture capitalist	59	2.8
+Naguib Sawiris	609	2014	Orascom	construction	59	2.8
+Othman Benjelloun	609	2014	RMA Watanya	insurance	81	2.8
+Peter Sondakh	609	2014	Golden Eagle Energy	coal	62	2.8
+Philippe Foriel-Destezet	609	2014	Adecco	HR consulting	78	2.8
+Robert Bass	609	2014	Sid Richardson Gasoline Co	oil	66	2.8
+Saif Al Ghurair	609	2014	Al-Ghurair Group	industrial goods	0	2.8
+Suh Kyung-Bae	609	2014	AmorePacific	cosmetics	51	2.8
+Viktor Rashnikov	609	2014	Magnitogorsk Metallurgical Enterprise	iron and steel	65	2.8
+W. Herbert Hunt	609	2014	Petro-Hunt	oil	85	2.8
+Wilbur Ross, Jr.	609	2014	WL Ross & Co	leveraged buyouts	76	2.8
+Yang Kai	609	2014	China Huishan Dairy Holding	dairy products	57	2.8
+Ziyad Manasir	609	2014	Stroygazconsulting	construction	48	2.8
+Richard Chandler	641	2014	Chandler Corporation	private equity	55	2.8
+Dagmar Dolby	642	2014	Dolby Laboratories	video technology	72	2.7
+David Bonderman	642	2014	TPG Capital	private equity	71	2.7
+Elaine Wynn	642	2014	Wynn Resorts (formarly Mirage Resorts)	casinos	70	2.7
+Eva Maria Bucher-Haefner	642	2014	CA Technologies	software	57	2.7
+Hanni Toosbuy Kasprzak	642	2014	ECCO	shoes	56	2.7
+Jean-Michel Besnier	642	2014	Lactalis	cheese	46	2.7
+Jeff Sutton	642	2014	Wharton Properties	real estate	54	2.7
+Johan Johannson	642	2014	Joh. Johannson	groceries	47	2.7
+Law Kar Po	642	2014	Park Hotel Group	real estate	66	2.7
+Liu Qiangdong	642	2014	JD.com	e-commerce	39	2.7
+Marie Besnier Beauvalot	642	2014	Lactalis	cheese	33	2.7
+Michael Rubin	642	2014	Kynetic/GSI	e-commerce	41	2.7
+Miguel Krigsner	642	2014	O Botic?rio	cosmetics	64	2.7
+Patrice Motsepe	642	2014	African Rainbow Minerals	mining	52	2.7
+Qiu Guanghe	642	2014	Zhejiang Semir Garment	retail	62	2.7
+Robert Pera	642	2014	Ubiquiti Networks	wireless products	35	2.7
+Ron Burkle	642	2014	Yucaipa Companies	private equity	61	2.7
+Tong Jinquan	642	2014	Summit	real estate	59	2.7
+Ye Chenghai	642	2014	Shenzhen Salubris Pharmaceuticals	pharmaceuticals	70	2.7
+Yeoh Tiong Lay	642	2014	YTL Corporation	construction, utilities	84	2.7
+A. Jerrold Perenchio	663	2014	Univision	media	83	2.6
+Anita Zucker	663	2014	Hudson's Bay Company	retail	62	2.6
+Cristina Green	663	2014	Arcadia	fashion retail	0	2.6
+Daniel Mate	663	2014	Glencore Xstrata	mining	50	2.6
+Danil Khachaturov	663	2014	Rosgosstrakh	insurance	42	2.6
+Edson de Godoy Bueno	663	2014	Amil	healthcare management	70	2.6
+Emilio Azcarraga Jean	663	2014	Grupo Televisa	media	46	2.6
+Helmut Sohmen	663	2014	BW Group	shipping	74	2.6
+Herbert Allen, Jr.	663	2014	Allen & Company	investment banking	74	2.6
+Hui Lin Chit	663	2014	Hengan Internationl Group Company Limited	diapers	61	2.6
+Jason Chang	663	2014	Advanced Semiconductor Engineering	electronics	69	2.6
+Maria Luisa Solari Falabella	663	2014	SACI Falabella	retail	73	2.6
+Mark Cuban	663	2014	Broadcast.com	web broadcasting	55	2.6
+Martin Viessmann	663	2014	Viessmann Group	heating systems	60	2.6
+Pan Zhengmin	663	2014	AAC Technologies	electronics	44	2.6
+Patrick Lee	663	2014	Lee & Man Paper Manufacturing	paper	72	2.6
+Philip Green	663	2014	Arcadia	fashion retail	0	2.6
+Reinhold Schmieding	663	2014	Arthrex Inc	medical supplies	59	2.6
+Richard Rainwater	663	2014	ENSCO International	hedge funds	69	2.6
+Sean Parker	663	2014	Napster, Plaxo, Airtime	internet companies	34	2.6
+Sze Man Bok	663	2014	Hengan Internationl Group Company Limited	diapers	64	2.6
+Torbjorn Tornqvist	663	2014	Gunvor Group	oil trading	60	2.6
+Ty Warner	663	2014	Ty Inc.	toys	69	2.6
+Vasily Anisimov	663	2014	Metalloinvest/Coalco	real estate and metals	62	2.6
+Vladimir Bogdanov	663	2014	Surgutneftegaz	oil	62	2.6
+Yasumitsu Shigeta	663	2014	Hikari Tsushin	mobile phones	49	2.6
+Abdulla Al Futtaim	687	2014	Al-Futtaim Group	trading	0	2.5
+Aristotelis Mistakidis	687	2014	Glencore Xstrata	mining	52	2.5
+Belmiro de Azevedo	687	2014	Sonae SGPS	retail	75	2.5
+Bernardo Matte	687	2014	CMPC	timber and paper	58	2.5
+Bernd Freier	687	2014	s.Oliver	fashion	57	2.5
+Charles Dunstone	687	2014	The Carphone Warehouse	cell phones	50	2.5
+Chey Tae-Won	687	2014	SK Corporation	petrochemicals, textiles	53	2.5
+Clive Calder	687	2014	Zomba Group	music	67	2.5
+Dan Friedkin	687	2014	Gulf States Toyota Distributors	automobiles	49	2.5
+Dan Gertler	687	2014	DGI Group	mining	40	2.5
+David Cheriton	687	2014	Google	venture capitalist	62	2.5
+Eduardo Belmont Anderson	687	2014	Belcorp	cosmetics	68	2.5
+Eliodoro Matte	687	2014	CMPC	timber and paper	68	2.5
+Ennio Doris	687	2014	Mediolanum SpA	asset management	73	2.5
+Folorunsho Alakija	687	2014	Famfa Limited	fashion/oil	63	2.5
+Francisco Jose Riberas Mera	687	2014	Corporation Gestamp SL	steel	49	2.5
+H. Wayne Huizenga	687	2014	Waste Management	waste management	76	2.5
+Henry Hillman	687	2014	Pittsburgh Coke & Chemical	coal	95	2.5
+Hubert Burda	687	2014	Hubert Burda Media	media	74	2.5
+Jack Dangermond	687	2014	Environmental Systems Research Institute	software	68	2.5
+Jeff Greene	687	2014		real estate	59	2.5
+John Dorrance, III.	687	2014	Campbell Soup	soup	70	2.5
+Juan Maria Riberas Mera	687	2014	Corporation Gestamp SL	steel	0	2.5
+Juan-Miguel Villar Mir	687	2014	Obrascon Huarte Lain S.A.	construction	82	2.5
+Kjell Inge Rokke	687	2014	Aker Soulutions ASA	oil	55	2.5
+Madeleine Olsson Ericksson	687	2014	Stena Sphere	shipping	69	2.5
+Michael Milken	687	2014	Drexel Burnham Lambert	investment banking	67	2.5
+Min Kao	687	2014	Garmin	GPS technology	65	2.5
+Mochtar Riady	687	2014	Lippo Group	banking	84	2.5
+Neil Bluhm	687	2014	JMB Realty	real estate	76	2.5
+Pang Kang	687	2014	Foshan Haitian Flavoring and Food	soy sauce	58	2.5
+Patricia Matte	687	2014	CMPC	timber and paper	70	2.5
+Philip Niarchos	687	2014	Niarchos Ltd	shipping	60	2.5
+Phillip Ruffin	687	2014	New Frontier Hotel and Casino	casinos	78	2.5
+Shigenobu Nagamori	687	2014	Nidec	electronics	69	2.5
+Siegfried Meister	687	2014	Rational AG	kitchen appliances	76	2.5
+Stefan Olsson	687	2014	Stena Sphere	shipping	65	2.5
+Teddy Sagi	687	2014	Playtech	gambling software	42	2.5
+Timothy Headington	687	2014	Headington Oil	oil	63	2.5
+Valery Kogan	687	2014	East Line Group	airport	62	2.5
+Warren Stephens	687	2014	Stephans Inc.	financial services	57	2.5
+William Erbey	687	2014	Ocwen Financial	mortgages	64	2.5
+William Fung	687	2014	Li & Fung Group	supply chain	65	2.5
+William Wrigley, Jr.	687	2014	Wm Wrigley Jr. Company	gum	50	2.5
+Abdullah Al Rajhi	731	2014	Al Rajhi bank	Banking	0	2.4
+Andrej Babis	731	2014	Agrofert	agriculteral	59	2.4
+Barry Diller	731	2014	IAC 	media	72	2.4
+Bharat Desai	731	2014	Syntel	IT Consulting	61	2.4
+Brijmohan Lall Munjal	731	2014	Hero Group	bicycles	90	2.4
+Carlos Ardila Lulle	731	2014	Organizacion Ardila Lulle	soft drinks	83	2.4
+Edwin Leong	731	2014	Tai Hung Fai Enterprise	real estate	62	2.4
+Esther Grether	731	2014	Doetsch Grether	beauty and health care products	78	2.4
+George Argyros	731	2014	Arnel & Affiliates	real estate	77	2.4
+Henry Fong Yun Wah	731	2014	Hip Shing Hong Group	real estate	89	2.4
+Ingeburg Herz	731	2014	Maxingvest AG	coffee	92	2.4
+Juan Abello	731	2014	Abello Laboratories	pharmaceuticals	72	2.4
+Ken Fisher	731	2014	Fisher Investments	money management	63	2.4
+Kevin Plank	731	2014	Under Armour	apparel	41	2.4
+Kwek Leng Beng	731	2014	Hong Leong Group	banking	73	2.4
+Lawrence Stroll	731	2014	Michael Kors	retail	54	2.4
+Leszek Czarnecki	731	2014	Getin Holding	banking	52	2.4
+Liang Yunchao	731	2014	Guangdong By-Health Biotechnology	nutrition supplements	45	2.4
+Louis Le Duff	731	2014	Brioche Doree	restaurant	67	2.4
+Ma Jianrong	731	2014	Shenzhou International	textiles	50	2.4
+Maja Oeri	731	2014	Roche	pharmaceuticals	59	2.4
+Manuel Jove	731	2014	Fadesa	real estate	72	2.4
+Mortimer Zuckerman	731	2014	Boston Properties	real estate	76	2.4
+Onsi Sawiris	731	2014	Orascom	construction	84	2.4
+Pankaj Patel	731	2014	Cadila Healthcare	pharmaceuticals	60	2.4
+Richard Desmond	731	2014	Northern & Shell	media	62	2.4
+Rodney Lewis	731	2014	Lewis Energy	oil and natural gas	60	2.4
+Saleh Kamel	731	2014	Dallah al Baraka Group	airport maintenance	72	2.4
+Sebastian Pinera	731	2014	Bancard	credit cards	64	2.4
+Silas Chou	731	2014	Michael Kors	retail	67	2.4
+Stephen Lansdown	731	2014	Hargreaves Lansdown	financial services	61	2.4
+Tilman Fertitta	731	2014	Landry's Restaurant	restaurant	56	2.4
+Peter Lim	763	2014	Wilmar International	palm oil	60	2.4
+Alexander Mamut	764	2014	Livejournal	technology	54	2.3
+Alexander Ponomarenko	764	2014	NCSP Group	port	49	2.3
+Alexander Skorobogatko	764	2014	NCSP Group	port	46	2.3
+Bernard Saul, II.	764	2014	B. F. Saul Company	mortgage banking	81	2.3
+Bill Gross	764	2014	PIMCO	mutual funds	69	2.3
+Cai Kui	764	2014	Longfor Properties	real estate	51	2.3
+Caprotti Bernardo	764	2014	Esselunga	groceries	88	2.3
+Chen Fashu	764	2014	Zijin Mining Group	mining	53	2.3
+Clemmie Spangler, Jr.	764	2014	Bank of North Carolina	banking	81	2.3
+David Murdock	764	2014	Dole Food Company	food	90	2.3
+George Ty	764	2014	Metropolitan Bank and Trust Company	banking	81	2.3
+Henadiy Boholyubov	764	2014	Privatbank	Banking	52	2.3
+Indu Jain	764	2014	Bennett, Coleman & Co Ltd.	media	77	2.3
+James France	764	2014	NASCAR	sports	69	2.3
+Jean (Gigi) Pritzker	764	2014	Hyatt	hotels	52	2.3
+Jean Claude Gandur	764	2014	Addax Petroleum	oil	65	2.3
+Jia Yueting	764	2014	Leshi Television	entertainment	41	2.3
+John Whittaker	764	2014	The Peel Group	real estate	71	2.3
+Julio Ponce	764	2014	Quimica y Minera de Chile	mining	68	2.3
+Kenneth Langone	764	2014	Home Depot	home improvement retail	78	2.3
+Kuok Khoon Hong	764	2014	Wilmar International	palm oil	64	2.3
+Mario Moretti Polegato	764	2014	Geox	footwear	61	2.3
+Michal Solowow	764	2014	Synthos	chemicals	51	2.3
+Penny Pritzker	764	2014	Hyatt	hotels	54	2.3
+Richard Marriott	764	2014	Marriot	hotels	75	2.3
+Robert Miller CA	764	2014	Future Electronics	electronics	68	2.3
+Stanley Hubbard	764	2014	Hubbard Broadcasting Inc	media	80	2.3
+Victor Fung	764	2014	Li & Fung Group	supply chain	68	2.3
+Wang Changtian	764	2014	Beijing Enlight	entertainment	48	2.3
+Xu Jingren	764	2014	Yangtze River Pharmaceutical Group	pharmaceuticals	69	2.3
+Xue Xiangdong	764	2014	DHC Software	software	55	2.3
+Youssef Mansour	764	2014	Mansour Group	automobiles	68	2.3
+Andreas Halvorsen	796	2014	Viking Global Equities	hedge funds	52	2.2
+Bahaa Hariri	796	2014	Saudi Oger	construction	47	2.2
+Bill Marriott, Jr.	796	2014	Marriot	hotels	81	2.2
+Bulat Utemuratov	796	2014	ATF Bank	banking	56	2.2
+Chip Wilson	796	2014	Lululemon Athletica	apparel	57	2.2
+Daniel Loeb	796	2014	Third Point LLC	hedge funds	52	2.2
+Giuseppe De'Longhi	796	2014	De'Longhi Group	aplliances	74	2.2
+Jack Dorsey	796	2014	Twitter	internet companies	37	2.2
+Jean Coutu	796	2014	Jean Coutu Group	retail	86	2.2
+Jiang Rensheng	796	2014	Chongqing Zhifei Biological Products	pharmaceuticals	60	2.2
+Joe Mansueto	796	2014	Morningstar, Inc	media	57	2.2
+John de Mol	796	2014	Endemol	media	58	2.2
+Kalanithi Maran	796	2014	Sun Group	media	48	2.2
+Lindsay Fox	796	2014	Linfox	trucking and logistics	76	2.2
+Manuel Lao Hernandez	796	2014	Cirsa	entertainment	69	2.2
+Mark Coombs	796	2014	Ashmore Group	financial services	53	2.2
+Martin Haefner	796	2014	CA Technologies	software	60	2.2
+Martin Naughton	796	2014	Glen Dimplex Group	domestic appliances	74	2.2
+Moise Safra	796	2014	Banco Safra (now Saftra Group)	banking	79	2.2
+Nadhmi Auchi	796	2014	General Mediterranean Holding	banking, real estate	76	2.2
+Naruatsu Baba	796	2014	Colopl	software	36	2.2
+Peter Thiel	796	2014	PayPal	e-commerce, venture capital	46	2.2
+Regina de Camargo Pires Oliveira Dias	796	2014	Grupo Camargo Correra	construction	60	2.2
+Renata de Camargo Nascimento	796	2014	Grupo Camargo Correra	construction	63	2.2
+Richard Peery	796	2014		real estate	75	2.2
+Romesh T. Wadhwani	796	2014	Symphony Technology Group	private equity	66	2.2
+Rossana Camargo de Arruda Botelho	796	2014	Grupo Camargo Correra	construction	64	2.2
+Semahat Arsel	796	2014	Koc Holding	energy, retail, manufacturing	85	2.2
+Stephen Bisciotti	796	2014	Allegis Group	staffing company	53	2.2
+Ted Turner	796	2014	CNN	media	75	2.2
+Tor Peterson	796	2014	Glencore Xstrata	mining	49	2.2
+Goh Cheng Liang	827	2014	Nipsea	paint	0	2.2
+Alexander Dzhaparidze	828	2014	Petroalliance	oil services	58	2.1
+Alexander Knaster	828	2014	Pamplona Capital Management	bank	55	2.1
+Alicia Koplowitz	828	2014	Construcciones y Contratas	construction	59	2.1
+Antonio Luiz Seabra	828	2014	Natura Cosmeticos	cosmetics	71	2.1
+B. Wayne Hughes	828	2014	Public Storage	self-storage	80	2.1
+Charles Bronfman	828	2014	Seagrams	liquor	82	2.1
+David Hains	828	2014	Portland House Group	hedge funds	83	2.1
+David Penaloza Sandoval	828	2014	Pinfra	construction	67	2.1
+Edward Bass	828	2014	Sid Richardson Gasoline Co	oil	69	2.1
+Ferit Sahenk	828	2014	Dogus Holding	construction,banking	49	2.1
+Gerald J. Ford	828	2014	Golden State Bancorp	insurance	69	2.1
+Helena Revoredo	828	2014	Prosegur	security	67	2.1
+Howard Schultz	828	2014	Starbucks	coffee	60	2.1
+Igor Makarov	828	2014	Itera	gas	51	2.1
+Ihor Kolomoyskyy	828	2014	Privatbank	Banking	51	2.1
+James Coulter	828	2014	TPG Capital	private equity	54	2.1
+Jerry Yang	828	2014	Yahoo!	software	45	2.1
+Johnelle Hunt	828	2014	J.B. Hunt Transport Services	trucking 	82	2.1
+Lee Bass	828	2014	Sid Richardson Gasoline Co	oil	57	2.1
+Liu Zhongtian	828	2014	Zhongwang Holdings	aluminum	50	2.1
+Malvinder and Shivinder Singh	828	2014	Ranbaxy Laboratories	pharmaceuticals	0	2.1
+Michael Jaharis	828	2014	Kos Pharmaceuticals	pharmaceuticals	85	2.1
+Mustafa Rahmi Koc	828	2014	Koc Holding	energy, retail, manufacturing	83	2.1
+N. Murray Edwards	828	2014	Canadian Natural Resources	oil	54	2.1
+Raj Kumar & Kishin RK	828	2014	Royal Holdings/RB Capital	real estate	59	2.1
+Reinfried Pohl	828	2014	Deutsche Verm?gensberatung?	financial services	85	2.1
+Richard Schulze	828	2014	Best Buy	retail	73	2.1
+Sandro Veronesi	828	2014	Calzedonia Group	retail	54	2.1
+Stephen Mandel, Jr.	828	2014	Lone Pine Capital	hedge funds	57	2.1
+Sukanto Tanoto	828	2014	Royal Golden Eagle International	lumber	64	2.1
+Sylvia Stroher	828	2014	Wella AG	hair care	58	2.1
+T.Y. Tsai	828	2014	Cathay Financial	financial services	0	2.1
+Taizo Son	828	2014	GungHo Online Entertainment	internet companies	0	2.1
+Thomas Bruch	828	2014	Globus & Co.	food retail	63	2.1
+Tom Golisano	828	2014	Paychex	payroll processing 	72	2.1
+Vincent Lo	828	2014	Shui On Group	construction	65	2.1
+Zhang Li	828	2014	Guangzho R&F	real estate	61	2.1
+Zhou Hongyi	828	2014	Qihoo	internet companies	43	2.1
+Zhu Gongshan	828	2014	GCL-Poly Energy Holdings	solar energy	56	2.1
+Herbert Simon	868	2014	Simon Property Group	real estate	79	2.1
+Alec Gores	869	2014	The Gores Group	private equity	60	2.0
+Alexei Ananyev	869	2014	Technoserv	technology	49	2.0
+Arne Wilhelmsen	869	2014	Royal Caribbean Cruises	cruises	83	2.0
+Bachtiar Karim	869	2014	Musim Mas	oleochemicals and palm oil	57	2.0
+Benjamin de Rothschild	869	2014	Edmond de Rothschild Group	banking	50	2.0
+Bennett Dorrance	869	2014	Campbell Soup	soup	68	2.0
+Brad Kelley	869	2014	Commonwealth Brands	tobacco	57	2.0
+Bruce Karsh	869	2014	Oaktree Capital Management	asset management	58	2.0
+Cai Dongqing	869	2014	Guangdong Alpha Animation and Culture Co	animation	44	2.0
+Carl Bennet	869	2014	Carl Bennet AB	investments	62	2.0
+Carlo Fidani	869	2014	Orlando Corp	construction	59	2.0
+Carlos Hank Rhon	869	2014	Grupo Financiero Interacciones	banking	66	2.0
+Catherine Lozick	869	2014	Swagelok	manufacturing	69	2.0
+Chanchai Ruayrungruang	869	2014	Reignwood Group	real estate	60	2.0
+Clayton Mathile	869	2014	Iams	pet food	73	2.0
+Daniel Pritzker	869	2014	Hyatt	hotels	55	2.0
+Dean White	869	2014	Whiteco Industries	advertising	90	2.0
+Dermot Desmond	869	2014	International Investment and Underwriting	private equity	63	2.0
+Dmitry Ananyev	869	2014	Technoserv	technology	45	2.0
+Dmitry Pumpyansky	869	2014	TMK Pipes	steel	49	2.0
+Drayton McLane, Jr.	869	2014	McLane Company	groceries	77	2.0
+Erwin Franz Mueller	869	2014	Mueller	retail	81	2.0
+Fiona Geminder	869	2014	Visy Industries	paper	49	2.0
+Florentino Perez	869	2014	Actividades de Construccion y Servicios	construction	66	2.0
+Georg von Opel	869	2014	Opel	cars	47	2.0
+Gordon Getty	869	2014	Getty 	oil	80	2.0
+Guy Laliberte	869	2014	Cirque du Soleil	entertainment	54	2.0
+Heloise Waislitz	869	2014	Visy Industries	paper	51	2.0
+Howard Marks	869	2014	Oaktree Capital Management	asset management	67	2.0
+James Dinan	869	2014	York Capital management	hedge funds	54	2.0
+Jim Breyer	869	2014	Breyer Capital	venture capitalist	52	2.0
+John Farber	869	2014	ICC Industries	chemicals	88	2.0
+John Pritzker	869	2014	Hyatt	hotels	61	2.0
+Jorge Perez	869	2014	The Related Companies	real estate	64	2.0
+Jose and Francisco Jose Calderon Rojas	869	2014	FEMSA	retail	59	2.0
+Li Sze Lim	869	2014	Guangzho R&F	real estate	57	2.0
+Matt & Dan Walsh	869	2014	Walsh Group	construction	0	2.0
+Meg Whitman	869	2014	Hewlett-Packard	technology	57	2.0
+Nicolas Berggruen	869	2014	Alpha Investment Management	hedge funds	52	2.0
+Nicolas Puech	869	2014	Hermes	luxury fashion	71	2.0
+Noam Gottesman	869	2014	GLG Partners	hedge funds	52	2.0
+Or Wai Sheun	869	2014	Kowloon Development	real estate	62	2.0
+Robert Fisher	869	2014	The Gap	clothing 	60	2.0
+Robert McNair	869	2014	Cogen Technologies	cogeneration	77	2.0
+Ron Baron	869	2014	Baron Capital Group	investment banking	70	2.0
+Roustam Tariko	869	2014	Russian Standard Vodka	liquor	51	2.0
+Sam Goi	869	2014	Tee Yih Jia Food Manufacturing	food manufacturing	65	2.0
+Shen Guojun	869	2014	Intime Retail	retail	51	2.0
+Shin Chang-Jae	869	2014	Kyobo Life Insurance	insurance	60	2.0
+Sit Kwong Lam	869	2014	Shenzhen Brightoil Group	oil	46	2.0
+Sun Weijie	869	2014	Yantai Jereh Oilfield Services Group	oil exploration equipment	50	2.0
+Thomas Siebel	869	2014	Siebel Systems	software	61	2.0
+Tsai Hong-tu	869	2014	Cathay Life Insurance	financial services	61	2.0
+Vyacheslav Kantor	869	2014	Acron Group	fertilizers	60	2.0
+Wang Wenxue	869	2014	China Fortune Land Development	real estate	46	2.0
+William Fisher	869	2014	The Gap	clothing 	56	2.0
+Alex Beard	925	2014	Glencore Xstrata	mining	46	2.0
+Henry Samueli	925	2014	Broadcom Corporation	semiconductors	59	2.0
+Nevaldo Rocha	925	2014	Riachuelo	retail	84	2.0
+S. Daniel Abraham	925	2014	Slim-Fast	beverages	89	2.0
+Shin Dong-Bin	925	2014	Lotte Group	retail	59	2.0
+Wu Yiling	925	2014	Yiling Pharmaceuticals	pharmaceuticals	64	2.0
+Alvaro Saieh Bendeck	931	2014	Corpbanca	banking	64	1.9
+Andrei Klyamko	931	2014	Smart-Holding	steel	52	1.9
+Andrei Kozitsyn	931	2014	Urals mining and Metals Company	mining	53	1.9
+Bob Parsons	931	2014	Go Daddy	internet domain and web hosting	63	1.9
+Chandru Raheja	931	2014	K. Raheja Corp	real estate	73	1.9
+Daniel Roullier	931	2014	Groupe Roullier	fertilizers	77	1.9
+David Gottesman	931	2014	First Manhattan	investment banking	87	1.9
+Donald Sterling	931	2014	Lesser Towers	real estate	78	1.9
+Dulce Pugliese de Godoy Bueno	931	2014	Amil	healthcare management	66	1.9
+Eduardo Eurnekian	931	2014	Corporacion America	airports	81	1.9
+Fayez Sarofim	931	2014	Fayez Sarofim & Co	money management	85	1.9
+Fritz Draexlmaier	931	2014	Draxlmaier Group	automotive components	0	1.9
+Fu Meicheng	931	2014	Zhejiang Huace Film & TV	media	56	1.9
+Hans Melchers	931	2014	HAL Investments	investments	75	1.9
+Ian Wood	931	2014	Wood Group	oil	71	1.9
+John Arrillaga	931	2014		real estate	76	1.9
+John Kapoor	931	2014	INSYS Thereputics	pharmaceuticals	70	1.9
+Jonathan Harmsworth	931	2014	Associated Newspapers	media	46	1.9
+Lev Kvetnoi	931	2014	Vnukovo Airport	airports	48	1.9
+Liao Long-Shing	931	2014	Chang Chun Group	petrochemicals	0	1.9
+Lirio Parisotto	931	2014	Geracao Futuro L Par	invetsments	60	1.9
+Michael Klein	931	2014	Casas Bahia	retail	63	1.9
+Mikhail Balakin	931	2014	SU-155	construction	52	1.9
+Miloud Chaabi	931	2014	Ynna Holding	hotels and supermarkets	85	1.9
+Mo Tianquan	931	2014	SouFun Holdings	internet	50	1.9
+Mohamed Al Fayed	931	2014	House of Fraser	retail	85	1.9
+Norman Braman	931	2014	Braman Enterprises	retail	81	1.9
+Pat Stryker	931	2014	Stryker Corporation	medical supplies	57	1.9
+Richard Li	931	2014	Cheung Kong	real estate	47	1.9
+Robert Duggan	931	2014	Pharmacyclics	pharmaceuticals	69	1.9
+Ronald Southern	931	2014	ATCO	logistics	83	1.9
+Rubens Ometto Silveira Mello	931	2014	Cosan	ethanol	64	1.9
+Sid Bass	931	2014	Sid Richardson Gasoline Co	oil	71	1.9
+Song Zuowen	931	2014	Nanshan Group	property, textile manufacturing	66	1.9
+Subhash Chandra	931	2014	Essel Group	media	63	1.9
+Sulaiman Al Rajhi	931	2014	Al Rajhi bank	Banking	94	1.9
+Tseng Shin-Yi	931	2014	Chang Chun Group	petrochemicals	86	1.9
+Wei Ing-Chou	931	2014	Tingyi	beverages and food	61	1.9
+Wei Yin-Chun	931	2014	Tingyi	beverages and food	57	1.9
+Wei Ying-Chiao	931	2014	Tingyi	beverages and food	59	1.9
+Wei Yin-Heng	931	2014	Tingyi	beverages and food	55	1.9
+Wolfgang Leitner	931	2014	Andritz AG	processing machinary	60	1.9
+Ajay Kalsi	973	2014	Indusgas	gas	53	1.9
+Ayman Asfari	973	2014	Petrofac	petrochemicals	55	1.9
+Diego Della Valle	973	2014	Tod's	leather	60	1.9
+Hans-Werner Hector	973	2014	SAP AG	software	74	1.9
+Kavitark Ram Shriram	973	2014	Google	venture capitalist	57	1.9
+Li Shufu	973	2014	Geely Automobile	automobiles	50	1.9
+Li Zhongchu	973	2014	Beijing Shiji Information Technology	software	50	1.9
+Marc Ladreit de Lacharriere	973	2014	FIMALAC	financial services	73	1.9
+Mitchell Goldhar	973	2014	SmartCenters	real estate	52	1.9
+Rahul Bajaj	973	2014	Bajaj Group	automobiles	75	1.9
+Stewart Rahr	973	2014	Kinray Inc	pharmaceuticals	68	1.9
+Sun Piaoyang	973	2014	Jiangsu Hengrui Medicine	pharmaceuticals	55	1.9
+Suna Kirac	973	2014	Koc Holding	energy, retail, manufacturing	72	1.9
+Tahir family	973	2014	Mayapada Group	banking and real estate	61	1.9
+Theodore Rachmat	973	2014	Triputra Group	palm oil, mining	70	1.9
+Aras Agalarov	988	2014	Crocus International	trade fairs	58	1.8
+Arthur Blank	988	2014	Home Depot	retail	71	1.8
+Carlos Rodriguez-Pastor	988	2014	Interbank Group	banking	54	1.8
+Chao Teng-Hsiung	988	2014	Farglory Land	real estate	70	1.8
+Che Fengsheng	988	2014	Sihuan Pharmaceutical	pharmaceuticals	51	1.8
+Chen Jinxia	988	2014	Hunan Yongjin Group	pharmaceuticals	45	1.8
+Chu Lam Yiu	988	2014	Huabao International Holdings	flavorings	44	1.8
+Craig McCaw	988	2014	McCaw Cellular	cell phones	64	1.8
+David Chow	988	2014	Macau Legend	casinos	64	1.8
+Dinara Kulibaeva	988	2014	Halyk Bank	banking	46	1.8
+Elisabeth Badinter	988	2014	Publicis Groupe	advertising	70	1.8
+Eric Lefkofsky	988	2014	Groupon	internet companies	44	1.8
+Filiz Sahenk	988	2014	Dogus Holding	construction,banking	47	1.8
+Gary Magness	988	2014	TCI	cable	60	1.8
+Gil Shwed	988	2014	Check Point	software	46	1.8
+Glen Taylor	988	2014	Taylor Corporation	printing and electronics	72	1.8
+Glenn Dubin	988	2014	Highbridge Capital Management	hedge funds	56	1.8
+Guenther Lehmann	988	2014	Drogeriemarkt	retail	0	1.8
+H. Ross Perot, Jr.	988	2014	Electronic Data Systems	data processing	55	1.8
+Irwin Jacobs	988	2014	Qualcomm	software	80	1.8
+Jaime Botin	988	2014	Banco Santander	banking	77	1.8
+Jennifer Pritzker	988	2014	Hyatt	hotels	62	1.8
+Jonathan Nelson	988	2014	Providence Equity Partners	private equity	57	1.8
+Kenneth Feld	988	2014	Feld Entertainment	entertainment	65	1.8
+Lim Oon Kuin	988	2014	Hin Leong Trading	oil trading	70	1.8
+Linda Pritzker	988	2014	Hyatt	hotels	60	1.8
+Liu Baolin	988	2014	Jointown Pharmaceutical Group	pharmaceuticals	60	1.8
+Lutz Mario Helmig	988	2014	Helios Hospital Group	hospitals	67	1.8
+M.A. Yusuff Ali	988	2014	EMKE Group (Lulu Hypermarket)	groceries	58	1.8
+Neal Patterson	988	2014	Cerner Corporation	healthcare IT	64	1.8
+Nikolai Tsvetkov	988	2014	Financial Corporation Uralsib	banking	53	1.8
+Polys Haji-Ioannou	988	2014	EasyJet	airplanes	55	1.8
+Ravi Pillai	988	2014	RP Group	construction	60	1.8
+Rishad Naoroji	988	2014	Godrej Group	security	62	1.8
+Roberto Hernandez Ramirez	988	2014	Banamex	banking	71	1.8
+Ronald Wanek	988	2014	Ashley Furniture	furniture	72	1.8
+Stanley Perron	988	2014	Hancock Prospecting	mining	91	1.8
+Sunny Varkey	988	2014	GEMS Education	education	56	1.8
+Susan Hirt Hagen	988	2014	Erie Indemnity	insurance	77	1.8
+Thomas Meyer	988	2014	Desigual	apparel retail	0	1.8
+Timur Kulibaev	988	2014	Halyk Bank	banking	47	1.8
+Tiong Hiew King	988	2014	Rimbunan Hijau Group	timber	78	1.8
+Tsai Cheng-da	988	2014	Cathay Life Insurance	financial services	0	1.8
+Wu Guangming	988	2014	Jiangsu Yuyue Medical Equipment and Supply	medical equipment	52	1.8
+Yasseen Mansour	988	2014	Mansour Group	automobiles	52	1.8
+Yuri Milner	988	2014	Digital Sky Technologies (Mail.ru)	venture capitalist	52	1.8
+Zhang Zhirong	988	2014	China Rongsheng	shipbuilding	45	1.8
+Zhu Xingliang	988	2014	Suzhou Gold Mantis	construction	54	1.8
+Alain Bouchard	1036	2014	Alimentation Couche-Tard	retail	64	1.8
+Bill Adderley	1036	2014	Dunelm	furniture	66	1.8
+David Nahmad	1036	2014		art dealing	66	1.8
+Gerald Schwartz	1036	2014	Onex Corporation	private equity	72	1.8
+Jayme Garfinkel	1036	2014	Porto Seguro Seguros	insurance	67	1.8
+John Brown	1036	2014	Stryker Corporation	medical supplies	79	1.8
+Judy Love	1036	2014	Love's Travel Stops & Country Stores	truck stops	0	1.8
+Lynda Resnick	1036	2014	Teleflora, Pistachios, POM, Fij	agriculture	0	1.8
+Marian Ilitch	1036	2014	Little Ceasers Pizza	restaurant	0	1.8
+Michael Hintze	1036	2014	CQS	hedge funds	60	1.8
+Michael Ilitch	1036	2014	Little Ceasers Pizza	restaurant	0	1.8
+Murdaya Poo	1036	2014	Central Cipta Murdaya	timber, plantations	73	1.8
+Prasert Prasarttong-Osoth	1036	2014	Bangkok Dusit Medical Services	hospitals	80	1.8
+Shin Dong-Joo	1036	2014	Lotte Group	retail	60	1.8
+Stewart Resnick	1036	2014	Teleflora, Pistachios, POM, Fij	agriculture	0	1.8
+Tom Love	1036	2014	Love's Travel Stops & Country Stores	truck stops	0	1.8
+Alexander Machkevich	1046	2014	Eurasion natural Resources Corporation	metals	60	1.7
+Alijan Ibragimov	1046	2014	Eurasion natural Resources Corporation	metals	60	1.7
+Andrei Kosogov	1046	2014	Alfa Group	oil	52	1.7
+Arkady Volozh	1046	2014	Yandex	internet	50	1.7
+Boris Rotenberg	1046	2014	SGM Group, Mostotrest, TPS Avia	construction	57	1.7
+Chung Mong-Joon	1046	2014	Hyundai	cars	62	1.7
+Gabriel Escarrer	1046	2014	Melia Hotels International	hotels	79	1.7
+Gavril Yushvaev	1046	2014	Wimm-Bill-Dann	dairy	56	1.7
+Huang Bingwen	1046	2014	Shantou Dongfeng Printing	printing	60	1.7
+Huang Li	1046	2014	Wuhan Guide Infrared	electronics	50	1.7
+Huang Wei	1046	2014	Xinhu Zhongbao	real estate	54	1.7
+Igor Altushkin	1046	2014	Russian Copper Company	metals	43	1.7
+Jeffrey Lorberbaum	1046	2014	Mohawk Industries	flooring	59	1.7
+Joop van den Ende	1046	2014	Endemol	media	72	1.7
+Katsumi Tada	1046	2014	Daito Trust Construction	real estate	68	1.7
+Kerry Stokes	1046	2014	Seven Canberra	media	73	1.7
+Lee Joong-Keun	1046	2014	Booyoung Group	construction	73	1.7
+Lee Myung-Hee	1046	2014	Shinsegae Group	electronics	70	1.7
+Lin Xiucheng	1046	2014	San'an Electronics	electronics	58	1.7
+Marc Lasry	1046	2014	Avenue Capital Group	hedge funds	53	1.7
+Martua Sitorus	1046	2014	Wilmar International	palm oil	54	1.7
+N.R. Narayana Murthy	1046	2014	Infosys	software	67	1.7
+Patokh Chodiev	1046	2014	Eurasion natural Resources Corporation	metals	61	1.7
+Peter Peterson	1046	2014	Blackstone Group	private equity	87	1.7
+Pier Luigi Loro Piana	1046	2014	Loro Piana	clothing	62	1.7
+Ralph Sonnenberg	1046	2014	Hunter Douglas Group	architectural products	79	1.7
+Rolf Gerling	1046	2014	Gerling Konzern	insurance	59	1.7
+Shao Genhuo	1046	2014	DBN Group	agribusiness	48	1.7
+Thomas Secunda	1046	2014	Bloomberg	 finance	59	1.7
+Tony Tan Caktiong	1046	2014	Jollibee	restaurant	61	1.7
+Wang Junmin	1046	2014	Haisco Pharmaceutical Group	pharmaceuticals	45	1.7
+Zhang Hongwei	1046	2014	United Energy Group	oil	59	1.7
+Alfred Oetker	1078	2014	Oetker-Gruppe	retail	47	1.7
+August Oetker	1078	2014	Oetker-Gruppe	retail	69	1.7
+Bergit Douglas	1078	2014	Oetker-Gruppe	retail	67	1.7
+Carl Ferdinand Oetker	1078	2014	Oetker-Gruppe	retail	41	1.7
+Christian Oetker	1078	2014	Oetker-Gruppe	retail	65	1.7
+Domenico Dolce	1078	2014	Dolce & Gabbana	fashion	55	1.7
+Edgar de Picciotto	1078	2014	Union Bancaire Privee	banking	84	1.7
+Hoang Kieu	1078	2014	RAAS	pharmaceuticals	69	1.7
+Julia Oetker	1078	2014	Oetker-Gruppe	retail	35	1.7
+Nelson Peltz	1078	2014	Trian Fund Management	investment banking	71	1.7
+Richard Oetker	1078	2014	Oetker-Gruppe	retail	63	1.7
+Rosely Schweizer	1078	2014	Oetker-Gruppe	retail	73	1.7
+Stefano Gabbana	1078	2014	Dolce & Gabbana	fashion	51	1.7
+Vladimir Kim	1078	2014	Kazkhmys	mining	53	1.7
+Achmad Hamami	1092	2014	Trakindo Utama	heavy equipment	83	1.6
+Alan Howard	1092	2014	Brevan Howard Asset Management	hedge funds	50	1.6
+Albert von Thurn und Taxis	1092	2014	von Thurn and Taxis family	postal service, beverages	30	1.6
+Alfred James Clark	1092	2014	Clark Enterprises	construction	86	1.6
+Andrea Della Valle	1092	2014	Tod's	leather	48	1.6
+Cao Kejian	1092	2014	Zhejiang Kaishan Compressor	air compressors	51	1.6
+Chase Coleman, III.	1092	2014	Tiger Global Management	hedge funds	38	1.6
+D. Leopoldo Del Pino y Calvo-Sotelo	1092	2014	Ferrovial	construction	52	1.6
+David Einhorn	1092	2014	Greenlight Capital	hedge funds	45	1.6
+Denise Coates	1092	2014	Bet365	gambing	46	1.6
+Don Hankey	1092	2014	Hankey Group	cars, finance	70	1.6
+Gao Dekang	1092	2014	Bosideng International	apparel retail	62	1.6
+Gary Burrell	1092	2014	Garmin	GPS technology	76	1.6
+Gu Wei	1092	2014	Shenzhen MTC	electronics	49	1.6
+Hamilton James	1092	2014	Blackstone Group	hedge funds	62	1.6
+Huang Shaowu	1092	2014	Shenzhen Aisidi	retail	43	1.6
+James Irsay	1092	2014	Indianapolis Colts	sports team	54	1.6
+Jim Justice, II.	1092	2014	Bluestone Industries	coal	62	1.6
+Joe Jamail, Jr.	1092	2014		lawsuits	88	1.6
+Jon Stryker	1092	2014	Stryker Corporation	medical supplies	55	1.6
+Joyce Raley Teel	1092	2014	Raley's	groceries	83	1.6
+Julio Bozano	1092	2014	Banco Bozano Simonsen	banking	78	1.6
+Karel Komarek	1092	2014	KKCG Group	oil and gas	44	1.6
+Lee Jay-Hyun	1092	2014	CJ Group	food, entertainment	53	1.6
+Liang Xinjun	1092	2014	Fosun Group	investment	46	1.6
+Louis Bacon	1092	2014	Moore Capital Management	hedge funds	55	1.6
+Mangal Prabhat Lodha	1092	2014	Lodha Group	real estate	58	1.6
+Mario Gabelli	1092	2014	Gabelli Asset Management Company	asset management	71	1.6
+Mehmet Sinan Tara	1092	2014	Enka insaat ve Sanayi	construction	55	1.6
+Patrick Ryan	1092	2014	Aon Corporation	risk management	76	1.6
+Pham Nhat Vuong	1092	2014	Vingroup	real estate	45	1.6
+Phillip Ragon	1092	2014	InterSystems	software	64	1.6
+Pierre Papillaud	1092	2014	Roxane	bottled water	78	1.6
+Pollyanna Chu	1092	2014	Kingston Financial	investment	56	1.6
+Ray Davis	1092	2014	Energy Transfer Partners	gas pipeline	72	1.6
+Richard Elman	1092	2014	Noble Group	commodities	74	1.6
+Robert Miller UK	1092	2014	Duty Free Shopping	retail	76	1.6
+Roberto Angelini Rossi	1092	2014	Angelini Group	forestry and mining	65	1.6
+Scott Cook	1092	2014	Intuit	software	61	1.6
+Simonpietro Salini	1092	2014	Salini Impregilo	construction	81	1.6
+Stephen Jarislowsky	1092	2014	Jarislowsky Fraser Limited	investment mangagment	88	1.6
+Suhon Lin	1092	2014	Chang Chun Group	petrochemicals	86	1.6
+Thaksin Shinawatra	1092	2014	Advanced Info Service	mobile phones	64	1.6
+Tsai Ming-Kai	1092	2014	MediaTek	semiconductors	63	1.6
+Venugopal Dhoot	1092	2014	Videocon Electronics	television	62	1.6
+Vincent Tan	1092	2014	Berjaya Corporation Berhad	gambing	62	1.6
+Wen Jianping	1092	2014	Beijing Originwater Technology	sewage treatment	52	1.6
+Wong Luen Hei	1092	2014	China Lesso Group	home building materials	52	1.6
+Yoshikazu Tanaka	1092	2014	GREE, Inc	social network	37	1.6
+Yuri Gushchin	1092	2014	Obyedinennye Konditery	candy	69	1.6
+Zhou Chengjian	1092	2014	Metersbonwe Group	fashion	48	1.6
+Ahsen Ozokur	1143	2014	Yildiz Holding	food products	63	1.6
+Ali Ibrahim Agaoglu	1143	2014	Agaoglu Group	construction	60	1.6
+Ana Maria Brescia Cafferata	1143	2014	Grupo Prescia (now Pandora Group)	mining, banking	89	1.6
+Ana Maria Marcondes Penido Sant'Anna	1143	2014	CCR Group	toll roads	58	1.6
+Benu Gopal Bangur	1143	2014	Shree Cement	cement	82	1.6
+Cesar Mata Pires	1143	2014	OAS SA	construction	0	1.6
+Christoph Henkel	1143	2014	Henkel Ag	cleaning products	0	1.6
+Manuel Moroun	1143	2014	CenTra Inc.	bridge to canada	86	1.6
+Rosa Brescia Cafferata	1143	2014	Grupo Prescia (now Pandora Group)	mining, banking	87	1.6
+Thomas Steyer	1143	2014	Farallon Capital Management	hedge funds	56	1.6
+Wong Kwong Yu	1143	2014	Gome	retail	44	1.6
+Alexander Frolov	1154	2014	Evraz	steel	49	1.5
+Alexandre Grendene Bartelle	1154	2014	Grendene	shoes	64	1.5
+Alfredo Harp Helu	1154	2014	Banamex	banking	69	1.5
+Andrei Bokarev	1154	2014	CJSC Transmashholding	locomotive manufacturing	47	1.5
+Bulent Eczacibasi	1154	2014	Eczacibasi Holding	pharmaceuticals	64	1.5
+Chang Yung Fa	1154	2014	Evergreen Group	shipping	86	1.5
+Chen Tianqiao	1154	2014	Shanda Interactive Entertainment	entertainment	41	1.5
+Chen Yung-Tai	1154	2014	Aurora Group	real estate	78	1.5
+Dan Wilks	1154	2014	Frac Tech	natural gas	57	1.5
+Erika Pohl-Stroher	1154	2014	Wella AG	cosmetics	95	1.5
+Ezra Nahmad	1154	2014		art dealing	68	1.5
+Farris Wilks	1154	2014	Frac Tech	natural gas	62	1.5
+Faruk Eczacibasi	1154	2014	Eczacibasi Holding	pharmaceuticals	59	1.5
+Francesco Gaetano Caltagirone	1154	2014	Caltagirone Holdings	cement	70	1.5
+Gary Michelson	1154	2014	Medtronic	medical devices	65	1.5
+Gregorio Perez Companc	1154	2014	Petrolera Perez Companc	oil	78	1.5
+He Qiaonu	1154	2014	Beijing Orient Landscape	landscape architecture	48	1.5
+Horst Brandstaetter	1154	2014	Brandstatter Group	toys	80	1.5
+Huang Shih Tsai	1154	2014	Greater China International Investment Group	real estate	62	1.5
+Jimmy Haslam	1154	2014	Pilot Flying J	truck stop	60	1.5
+John Henry	1154	2014	John W. Henry & Company	asset management	64	1.5
+Jose Llado Fernandez-Urrutia	1154	2014	Tecnicas Reunidas	construction	79	1.5
+Juan Carlos Escotet	1154	2014	Banesco	banking	54	1.5
+Koo Bon-Moo	1154	2014	LG Group	electonics	69	1.5
+Lam Kong	1154	2014	China Medical Systems	pharmaceuticals	49	1.5
+Maria Del Pino y Calvo-Sotelo	1154	2014	Ferrovial	construction	57	1.5
+Marie-Jeanne Meyer	1154	2014	Louis-Dreyfus Goup	commodities (wheat, oil, shipping)	72	1.5
+Mark Stevens	1154	2014	Sequoia Capital	venture capitalist	54	1.5
+Massimo Moratti	1154	2014	Saras SPA	oil	68	1.5
+Mehmet Karamehmet	1154	2014	Cukurova Holding	textiles, industrial goods, media	69	1.5
+Mehmet Nazif Gunal	1154	2014	MNG Holding	construction	66	1.5
+Monique Louis-Dreyfus	1154	2014	Louis-Dreyfus Goup	commodities (wheat, oil, shipping)	74	1.5
+Murali Divi	1154	2014	Divis Laboratories	pharmaceuticals	62	1.5
+Paul Singer	1154	2014	Elliott Associates	hedge funds	69	1.5
+Ravi Jaipuria	1154	2014	RJ Corp	soft drinks	59	1.5
+Richard Hayne	1154	2014	Urban Outfitters	retail	66	1.5
+Robert Coyiuto Jr	1154	2014	Prudential Guarantee & Assurance	insurancei, power	61	1.5
+Saad Hariri	1154	2014	Saudi Oger	construction	43	1.5
+Senapathy Gopalakrishnan	1154	2014	Infosys	information services	58	1.5
+Sergio Lins Andrade	1154	2014	Andrade Gutierrez	construction	66	1.5
+Thomas Lee	1154	2014	Thomas H. Lee Partners	leveraged buyout	69	1.5
+Tom Benson	1154	2014	Benson Financial	cars, finance	86	1.5
+Vadim Novinsky	1154	2014	Smart-Holding	steel	50	1.5
+Vichai Srivaddhanaprabha	1154	2014	King Power Duty Free	retail	56	1.5
+Victor Gradin	1154	2014	Odebrecht	construction	81	1.5
+Vinod Khosla	1154	2014	Sun Microsystems	software	59	1.5
+Wen Yibo	1154	2014	The Sound Group	waste management	48	1.5
+Yuriy Kosiuk	1154	2014	MHP	agriculture	45	1.5
+Zhu Yicai	1154	2014	Yurun Food	meat products	49	1.5
+Ajay Piramal	1203	2014	Piramel	pharmaceuticals	58	1.5
+Isidoro Alvarez	1203	2014	El Corte Ingles	retail	79	1.5
+Richard Scaife	1203	2014	Mellon	banking, oil, aluminum	81	1.5
+Sergei Katsiev	1203	2014	Megapolis	tobacco	56	1.5
+William Ackman	1203	2014	Pershing Square Capital Management	hedge funds	47	1.5
+Wilma Tisch	1203	2014	Loews Corporation	invetsments	86	1.5
+Zhang Changhong	1203	2014	DZH/Shanghai Great Wisdom	financial information	55	1.5
+Alan Gerry	1210	2014	Cablevision Industries	media	84	1.4
+Albert Blokker	1210	2014	Blokker Holding	retail	68	1.4
+Alberto Cortina	1210	2014	Construcciones y Contratas	construction	68	1.4
+Anatoly Lomakin	1210	2014	International Potassium Company (MMK)	fertilizers	61	1.4
+Aziz Akhannouch	1210	2014	Akwa Group	oil and gas	53	1.4
+Billy Joe (Red) McCombs	1210	2014	Red McCombs Automotive Group	auto sales, energy	86	1.4
+Chen Jianhua	1210	2014	Hengli Group	plastics	43	1.4
+Christopher Cline	1210	2014	Foresight Reserves	coal	56	1.4
+Christopher Goldsbury	1210	2014	Pace Foods	salsa	71	1.4
+Clement Fayat	1210	2014	Fayat	construction	82	1.4
+David Walentas	1210	2014	Dumbo	real estate	75	1.4
+Dmitry Kamenshchik	1210	2014	Moscow Domodedovo Airport.	airport	45	1.4
+Dmitry Mazepin	1210	2014	Uralchem	fertilizers	45	1.4
+Edmund Ansin	1210	2014	Sunbeam Television	media	77	1.4
+Els Blokker	1210	2014	Blokker Holding	retail	66	1.4
+Farkhad Akhmedov	1210	2014	Northgas	oil and gas	58	1.4
+Francesco Saverio Salini	1210	2014	Salini Impregilo	construction	78	1.4
+Gian Marco Moratti	1210	2014	Saras SPA	oil	77	1.4
+Gleb Fetisov	1210	2014	Alfa Group	telecom, finance	47	1.4
+Hamdi Ulukaya	1210	2014	Chobani	yogurt	42	1.4
+Hong Ra-Hee	1210	2014	Samsung	electronics	68	1.4
+J. Joe Ricketts	1210	2014	TD Ameritrade	banking	72	1.4
+James Clark	1210	2014	Netscape Communications Corporation	software	69	1.4
+Joao Alves de Queiroz Filho	1210	2014	Hypermarcas	consumer goods	61	1.4
+Jonathan Gray	1210	2014	Blackstone Group	private equity	44	1.4
+Kagemasa Kozuki	1210	2014	Konami Corporation	toys	73	1.4
+Larry Robbins	1210	2014	Glenview Capital Management	hedge funds	44	1.4
+Lei Jufang	1210	2014	Tibet Cheezheng Tibetan Medicine	pharmaceuticals	61	1.4
+Len Ainsworth	1210	2014	Aristocrat Leisure Limited	gaming	90	1.4
+Lina Maria Aguiar	1210	2014	Bradesco	banking	76	1.4
+Luis Enrique Yarur Rey	1210	2014	Banco de Credito e Inversiones (BCI)	banking	63	1.4
+Marius Nacht	1210	2014	Check Point	software	48	1.4
+Max Michel Suberville	1210	2014	FEMSA	beverages	81	1.4
+Michael Ashcroft	1210	2014	Michael A. Ashcroft Associates	investments	68	1.4
+Michel Chalhoub	1210	2014	Chalhoub Group	luxury goods	82	1.4
+Nandan Nilekani	1210	2014	Infosys	software	58	1.4
+Nicholas Pritzker, II.	1210	2014	Hyatt	hotels	70	1.4
+Nicola Bulgari	1210	2014	Bulgari	luxury goods	73	1.4
+Oleg Tinkov	1210	2014	Tinkoff Brewery	beer	46	1.4
+Paolo Bulgari	1210	2014	Bulgari	luxury goods	76	1.4
+Peter Gilgan	1210	2014	Mattamy Homes	construction	63	1.4
+Peter Unger	1210	2014	Auto-Teile-Unger	auto repair	69	1.4
+Petter Stordalen	1210	2014	Home Invest	real estate	51	1.4
+Pyotr Kondrashev	1210	2014	Silvinit	fertilizers	64	1.4
+Radovan Vitek	1210	2014	CPI	real estate	42	1.4
+Ranjan Pai	1210	2014	Manipal Education & Medical Group	education	41	1.4
+Remo Ruffini	1210	2014	Moncler	winter jackets	52	1.4
+Richard Chilton Jr	1210	2014	Chilton Investment Company	investment banking	55	1.4
+Richard Yuengling, Jr.	1210	2014	Yuengling	beer	70	1.4
+Roman Avdeev	1210	2014	Credit Bank of Moscow	banking	46	1.4
+Shlomo Eliahu	1210	2014	Eliyahu Insurance Company	insurance	78	1.4
+Takao Yasuda	1210	2014	Don Quijote	retail	64	1.4
+Todd Wagner	1210	2014	Broadcast.com	entertainment	53	1.4
+Vladimir Iorich	1210	2014	Mechel AOA	mining, steel	55	1.4
+Vladimir Scherbakov	1210	2014	Avtotor Holding	automobiles	64	1.4
+Wang Jing	1210	2014	Beijing Xinwei Telecom Technology	telecom	41	1.4
+Wang Kunxiao	1210	2014	Yantai Jereh Oilfield Services Group	oil exploration equipment	44	1.4
+Xiong Xuqiang	1210	2014	Ningbo Yinyi Group	real estate	57	1.4
+Yoshiko Mori	1210	2014	Mori Building	construction	73	1.4
+Yuri Kovalchuk	1210	2014	Russia bank	banking	62	1.4
+Andrew Cherng	1270	2014	Panda Express	restaurant	0	1.4
+Anne Gittinger	1270	2014	Nordstrom	retail	78	1.4
+Anton Kathrein, Jr.	1270	2014	Katherine Werke AG	antennas	29	1.4
+Henry Swieca	1270	2014	Highbridge Capital Management	hedge funds	56	1.4
+Jonathan Oringer	1270	2014	Shutterstock	internet company	39	1.4
+Kazuo Okada	1270	2014	Wynn Resorts	casinos	71	1.4
+Keeree Kanjanapas	1270	2014	BTS Skytrain	mass transit	64	1.4
+Lee Hwa-Kyung	1270	2014	Orion Corp.	snack foods	58	1.4
+Lin Li	1270	2014	Liye Group	investments	50	1.4
+Mark Vadon	1270	2014	Zulily	e-commerce	43	1.4
+Oleg Boyko	1270	2014	Finstar Financial Group	retail	49	1.4
+Patricia Angelini Rossi	1270	2014	Angelini Group	forestry and mining	59	1.4
+Paul Foster	1270	2014	Western Refining	oil refining	56	1.4
+Peggy Cherng	1270	2014	Panda Express	restaurant	0	1.4
+Roger Penske	1270	2014	Penske Racing	automobiles	77	1.4
+William Ford, Sr.	1270	2014	Ford Motor Company	automobiles	88	1.4
+Akio Nitori	1284	2014	Nitori	home furnishings	70	1.3
+Alain Taravella	1284	2014	Altarea Cogedim	real estate	66	1.3
+Allan Gray	1284	2014	Allan Gray	asset management	76	1.3
+Allan Wong	1284	2014	VTech Holding	electronics	64	1.3
+Andrei Molchanov	1284	2014	Open Joint Stock Company	real estate	42	1.3
+Aneel Bhusri	1284	2014	Greylock Partners	venture capitalist	48	1.3
+Arturo Moreno	1284	2014	Outdoor Systems	advertising	67	1.3
+Baba Kalyani	1284	2014	Bharat Forge	auto components	65	1.3
+Bruce Cheng	1284	2014	Delta Electronics	electronics	78	1.3
+Bruce Nordstrom	1284	2014	Nordstrom	retail	80	1.3
+Brunello Cucinelli	1284	2014	Brunello Cucinelli	fashion	60	1.3
+C. Dean Metropoulos	1284	2014	Apollo Global management	private equity	67	1.3
+Carlos Francisco Ribeiro Jereissati	1284	2014	Inguatemi Empresa de Shopping Centers	shopping centers	67	1.3
+Charles Simonyi	1284	2014	Microsoft	software	66	1.3
+Charles Zegar	1284	2014	Bloomberg	 finance	66	1.3
+Charlotte Colket Weber	1284	2014	Campbell Soup	soup	71	1.3
+Chen Bang	1284	2014	Air Eye Hospital Group	hospitals	48	1.3
+Chu Mang Yee	1284	2014	Hopson Development	real estate	54	1.3
+Ciputra	1284	2014	Ciputra Development	real estate	82	1.3
+David Booth	1284	2014	Dimensional Fund Advisors	asset management	68	1.3
+David Sainsbury	1284	2014	Sainsbury's	groceries	73	1.3
+Desmond Sacco	1284	2014	Assore Group	mining	71	1.3
+Du Jiangtao	1284	2014	Inner Mongolia Junzhen Energy and Chemical Industry	chemicals	44	1.3
+Edward Stack	1284	2014	Dick's Sporting Goods	retail	59	1.3
+Eggon da Silva	1284	2014	WEG	electronics	85	1.3
+Elie Horn	1284	2014	Cyrela Brazil Realty	real estate	70	1.3
+Fawzi Al-Kharafi	1284	2014	Kharafi Group	diversified investments	0	1.3
+Frank Fertitta, III.	1284	2014	Station Casinos	entertainment	52	1.3
+Frank Stronach	1284	2014	Manga International	automotive parts	81	1.3
+George Joseph	1284	2014	Mercury General	insurance	92	1.3
+Gernot Langes-Swarovski	1284	2014	Swarovski	luxury goods	70	1.3
+Henry Nicholas, III.	1284	2014	Broadcom Corporation	semiconductors	54	1.3
+Jacques Saade	1284	2014	CMA CGM	shipping	77	1.3
+James Leininger	1284	2014	Kinetic Concepts (KCI)	medical devices	68	1.3
+Jassim Al-Kharafi	1284	2014	Kharafi Group	diversified investments	0	1.3
+Jiang Zhaobai	1284	2014	Shanghai Pengxin Group	real estate	50	1.3
+Jorge Moll Filho	1284	2014	Rede D'Or	hospitals	69	1.3
+Jose Isaac Peres	1284	2014	Multiplan	shopping centers	73	1.3
+Kenny Troutt	1284	2014	Excel Communications	telecomm	66	1.3
+Koos Bekker	1284	2014	Naspers	media	61	1.3
+Lee Boo-Jin	1284	2014	Samsung	electronics	43	1.3
+Lee Man Tat	1284	2014	Lee Kum Kee	food	85	1.3
+Lev Leviev	1284	2014	Africa-Israel	diamonds	58	1.3
+Lilian Werninghaus	1284	2014	WEG	electronics	79	1.3
+Lily Safra	1284	2014	Banco Safra (now Saftra Group)	banking	76	1.3
+Lorenzo Fertitta	1284	2014	Station Casinos	entertainment	45	1.3
+Low Tuck Kwong	1284	2014	Bayan Resources	coal	65	1.3
+Michael Price	1284	2014	MFP Investors	hedge funds	61	1.3
+Mohannad Al-Kharafi	1284	2014	Kharafi Group	diversified investments	0	1.3
+Mubariz Gurbanoglu	1284	2014	Palmali Group	shipping	45	1.3
+Mustafa Latif Topbas	1284	2014	BIM	retail	69	1.3
+Ni Zhaoxing	1284	2014	Zhongrong Group	real estate	58	1.3
+Nicholas Woodman	1284	2014	GoPro	cameras	38	1.3
+Perenna Kei	1284	2014	Logan Property Holdings	real estate	24	1.3
+Peter Sperling	1284	2014	Apollo Group	education	54	1.3
+Petro Poroshenko	1284	2014	Roshen Gropu	confectionary	48	1.3
+Reinold Geiger	1284	2014	L'Occitane	cosmetics	66	1.3
+Rufino Vigil Gonzalez	1284	2014	Industrias CH	steel	65	1.3
+Samih Sawiris	1284	2014	Orascom	construction	57	1.3
+Shaul Shani	1284	2014	ECI Telecom	technology	59	1.3
+Sidney Kimmel	1284	2014	Jones Apparel Group	apparel	86	1.3
+Stephen Saad	1284	2014	Aspen Pharmacare	pharmaceuticals	49	1.3
+Sun Pingfan	1284	2014	Ningbo Cixing	sewing machines	44	1.3
+Surin Upatkoon	1284	2014	InTouch	telecom	64	1.3
+Thomas Sandell	1284	2014	Sandell Asset Management Corp	hedge funds	53	1.3
+Vadim Moshkovich	1284	2014	Rusagro	aigriculture	46	1.3
+Vladimir Gruzdev	1284	2014	The Seventh Continent	retail	47	1.3
+Walter Frey	1284	2014	Emil Frey Group	automotives	70	1.3
+Wang Wenjing	1284	2014	Yonyou Software	software	49	1.3
+Werner Voigt	1284	2014	WEG	electronics	84	1.3
+Zelimkhan Mutsoev	1284	2014	Regions Group	real estate	54	1.3
+Kim Jung-Ju	1355	2014	Nexon	online gaming	46	1.3
+Allan Slaight	1356	2014	Slaight Communications	broadcasting	81	1.3
+Anas Sefrioui	1356	2014	Douja Promotion Groupe Addoha	real estate	56	1.3
+Ashwin Dani	1356	2014	Asian Paints	paint	71	1.3
+Bassam Alghanim	1356	2014	Alghanim Industries	diversified investments	62	1.3
+Chen Lip Keong	1356	2014	NagaCorp	casinos	66	1.3
+Chung Yong-Jin	1356	2014	Shinsegae Group	retail	45	1.3
+Daniel Harrison, III.	1356	2014	Shell Oil	oil and gas	66	1.3
+David Harding	1356	2014	Winton Capital Management	investment mangagment	52	1.3
+Huang Yi	1356	2014	Zhongsheng Group	automobile dealers	52	1.3
+Hubert d'Ornano	1356	2014	Sisley Cosmetics	cosmetics	87	1.3
+Konstantin Grigorishin	1356	2014	Energy Standard Group	power engineering	48	1.3
+Kutayba Alghanim	1356	2014	Alghanim Industries	diversified investments	68	1.3
+Seth Klarman	1356	2014	Baupost Group	investment mangagment	56	1.3
+Soichiro Fukutake	1356	2014	Benesse Corporation	publishing	68	1.3
+Wei Shaojun	1356	2014	Longjitaihe	real estate	51	1.3
+Yusaku Maezawa	1356	2014	Zozotown	e-commerce	38	1.3
+Abdulsamad Rabiu	1372	2014	BUA Group	sugar, flour, cement	54	1.2
+Ahmet Nazif Zorlu	1372	2014	Zorlu Holding	textiles	69	1.2
+Alberto Bombassei	1372	2014	Brembo SpA	braking systems	73	1.2
+Alberto Roemmers	1372	2014	Laboratorios Roemmers	pharmaceuticals	56	1.2
+Alexander Putilov	1372	2014	Eurasia Drilling Company	oil	61	1.2
+Andrei Filatov	1372	2014	N-Trans	infrastructure	42	1.2
+Asok Kumar Hiranandani	1372	2014	Royal Group Holdings	real estate	59	1.2
+Ayman Hariri	1372	2014	Saudi Oger	construction	35	1.2
+Benedicta Chamberlain	1372	2014	William Grant and Sons	alcohol	70	1.2
+Brian Roberts	1372	2014	Comcast	media	54	1.2
+Carol Jenkins Barnett	1372	2014	Publix Super Markets	groceries	57	1.2
+Cho Tak Wong	1372	2014	Fuyao Glass Industry Group	auto glass	67	1.2
+Cho Yang-Rai	1372	2014	Hankook Tire	tire manufacturing	76	1.2
+Claude Dauphin	1372	2014	Trafigura Beheer BV	commodity trading	63	1.2
+Dan Snyder	1372	2014	Snyder Communications	advertising	49	1.2
+David Yakobashvili	1372	2014	Wimm-Bill-Dann	dairy	57	1.2
+Denise York	1372	2014	The DeBartolo Corporation	real estate	63	1.2
+Donald Hall	1372	2014	Hallmark Cards	greeting cards	85	1.2
+Dorothea Steinbruch	1372	2014	Vicuna Group	steel	0	1.2
+Douglas Hsu	1372	2014	Far Eastern Group	textiles	71	1.2
+Drew Houston	1372	2014	Dropbox	internet company	30	1.2
+Edwin Soeryadjaya	1372	2014	Astra International	automotive	65	1.2
+Fahd Hariri	1372	2014	Saudi Oger	construction	33	1.2
+Gabe Newell	1372	2014	Valve Corporation	video games	51	1.2
+Gerry Harvey	1372	2014	Harvey Norman	retail	74	1.2
+Gilles Martin	1372	2014	Eurofins Scientific	laboratory services	50	1.2
+Guilherme Peirao Leal	1372	2014	Natura Cosmeticos	cosmetics	64	1.2
+Hary Tanoesoedibjo	1372	2014	MNC Group	media	48	1.2
+Huang Wen Tsai	1372	2014	Star River Goup	real estate	60	1.2
+Ioan Niculae	1372	2014	InterAgro	aigriculture	59	1.2
+Jacky Xu	1372	2014	Trendy Internation Group	apparel	0	1.2
+Jacques Merceron-Vicat	1372	2014	Vicat	cement	75	1.2
+James Ratcliffe	1372	2014	Ineos	chemicals	61	1.2
+Jeff Rothschild	1372	2014	Facebook	internet company	59	1.2
+Koh Wee Meng	1372	2014	Fragrance Group	real estate	50	1.2
+Konstantin Nikolaev	1372	2014	N-Trans	infrastructure	42	1.2
+Kostyantin Zhevago	1372	2014	Ferrexpo	iron	40	1.2
+Lang Walker	1372	2014	The Walker Group	real estate	68	1.2
+Len Buckeridge	1372	2014	Buckeridge Group of Companies	construction	77	1.2
+Leonid Simanovsky	1372	2014	Novatek	gas	64	1.2
+Li Li	1372	2014	Shenzhen Hepalink Pharmaceutical	pharmaceuticals	50	1.2
+Lia Maria Aguiar	1372	2014	Bradesco	banking	76	1.2
+Liu Xuejing	1372	2014	GMK Holding	copper, poultry	63	1.2
+Maria Ines de Lafuente Lacroze	1372	2014	Loma Negra	cement	69	1.2
+Mark Dixon	1372	2014	Regus	business centers	55	1.2
+Michael Krasny	1372	2014	CDW Corporation	retail	60	1.2
+Mofatraj Munot	1372	2014	Kalpataru Group	real estate	69	1.2
+Mohammed Al Barwani	1372	2014	MB Holding	oil	62	1.2
+Mokhzani Mahathir	1372	2014	SapuraKencana	oil and gas	53	1.2
+Mori Arkin	1372	2014	Agis Industries	pharmaceuticals	61	1.2
+Nan Cunhui	1372	2014	Chint Group	electricity	50	1.2
+Nikita Mishin	1372	2014	N-Trans	infrastructure	42	1.2
+Nikolai Maximov	1372	2014	Maxi Group	mettallurgy	56	1.2
+Nirav Modi	1372	2014	Firestar International	diamond jewelry	43	1.2
+Rakesh Jhunjhunwala	1372	2014	Lupin	pharmaceuticals	53	1.2
+Ron Sim	1372	2014	OSIM International	retail	56	1.2
+Ronald Joyce	1372	2014	Tim Hortons	restaurant	83	1.2
+Rubens Menin Teixeira de Souza	1372	2014	MRV Engenharia	construction	57	1.2
+Steve Case	1372	2014	AOL	internet company	55	1.2
+Suat Gunsel	1372	2014	Near East University	education	61	1.2
+Tian Ming	1372	2014	Hefei Meiya Optoelectronic Technology	measuring instruments	60	1.2
+Tu Jianhua	1372	2014	Lancing Motor	motorcycles	50	1.2
+Vincent McMahon	1372	2014	World Wrestling Entertainment (WWE)	wrestling promotion	68	1.2
+William Macaulay	1372	2014	First Reserve Corporation	private equity	68	1.2
+Wong Man Li	1372	2014	Man Wah Holdings	furniture	49	1.2
+Xiu Li Hawken	1372	2014	Renhe Commercial Holdings	real estate	51	1.2
+Yu Minhong	1372	2014	New Oriental Education and Technology Group	education	52	1.2
+Zhang Zhongneng	1372	2014	Guangdong Dongyangguang Aluminum	aluminum	50	1.2
+Zhong Sheng Jian	1372	2014	Yanlord Land Group	real estate	56	1.2
+Ziyaudin Magomedov	1372	2014	Summa Group	ports, gas	45	1.2
+Alexei Bogachev	1442	2014	Magnit	retail	43	1.2
+Alexei Semin	1442	2014	Obrazovanie	real estate	46	1.2
+Alfredo Egydio Arruda Villela Filho	1442	2014	Itausa Investimentos Itau SA	banking	44	1.2
+Andrei Kuzyaev	1442	2014	Perm Financial Industrial Group (PFIG)	telecom	48	1.2
+Brij Bhushan Singal	1442	2014	Bhushan Steel	steel	77	1.2
+Daisy Igel	1442	2014	Ultrapar	gas, petrochemicals	86	1.2
+Danny Tan Chee Sing	1442	2014	Dijaya	real estate	58	1.2
+Eduardo Hochschild	1442	2014	Hochschild Mining	mining	50	1.2
+Fernando Roig	1442	2014	Mercadona	groceries	66	1.2
+Jacob Stolt-Nielsen	1442	2014	Parcel Trade	shipping	82	1.2
+Jane Lauder	1442	2014	Est?Lauder	makeup	41	1.2
+John Edson	1442	2014	Baylinter Marine Corp	boats	81	1.2
+Lee Hae-Jin	1442	2014	Naver	internet company	46	1.2
+Lee Seo-Hyun	1442	2014	Samsung	electronics	40	1.2
+Liu Zhenguo	1442	2014	Beijing Originwater Technology	sewage treatment	49	1.2
+Ma Xingtian	1442	2014	Kangmei Pharmaceutical	pharmaceuticals	44	1.2
+Max Turnauer	1442	2014	Constantia	manufacturing	78	1.2
+Megdet Rahimkulov	1442	2014	Gazprom	gas	68	1.2
+Miao Shouliang	1442	2014	Fuyuan Group	real estate	59	1.2
+Mitchell Jacobson	1442	2014	MSC Direct	industrial equipment	62	1.2
+Qi Xiangdong	1442	2014	Qihoo	internet company	43	1.2
+Thongma Vijitpongpun	1442	2014	Pruksa Real Estate	real estate	55	1.2
+Ye Cheng	1442	2014	Shandong Landbridge Group	port logistics	52	1.2
+Aerin Lauder Zinterhofer	1465	2014	Est?Lauder	makeup	44	1.1
+Ahmet Calik	1465	2014	Calik Holding	textiles	56	1.1
+Airat Shaimiev	1465	2014	TAIF Group	oil	51	1.1
+Albert Shigaboutdinov	1465	2014	TAIF Group	oil	59	1.1
+Albert Yeung	1465	2014	Emperor Group	watch retail	70	1.1
+Alexander Rovt	1465	2014	IBE Trade	fertilizers	61	1.1
+Alexander Spanos	1465	2014	A. G. Spanos Companies	real estate	90	1.1
+Alfred Mann	1465	2014	Spectrolab	software	88	1.1
+Aloke Lohia	1465	2014	Indorama Ventures	polymers	55	1.1
+Ana Lucia de Mattos Barretto Villela	1465	2014	Itausa Investimentos Itau SA	banking	40	1.1
+Anatoly Sedykh	1465	2014	United Metallurigcal Company	pipes	49	1.1
+Andrei Rappoport	1465	2014	RAO UES	investments	50	1.1
+Aydin Dogan	1465	2014	Dogan Holding	media	77	1.1
+Binod Chaudhary	1465	2014	Chaudhary Group	retail	58	1.1
+Charles Brandes	1465	2014	Brades Investment Partners	investment banking	71	1.1
+Charles Munger	1465	2014	Berkshire Hathaway	 Finance	90	1.1
+Choo Chong Ngen	1465	2014	Hotel 81	hotels	62	1.1
+Daniel Hirschfeld	1465	2014	Buckle	apparel	0	1.1
+Darwin Deason	1465	2014	Affiliated Computer Services	software	73	1.1
+Edir Macedo	1465	2014	Rede Record	media	69	1.1
+Evgeny (Eugene) Shvidler	1465	2014	Runicom S.A	oil	49	1.1
+Fang Wei	1465	2014	Fangda International Industrial Investment?	mining	40	1.1
+Goh Peng Ooi	1465	2014	Silverlake Axis	software	59	1.1
+Gordon Wu	1465	2014	Hopewell Holdings	infrastructure	79	1.1
+Hajime Satomi	1465	2014	Sammy Corporation	entertainment	72	1.1
+Harjo Sutanto	1465	2014	Wings Group	laundry soap	87	1.1
+Henry Engelhardt	1465	2014	Admiral Group	insurance	56	1.1
+Hu Kaijun	1465	2014	China Grand Pharmaceutical	pharmaceuticals	52	1.1
+Huang Zhenda	1465	2014	Guangdong Liantai Group	construction	66	1.1
+Ilkka Herlin	1465	2014	Kone Corporation	elevators	55	1.1
+Ilona Herlin	1465	2014	Kone Corporation	elevators	49	1.1
+Isaac Larian	1465	2014	MGA Entertainment	toys	59	1.1
+Jean Burelle	1465	2014	Plastic Omnium	plastic	75	1.1
+Jiang Wei	1465	2014	Guizhou Bailing Group Pharmaceutical	pharmaceuticals	52	1.1
+Jon Huntsman	1465	2014	Huntsman chemical	chemicals	76	1.1
+Jose Maria Aristrain	1465	2014	Arcelor	steel	51	1.1
+Jose Mendes Nogueira	1465	2014	J Mendes	iron ore	86	1.1
+Joseph Grendys	1465	2014	Koch Foods	meat processing	52	1.1
+Juan Fernando Belmont Anderson	1465	2014	Yanbal Internacional	cosmetics	70	1.1
+Ke Xiping	1465	2014	Xiamen Hengxing group	mining, investments	53	1.1
+Koo Bon-Neung	1465	2014	LG Group	electonics	64	1.1
+Lachhman Das Mittal	1465	2014	Sonalika Group	tractors	83	1.1
+Laurent Burelle	1465	2014	Plastic Omnium	plastic	64	1.1
+Liu Zhenfeng	1465	2014	Yantai Jereh Oilfield Services Group	oilfield equipment	52	1.1
+Luo Fei	1465	2014	Biostime International Holdings	infant formula	0	1.1
+Marcel Adams	1465	2014	Iberville Developments	real estate	93	1.1
+Mark Pincus	1465	2014	Zynga	online gaming	48	1.1
+Michael Steinhardt	1465	2014	Steinhardt, Fine, Berkowitz & Co	hedge funds	73	1.1
+Miriam Blocher	1465	2014	EMS-Chemie	petrochemicals	39	1.1
+Mohammed Ibrahim	1465	2014	Celtel	telecom	67	1.1
+Niklas Herlin	1465	2014	Kone Corporation	elevators	50	1.1
+Nikolai Sarkisov	1465	2014	RESO-Garantiya	insurance	45	1.1
+Nobutada Saji	1465	2014	Suntory	brewery	68	1.1
+Park Hyeon-Joo	1465	2014	Mirae Asset	asset management	55	1.1
+PNC Menon	1465	2014	Sobha Developers	real estate	65	1.1
+Que Wenbin	1465	2014	Duyiwei Biological Pharmaceutical	pharmaceuticals	50	1.1
+Radik Shaimiev	1465	2014	TAIF Group	oil	49	1.1
+Ray Irani	1465	2014	Occidental Petroleum	oil	79	1.1
+Robert Citrone	1465	2014	Discovery Capital Management	hedge funds	49	1.1
+Robert Ell	1465	2014	Leda Holdings	construction	69	1.1
+Robert Piccinini	1465	2014	Save Mart	groceries	72	1.1
+Rustem Sulteev	1465	2014	RESO-Garantiya	insurance	60	1.1
+Sergei Kislov	1465	2014	Yug Rusi	agriculture	53	1.1
+Sergei Sarkisov	1465	2014	RESO-Garantiya	insurance	54	1.1
+Shen Wenrong	1465	2014	Shagang Group	steel	68	1.1
+Solomon Lew	1465	2014	Premier Investments	retail	68	1.1
+Stewart Horejsi	1465	2014	Berkshire Hathaway	finance 	76	1.1
+Sudhir Ruparelia	1465	2014	Ruparelia Group	banking	58	1.1
+Thomas Straumann	1465	2014	Straumann Group	dental implants	50	1.1
+Timothy Boyle	1465	2014	Columbia Sportswear	apparel	64	1.1
+Vito Rodriguez Rodriguez	1465	2014	Jose Rodriguez Banda	milk	75	1.1
+Yan Zhi	1465	2014	Zall Development of Wuhan	real estate	41	1.1
+Yusuf Hamied	1465	2014	Cipla	pharmaceuticals	77	1.1
+Zhang Guiping	1465	2014	Suning Universal	real estate	62	1.1
+Alan Rydge	1540	2014	AHL	entertainment	61	1.1
+Chen Miaolin	1540	2014	New Century Group	hotels	61	1.1
+Chen Zemin	1540	2014	Sanquan Food	food	71	1.1
+Cheung Yan	1540	2014	Nine Dragons Paper	paper	57	1.1
+Christopher Hohn	1540	2014	Children's Investment Fund	hedge funds	47	1.1
+Deniz Sahenk	1540	2014	Dogus Holding	construction,banking	68	1.1
+Douglas Perkins	1540	2014	Specsavers	eyeglasses	0	1.1
+Giancarlo Franceso Civita	1540	2014	Grupo Abril	media	0	1.1
+Hubert Palfinger	1540	2014	Palfinger AG	cranes	72	1.1
+Jose Ermirio de Moraes Neto	1540	2014	Votorantim Group	metals, paper, cement	61	1.1
+Jose Roberto Ermirio de Moraes	1540	2014	Votorantim Group	metals, paper, cement	56	1.1
+K Dinesh	1540	2014	Infosys	software	59	1.1
+K. Rai Sahi	1540	2014	Morgaurd	real estate	67	1.1
+Kim Taek-Jin	1540	2014	NCSOFT	online gaming	0	1.1
+Liu Gexin	1540	2014	Sichuan Kelun Pharmaceutical	pharmaceuticals	62	1.1
+Liu Ming Chung	1540	2014	Nine Dragons Paper	paper	51	1.1
+Mary Perkins	1540	2014	Specsavers	eyeglasses	0	1.1
+Neide Helena de Moraes	1540	2014	Votorantim Group	metals, paper, cement	59	1.1
+Roberta Anamaria Civita	1540	2014	Grupo Abril	media	0	1.1
+Ryoichi Jinnai	1540	2014	Promise Consumer Finance	finance	87	1.1
+Sheryl Sandberg	1540	2014	Facebook	internet company	44	1.1
+Sun Hongbin	1540	2014	Sunac China Holdings	real estate	51	1.1
+Victor Civita Neto	1540	2014	Grupo Abril	media	0	1.1
+Vikram Lal	1540	2014	Eicher Motors	automobiles	71	1.1
+Wang Laichun	1540	2014	Luxshare Precision Industry	electonics components	46	1.1
+Wang Laisheng	1540	2014	Luxshare Precision Industry	electonics components	49	1.1
+Yao Wenbin	1540	2014	Ourpalm	software	43	1.1
+Zadik Bino	1540	2014	Paz oil company	oil	70	1.1
+Alberto Alcocer	1565	2014	Construcciones y Contratas	construction	71	1.0
+Alexander Vik	1565	2014	Scandinavia Fund	investment	59	1.0
+An Kang	1565	2014	Hualan Biological Engineering	pharmaceuticals	65	1.0
+Andrea Reimann-Ciardelli	1565	2014	Benckiser	consumer goods	0	1.0
+Andrew Gotianun	1565	2014	Filinvest Development Corporation	real estate	86	1.0
+Angela Bennett	1565	2014	Wright Prospecting	mining	69	1.0
+Anne Beaufour	1565	2014	Ipsen	pharmaceuticals	50	1.0
+B.R. Shetty	1565	2014	New Medical Centre	hospitals	72	1.0
+Bent Jensen	1565	2014	Linak	linear actuators	62	1.0
+Boris Mints	1565	2014	O1 Properties	real estate	55	1.0
+Brian Higgins	1565	2014	King Street Capital Management	hedge funds	49	1.0
+C. James Koch	1565	2014	Boston Beer Company	beer	64	1.0
+Carlos Martins	1565	2014	Wizard language Schools	education	57	1.0
+Chang Pyung-Soon	1565	2014	Kyowon Co	education	63	1.0
+Christopher Burch	1565	2014	Tory Burch LLC	fashion	60	1.0
+Dariusz Milek	1565	2014	Milek (now CCC)	shoes	46	1.0
+Ding Shijia	1565	2014	Anta Sports	sportswear	50	1.0
+Ding Shizhong	1565	2014	China SCE Property Holdings Limited	real estate	43	1.0
+Dmitry Korzhev	1565	2014	Mega-Auto	auto retail	50	1.0
+Dmitry Troitsky	1565	2014	Mega-Auto	auto retail	49	1.0
+Elena Baturina	1565	2014	Inteco	construction	50	1.0
+Enrique Banuelos	1565	2014	ASTROC	real estate	48	1.0
+Feng Hailiang	1565	2014	Hailiang Group	copper	53	1.0
+Fred Chang	1565	2014	Newegg.com	e-commerce	57	1.0
+Fu Kwan	1565	2014	Macrolink Group	investments	56	1.0
+Graham Kirkham	1565	2014	DFS	retail	69	1.0
+Harindarpal Banga	1565	2014	Noble Group	commodity trading	63	1.0
+Henri Beaufour	1565	2014	Ipsen	pharmaceuticals	48	1.0
+Horst Julius Pudwill	1565	2014	Techtronic Industries	manufacturing	69	1.0
+Huo Qinghua	1565	2014	China Kingho	coal	52	1.0
+Ina Chan	1565	2014	Sociedade de Turismo e Divers?es de Macau	gaming	60	1.0
+Jeanine Dick	1565	2014	Virbac	pharmaceuticals	77	1.0
+Jim Thompson	1565	2014	Crown Worldwide Group	relocation services	74	1.0
+Jitendra Virwani	1565	2014	Embassy Property Developments	real estate	48	1.0
+John Morgridge	1565	2014	Cisco Systems	software	80	1.0
+John Van Lieshout	1565	2014		real estate	68	1.0
+Jorge Rodriguez Rodriguez	1565	2014	Jose Rodriguez Banda	milk	68	1.0
+Kenneth Tuchman	1565	2014	TeleTech	software	54	1.0
+Lam Fong Ngo	1565	2014	Macau Legend	casinos	0	1.0
+Leon Charney	1565	2014	One Times Square	real estate	72	1.0
+Leonard Schleifer	1565	2014	Regeneron Pharmaceuicals	pharmaceuticals	61	1.0
+Li Denghai	1565	2014	Shandong Denghai Seeds	agriculture	64	1.0
+Li Shuirong	1565	2014	Rongsheng Petrochemical	petrochemicals	57	1.0
+Lim Hariyanto Wijaya Sarwono	1565	2014	Bumitama Agri	palm oil	86	1.0
+Lin Ming-Hsiung	1565	2014	Pxmart	retail	64	1.0
+Liu Xiaomeng	1565	2014	Suning Group	retail, home appliances	59	1.0
+Michael Kors	1565	2014	Michael Kors	retail	54	1.0
+Michael Lynch	1565	2014	Autonomy Corporation	software	49	1.0
+Mikhail Abyzov	1565	2014	E4 Group	engineering	41	1.0
+Monika Schoeller	1565	2014	Verlagsgruppe Holtzbrinck	publishing	75	1.0
+Morris Kahn	1565	2014	Amdocs	software	84	1.0
+Murat Vargi	1565	2014	Turkcell	telecom	66	1.0
+Nerijus Numavicius	1565	2014	VP Group	retail	46	1.0
+O. Francis Biondi	1565	2014	King Street Capital Management	hedge funds	49	1.0
+Pavel Tykac	1565	2014	Motoinvest	hostile takeovers	49	1.0
+Philip Falcone	1565	2014	Harbinger Capital	hedge funds	51	1.0
+Richard Chang	1565	2014	Advanced Semiconductor Engineering	electronics	67	1.0
+Robert Ingham	1565	2014	Inghams Enterprises	agriculture	82	1.0
+Rostam Azizi	1565	2014	Vodacom Tanzania	telecom	49	1.0
+Ryan Kavanaugh	1565	2014	Relativity Media	film	39	1.0
+Sara Blakely	1565	2014	Spanx	apparel	43	1.0
+Seo Jung-Jin	1565	2014	Celltrion	biotech	56	1.0
+Sergei Petrov	1565	2014	Rolf Group	auto retail	59	1.0
+Sergei Tsikalyuk	1565	2014	Military Insurance Company (VSK)	insurance	55	1.0
+Serhiy Tihipko	1565	2014	PrivatBank	banking	54	1.0
+Shoji Uehara	1565	2014	Taisho Pharmaceutical	pharmaceuticals	86	1.0
+Stefan von Holtzbrinck	1565	2014	Verlagsgruppe Holtzbrinck	publishing	50	1.0
+T.S. Kalyanaraman	1565	2014	Kalyan Jewellers	jewelry	66	1.0
+Thomas Bailey	1565	2014	Janus Capital Group	mutual funds	77	1.0
+Thomas Kaplan	1565	2014	Apex Silver Mines	metals	51	1.0
+Tory Burch	1565	2014	Tory Burch LLC	fashion	47	1.0
+Vivek Chaand Sehgal	1565	2014	Samvardhana Motherson Group	auto parts	57	1.0
+Wang Jianfeng	1565	2014	Ningo Joyson Electric	auto parts	44	1.0
+Wang Muqing	1565	2014	China ZhengTong Auto Services	auto retail	63	1.0
+Wang Yong	1565	2014	Xiwang Group	food sweeteners	63	1.0
+William Moncrief, Jr.	1565	2014	Moncrief Oil	oil	93	1.0
+Wu Chung-Yi	1565	2014	Tingyi	beverages and food	55	1.0
+Wu Xiong	1565	2014	Biostime International Holdings	infant formula	0	1.0
+Yang Keng	1565	2014	Blue Ray Corp	real estate	53	1.0
+Zdenek Bakala	1565	2014	Patria Finance	coal	53	1.0
+Zhu Wenchen	1565	2014	Furen Pharmaceutical Group	pharmaceuticals	48	1.0
