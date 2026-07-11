@@ -28,6 +28,13 @@ The application utilizes a public billionaire database from CORGIS website. The 
 ## Build Instructions
 The project uses CMake for cross-platform compilation. 
 
+## Running the Code
+To run this code locally using CLion, follow these steps:
+
+1. **Open the Project:** Launch CLion and click **Open**. Select the `Project_2_Group_5` folder and choose **Open as Project**.
+2. **Configure the Working Directory:** Make sure the `Project_2_Group_5` folder is showing in the executable on the top right of CLion, if not click **Edit Configurations** and find the executable.
+3. **Compile and Execute:** Click the green **Play** button. The console will output the tree loading status and the search algorithm results.
+
 ## Authors
 * Kian Nezamoddini-Kachouie (KianNez-K)
 * Leonardo Rodrigues Fabbro (Leorf567)
