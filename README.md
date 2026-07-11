@@ -26,3 +26,9 @@ The application utilizes a public billionaire database from CORGIS website. The 
 
 ## Build Instructions
 The project uses CMake for cross-platform compilation. 
+
+## Authors
+Kian Nezamoddini-Kachouie (KianNez-K)
+Leonardo Rodrigues Fabbro (Leorf567)
+Reda Tibel (refloow-0)
+
