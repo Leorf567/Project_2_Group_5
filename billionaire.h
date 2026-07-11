@@ -9,6 +9,7 @@ struct Billionaire {
     std::string company;
     std::string sector;
     std::string country;
+    double gdp;
     int age;
     double netWorth;
 };

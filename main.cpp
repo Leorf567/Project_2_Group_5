@@ -1,115 +1,264 @@
 #include <iostream>
+#include <fstream>
 #include <vector>
 #include <string>
-#include "billionaire.h"
-
 using namespace std;
 
-struct Node {
-    Billionaire data;
-    Node* left;
-    Node* right;
+struct Header {
+    char idLength;
+    char colorMapType;
+    char dataTypeCode;
+    short colorMapOrigin;
+    short colorMapLength;
+    char colorMapDepth;
+    short xOrigin;
+    short yOrigin;
+    short width;
+    short height;
+    char bitsPerPixel;
+    char imageDescriptor;
 };
 
-Node* newNode(Billionaire b) {
-    Node* n = new Node();
-    n->data = b;
-    n->left = nullptr;
-    n->right = nullptr;
-    return n;
+struct Pixel {
+    unsigned char b, g, r;
+};
+
+struct Image {
+    Header header;
+    vector<Pixel> pixels;
+};
+
+Image readImage(const string& filename) {
+    Image img;
+    ifstream file(filename, ios::binary);
+    if (!file.is_open()) {
+        cout << "Could not open " << filename << endl;
+        return img;
+    }
+    file.read((char*)&img.header.idLength,        1);
+    file.read((char*)&img.header.colorMapType,    1);
+    file.read((char*)&img.header.dataTypeCode,    1);
+    file.read((char*)&img.header.colorMapOrigin,  2);
+    file.read((char*)&img.header.colorMapLength,  2);
+    file.read((char*)&img.header.colorMapDepth,   1);
+    file.read((char*)&img.header.xOrigin,         2);
+    file.read((char*)&img.header.yOrigin,         2);
+    file.read((char*)&img.header.width,           2);
+    file.read((char*)&img.header.height,          2);
+    file.read((char*)&img.header.bitsPerPixel,    1);
+    file.read((char*)&img.header.imageDescriptor, 1);
+
+    int numPixels = img.header.width * img.header.height;
+    img.pixels.resize(numPixels);
+    for (int i = 0; i < numPixels; i++) {
+        file.read((char*)&img.pixels[i].b, 1);
+        file.read((char*)&img.pixels[i].g, 1);
+        file.read((char*)&img.pixels[i].r, 1);
+    }
+    file.close();
+    return img;
 }
 
-Node* insert(Node* root, Billionaire b) {
-    if (root == nullptr) {
-        return newNode(b);
+void writeImage(const Image& img, const string& filename) {
+    ofstream file(filename, ios::binary);
+    file.write((char*)&img.header.idLength,        1);
+    file.write((char*)&img.header.colorMapType,    1);
+    file.write((char*)&img.header.dataTypeCode,    1);
+    file.write((char*)&img.header.colorMapOrigin,  2);
+    file.write((char*)&img.header.colorMapLength,  2);
+    file.write((char*)&img.header.colorMapDepth,   1);
+    file.write((char*)&img.header.xOrigin,         2);
+    file.write((char*)&img.header.yOrigin,         2);
+    file.write((char*)&img.header.width,           2);
+    file.write((char*)&img.header.height,          2);
+    file.write((char*)&img.header.bitsPerPixel,    1);
+    file.write((char*)&img.header.imageDescriptor, 1);
+
+    for (int i = 0; i < (int)img.pixels.size(); i++) {
+        file.write((char*)&img.pixels[i].b, 1);
+        file.write((char*)&img.pixels[i].g, 1);
+        file.write((char*)&img.pixels[i].r, 1);
     }
-    // Now splits the tree alphabetically by country instead of net worth
-    if (b.country < root->data.country) {
-        root->left = insert(root->left, b);
-    } else {
-        root->right = insert(root->right, b);
-    }
-    return root;
+    file.close();
 }
 
-void printInOrder(Node* root) {
-    if (root == nullptr) return;
-    printInOrder(root->left);
-    cout << root->data.name << " - " << root->data.company << " (" << root->data.sector
-         << ") - $" << root->data.netWorth << "B - rank " << root->data.rank
-         << " - age " << root->data.age << " - " << root->data.year << "\n";
-    printInOrder(root->right);
+unsigned char clamp(int value) {
+    if (value < 0)   return 0;
+    if (value > 255) return 255;
+    return (unsigned char)value;
 }
 
-void breadthfirstSearch(Node* root, int level, vector<vector<Billionaire>>& result, string searchCountry) {
-    if (root == nullptr) {
-        return;
+Image multiply(const Image& top, const Image& bottom) {
+    Image result = top;
+    for (int i = 0; i < (int)top.pixels.size(); i++) {
+        result.pixels[i].r = (unsigned char)((top.pixels[i].r / 255.0f) * (bottom.pixels[i].r / 255.0f) * 255.0f + 0.5f);
+        result.pixels[i].g = (unsigned char)((top.pixels[i].g / 255.0f) * (bottom.pixels[i].g / 255.0f) * 255.0f + 0.5f);
+        result.pixels[i].b = (unsigned char)((top.pixels[i].b / 255.0f) * (bottom.pixels[i].b / 255.0f) * 255.0f + 0.5f);
     }
-    while ((int)result.size() <= level) {
-        result.push_back({});
-    }
-    if (root->data.country == searchCountry) {
-        result[level].push_back(root->data);
-    }
-    breadthfirstSearch(root->left, level + 1, result, searchCountry);
-    breadthfirstSearch(root->right, level + 1, result, searchCountry);
-}
-
-vector<vector<Billionaire>> breadthfirstSearch(Node* root, string searchCountry) {
-    vector<vector<Billionaire>> result;
-    breadthfirstSearch(root, 0, result, searchCountry);
     return result;
 }
 
-void depthfirstSearch(Node* root, string searchCountry, vector<Billionaire>& result) {
-    if (root == nullptr) {
-        return;
+Image subtract(const Image& top, const Image& bottom) {
+    Image result = top;
+    for (int i = 0; i < (int)top.pixels.size(); i++) {
+        result.pixels[i].r = clamp((int)top.pixels[i].r - (int)bottom.pixels[i].r);
+        result.pixels[i].g = clamp((int)top.pixels[i].g - (int)bottom.pixels[i].g);
+        result.pixels[i].b = clamp((int)top.pixels[i].b - (int)bottom.pixels[i].b);
     }
-    if (root->data.country == searchCountry) {
-        result.push_back(root->data);
-    }
-    depthfirstSearch(root->left, searchCountry, result);
-    depthfirstSearch(root->right, searchCountry, result);
+    return result;
 }
 
-vector<Billionaire> depthfirstSearch(Node* root, string searchCountry) {
-    vector<Billionaire> result;
-    depthfirstSearch(root, searchCountry, result);
+Image screen(const Image& top, const Image& bottom) {
+    Image result = top;
+    for (int i = 0; i < (int)top.pixels.size(); i++) {
+        float nr = top.pixels[i].r / 255.0f;
+        float ng = top.pixels[i].g / 255.0f;
+        float nb = top.pixels[i].b / 255.0f;
+        float br = bottom.pixels[i].r / 255.0f;
+        float bg = bottom.pixels[i].g / 255.0f;
+        float bb = bottom.pixels[i].b / 255.0f;
+        result.pixels[i].r = (unsigned char)((1.0f - (1.0f - nr) * (1.0f - br)) * 255.0f + 0.5f);
+        result.pixels[i].g = (unsigned char)((1.0f - (1.0f - ng) * (1.0f - bg)) * 255.0f + 0.5f);
+        result.pixels[i].b = (unsigned char)((1.0f - (1.0f - nb) * (1.0f - bb)) * 255.0f + 0.5f);
+    }
+    return result;
+}
+
+Image overlay(const Image& top, const Image& bottom) {
+    Image result = top;
+    for (int i = 0; i < (int)top.pixels.size(); i++) {
+        float nr = top.pixels[i].r / 255.0f;
+        float ng = top.pixels[i].g / 255.0f;
+        float nb = top.pixels[i].b / 255.0f;
+        float br = bottom.pixels[i].r / 255.0f;
+        float bg = bottom.pixels[i].g / 255.0f;
+        float bb = bottom.pixels[i].b / 255.0f;
+
+        if (br <= 0.5f)
+            result.pixels[i].r = (unsigned char)(2.0f * nr * br * 255.0f + 0.5f);
+        else
+            result.pixels[i].r = (unsigned char)((1.0f - 2.0f * (1.0f - nr) * (1.0f - br)) * 255.0f + 0.5f);
+
+        if (bg <= 0.5f)
+            result.pixels[i].g = (unsigned char)(2.0f * ng * bg * 255.0f + 0.5f);
+        else
+            result.pixels[i].g = (unsigned char)((1.0f - 2.0f * (1.0f - ng) * (1.0f - bg)) * 255.0f + 0.5f);
+
+        if (bb <= 0.5f)
+            result.pixels[i].b = (unsigned char)(2.0f * nb * bb * 255.0f + 0.5f);
+        else
+            result.pixels[i].b = (unsigned char)((1.0f - 2.0f * (1.0f - nb) * (1.0f - bb)) * 255.0f + 0.5f);
+    }
+    return result;
+}
+
+Image addChannel(const Image& img, int addR, int addG, int addB) {
+    Image result = img;
+    for (int i = 0; i < (int)img.pixels.size(); i++) {
+        result.pixels[i].r = clamp((int)img.pixels[i].r + addR);
+        result.pixels[i].g = clamp((int)img.pixels[i].g + addG);
+        result.pixels[i].b = clamp((int)img.pixels[i].b + addB);
+    }
+    return result;
+}
+
+Image scaleChannel(const Image& img, int scaleR, int scaleG, int scaleB) {
+    Image result = img;
+    for (int i = 0; i < (int)img.pixels.size(); i++) {
+        result.pixels[i].r = clamp((int)img.pixels[i].r * scaleR);
+        result.pixels[i].g = clamp((int)img.pixels[i].g * scaleG);
+        result.pixels[i].b = clamp((int)img.pixels[i].b * scaleB);
+    }
+    return result;
+}
+
+Image flip(const Image& img) {
+    Image result = img;
+    int n = img.pixels.size();
+    for (int i = 0; i < n; i++)
+        result.pixels[i] = img.pixels[n - 1 - i];
     return result;
 }
 
 int main() {
-    cout << "--- LOADING REAL DATASET ---\n";
-    vector<Billionaire> database = loadBillionaireData("billionaires_corrected.txt");
-
-    if (database.empty()) {
-        cout << "Error: Database is empty. Could not load file.\n";
-        return 1;
+    {
+        Image layer1   = readImage("input/layer1.tga");
+        Image pattern1 = readImage("input/pattern1.tga");
+        Image result   = multiply(layer1, pattern1);
+        writeImage(result, "output/part1.tga");
     }
-
-    Node* root = nullptr;
-    for (const auto& b : database) {
-        root = insert(root, b);
+    {
+        Image layer2 = readImage("input/layer2.tga");
+        Image car    = readImage("input/car.tga");
+        Image result = subtract(car, layer2);
+        writeImage(result, "output/part2.tga");
     }
-    cout << "Successfully inserted " << database.size() << " records into the Binary Search Tree!\n";
-
-    Billionaire targetTest = database[0];
-    string targetCountry = targetTest.country;
-
-    cout << "\n--- RUNNING BFS TEST FOR COUNTRY: " << targetCountry << " ---\n";
-    vector<vector<Billionaire>> bfsResult = breadthfirstSearch(root, targetCountry);
-
-    for (int i = 0; i <= 2; ++i) {
-        cout << "\nLevel " << i << " Results:\n";
-
-        if (i >= bfsResult.size() || bfsResult[i].empty()) {
-            cout << " - No matching records found at this level.\n";
-        } else {
-            for (const auto& b : bfsResult[i]) {
-                cout << " - Found: " << b.name << " | Net Worth: $" << b.netWorth
-                     << "B | Company: " << b.company << "\n";
-            }
+    {
+        Image layer1   = readImage("input/layer1.tga");
+        Image pattern2 = readImage("input/pattern2.tga");
+        Image text     = readImage("input/text.tga");
+        Image temp     = multiply(layer1, pattern2);
+        Image result   = screen(temp, text);
+        writeImage(result, "output/part3.tga");
+    }
+    {
+        Image layer2   = readImage("input/layer2.tga");
+        Image circles  = readImage("input/circles.tga");
+        Image pattern2 = readImage("input/pattern2.tga");
+        Image temp     = multiply(layer2, circles);
+        Image result   = subtract(temp, pattern2);
+        writeImage(result, "output/part4.tga");
+    }
+    {
+        Image layer1   = readImage("input/layer1.tga");
+        Image pattern1 = readImage("input/pattern1.tga");
+        Image result   = overlay(layer1, pattern1);
+        writeImage(result, "output/part5.tga");
+    }
+    {
+        Image car    = readImage("input/car.tga");
+        Image result = addChannel(car, 0, 200, 0);
+        writeImage(result, "output/part6.tga");
+    }
+    {
+        Image car    = readImage("input/car.tga");
+        Image result = scaleChannel(car, 4, 1, 0);
+        writeImage(result, "output/part7.tga");
+    }
+    {
+        Image car = readImage("input/car.tga");
+        Image r = car, g = car, b = car;
+        for (int i = 0; i < (int)car.pixels.size(); i++) {
+            r.pixels[i].r = car.pixels[i].r;
+            r.pixels[i].g = car.pixels[i].r;
+            r.pixels[i].b = car.pixels[i].r;
+            g.pixels[i].r = car.pixels[i].g;
+            g.pixels[i].g = car.pixels[i].g;
+            g.pixels[i].b = car.pixels[i].g;
+            b.pixels[i].r = car.pixels[i].b;
+            b.pixels[i].g = car.pixels[i].b;
+            b.pixels[i].b = car.pixels[i].b;
         }
+        writeImage(r, "output/part8_r.tga");
+        writeImage(g, "output/part8_g.tga");
+        writeImage(b, "output/part8_b.tga");
+    }
+    {
+        Image layerR = readImage("input/layer_red.tga");
+        Image layerG = readImage("input/layer_green.tga");
+        Image layerB = readImage("input/layer_blue.tga");
+        Image result = layerR;
+        for (int i = 0; i < (int)result.pixels.size(); i++) {
+            result.pixels[i].r = layerR.pixels[i].r;
+            result.pixels[i].g = layerG.pixels[i].g;
+            result.pixels[i].b = layerB.pixels[i].b;
+        }
+        writeImage(result, "output/part9.tga");
+    }
+    {
+        Image text2  = readImage("input/text2.tga");
+        Image result = flip(text2);
+        writeImage(result, "output/part10.tga");
     }
 
     return 0;
